@@ -17,7 +17,7 @@ Papers are sorted by their uploaded dates in descending order.
 | 2018 | **Attack Graph Convolutional Networks by Adding Fake Nodes**  | Defense  | Node Classification   | GCN | Arxiv | [Link](https://arxiv.org/abs/1810.10751) |
 | 2018 | **Link Prediction Adversarial Attack**  | Attack  | Link Prediction   | GAE, GCN | Arxiv | [Link](https://arxiv.org/abs/1810.01110) |
 | 2018 | **Fast Gradient Attack on Network Embedding**  | Attack  | Node Classification   | GCN | Arxiv | [Link](https://arxiv.org/abs/1809.02797) |
-| 2018 | **Adversarial attacks on node embeddings**  | Attack  | Node Classification, Community Detection   | node2vec, DeepWalk, GCN, LINE | ICML 2019| [Link](https://arxiv.org/abs/1809.01093#) |
+| 2018 | **Adversarial Attacks on Node Embeddings**  | Attack  | Node Classification, Community Detection   | node2vec, DeepWalk, GCN, LINE | ICML 2019| [Link](https://arxiv.org/abs/1809.01093#) |
 | 2018 | **Characterizing Malicious Edges targeting on Graph Neural Networks**  | Defense  | Detected Added Edges   | GNN, GCN | OpenReview | [Link](https://openreview.net/forum?id=HJxdAoCcYX) |
 | 2018 | **Adversarial Attack on Graph Structured Data**  | Attack  | Node/Graph Classification   | GNN, GCN | ICML 2018 | [Link](https://arxiv.org/abs/1806.02371) |
 | 2018 | **Adversarial Attacks on Neural Networks for Graph Data**  | Attack  | Node Classification   | GCN | KDD 2018 | [Link](https://arxiv.org/abs/1805.07984) |
