@@ -11,8 +11,7 @@ Papers are sorted by their published dates in descending order.
 | 2019 | **Adversarial Examples on Graph Data: Deep Insights into Attack and Defense**  | Defense  | Node Classification   | GCN | IJCAI 2019 | [Link](https://arxiv.org/abs/1903.01610) |
 | 2019 | **Towards Data Poisoning Attack against Knowledge Graph Embedding**  | Defense  | Fact Plausibility Prediction   | TransE, TransR | IJCAI 2019 | [Link](https://arxiv.org/abs/1904.12052) |
 | 2019 | **Adversarial Defense Framework for Graph Neural Network**  | Defense  | Node Classification   | GCN, GraphSAGE | Arxiv | [Link](https://arxiv.org/abs/1905.03679) |
-| 2019 | **Investigating Robustness and Interpretability of Link Prediction
-via Adversarial Modifications**  | Defense  | Link Prediction   | Knowledge Graph Embedding | Arxiv | [Link](https://arxiv.org/abs/1905.00563) |
+| 2019 | **Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications**  | Defense  | Link Prediction   | Knowledge Graph Embedding | Arxiv | [Link](https://arxiv.org/abs/1905.00563) |
 | 2019 | **Robust Graph Convolutional Networks Against Adversarial Attacks**  | Defense  | Node Classification   | GCN | KDD 2019 | [Link](http://pengcui.thumedialab.com/papers/RGCN.pdf) |
 | 2018 | **Adversarial Attacks on Node Embeddings via Graph Poisoning**  | Attack  | Node Classification, Community Detection   | node2vec, DeepWalk, GCN, LINE | ICML 2019| [Link](https://arxiv.org/abs/1809.01093#) |
 | 2019 | **Can Adversarial Network Attack be Defended?**  | Defense  | Node Classification   | GNN | Arxiv | [Link](https://arxiv.org/abs/1903.05994) |
