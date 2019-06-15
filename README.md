@@ -8,7 +8,8 @@ Papers are sorted by their published dates in descending order.
 
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Link        |
 |-------|--------|--------|--------|-----------|------------|---------------|
-| 2019 | **Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective**  | Defense  |     | GNN | IJCAI 2019 | Link |
+| 2019 | **Certifiable Robustness and Robust Training for Graph Convolutional Networks**  | Defense  |     | GCN | KDD 2019 | Link |
+| 2019 | **Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective**  | Defense  |     | GNN | IJCAI 2019 | [Link](https://arxiv.org/abs/1906.04214) |
 | 2019 | **Adversarial Examples on Graph Data: Deep Insights into Attack and Defense**  | Defense  | Node Classification   | GCN | IJCAI 2019 | [Link](https://arxiv.org/abs/1903.01610) |
 | 2019 | **Towards Data Poisoning Attack against Knowledge Graph Embedding**  | Attack  | Fact Plausibility Prediction   | TransE, TransR | IJCAI 2019 | [Link](https://arxiv.org/abs/1904.12052) |
 | 2019 | **Adversarial Defense Framework for Graph Neural Network**  | Defense  | Node Classification   | GCN, GraphSAGE | Arxiv | [Link](https://arxiv.org/abs/1905.03679) |
