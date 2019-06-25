@@ -1,6 +1,6 @@
 # graph-adversarial-learning-literature
 
-A curated list of adversarial learning paper on graph-structured data.
+A curated list of adversarial learning papers on graph-structured data.
 
 Papers are sorted by their published dates in descending order.
 
