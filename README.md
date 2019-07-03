@@ -32,6 +32,7 @@ Papers are sorted by their published dates in descending order.
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2019 | **Certifiable Robustness and Robust Training for Graph Convolutional Networks**  | Defense  |     | GCN | KDD 2019 | Link |
 | 2019 | **Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective**  | Defense  |  Node Classification   | GNN | IJCAI 2019 | [Link](https://arxiv.org/abs/1906.04214) |
+| 2019 | **Power up! Robust Graph Convolutional Network against Evasion Attacks based on Graph Powering**  | Defense  |  Node Classification   | GCN | Arxiv | [Link](https://arxiv.org/abs/1905.10029) |
 | 2019 | **Adversarial Examples on Graph Data: Deep Insights into Attack and Defense**  | Defense  | Node Classification   | GCN | IJCAI 2019 | [Link](https://arxiv.org/abs/1903.01610) |
 | 2019 | **Adversarial Defense Framework for Graph Neural Network**  | Defense  | Node Classification   | GCN, GraphSAGE | Arxiv | [Link](https://arxiv.org/abs/1905.03679) |
 | 2019 | **Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications**  | Defense  | Link Prediction   | Knowledge Graph Embedding | Arxiv | [Link](https://arxiv.org/abs/1905.00563) |
