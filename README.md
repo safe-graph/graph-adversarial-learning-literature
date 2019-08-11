@@ -14,7 +14,7 @@ Papers are sorted by their published dates in descending order.
 | 2019 | **Generalizable Adversarial Attacks Using Generative Models**  | Attack  |  Node Classification   | GCN | Arxiv | [Link](https://arxiv.org/abs/1905.10864) |
 | 2019 | **Towards Data Poisoning Attack against Knowledge Graph Embedding**  | Attack  | Fact Plausibility Prediction   | TransE, TransR | IJCAI 2019 | [Link](https://arxiv.org/abs/1904.12052) |
 | 2018 | **Adversarial Attacks on Node Embeddings via Graph Poisoning**  | Attack  | Node Classification, Community Detection   | node2vec, DeepWalk, GCN, LINE | ICML 2019| [Link](https://arxiv.org/abs/1809.01093#) |
-| 2019 | **Attacking Graph-based Classification via Manipulating the Graph Structure**  | Attack  | Node Classification   | Belief Propagation, GCN | Arxiv | [Link](https://arxiv.org/abs/1903.00553) |
+| 2019 | **Attacking Graph-based Classification via Manipulating the Graph Structure**  | Attack  | Node Classification   | Belief Propagation, GCN | CCS 2019 | [Link](https://arxiv.org/abs/1903.00553) |
 | 2019 | **Adversarial Attacks on Graph Neural Networks via Meta Learning**  | Attack  | Node Classification   | GCN, CLN, DeepWalk | ICLR 2019 | [Link](https://arxiv.org/abs/1902.08412) |
 | 2018 | **GA Based Q-Attack on Community Detection**  | Attack  | Community Detection   | Modularity, Community Detection Alg | Arxiv| [Link](https://arxiv.org/abs/1811.00430) |
 | 2018 | **Data Poisoning Attack against Unsupervised Node Embedding Methods**  | Attack  | Link Prediction   | LINE, DeepWalk | Arxiv| [Link](https://arxiv.org/abs/1810.12881) |
