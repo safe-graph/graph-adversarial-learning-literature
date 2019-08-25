@@ -30,6 +30,7 @@ Papers are sorted by their published dates in descending order.
 ### Defense
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Link        |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2019 | **Robust Graph Neural Network Against Poisoning Attacks via Transfer Learning**  | Defense  |  Node Classification   | GNN | Arxiv | [Link](https://arxiv.org/abs/1908.07558) |
 | 2019 | **Certifiable Robustness and Robust Training for Graph Convolutional Networks**  | Defense  |  Node Classification   | GCN | KDD 2019 | [Link](https://arxiv.org/abs/1906.12269) |
 | 2019 | **Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective**  | Defense  |  Node Classification   | GNN | IJCAI 2019 | [Link](https://arxiv.org/abs/1906.04214) |
 | 2019 | **Power up! Robust Graph Convolutional Network against Evasion Attacks based on Graph Powering**  | Defense  |  Node Classification   | GCN | Arxiv | [Link](https://arxiv.org/abs/1905.10029) |
