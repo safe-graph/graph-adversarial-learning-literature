@@ -2,7 +2,7 @@
 
 A curated list of adversarial learning papers on graph-structured data.
 
-Papers are sorted by their published dates in descending order.
+Papers are sorted by their uploaded dates in descending order.
 
 ## Papers
 
