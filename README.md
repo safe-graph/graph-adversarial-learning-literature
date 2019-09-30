@@ -9,15 +9,17 @@ Papers are sorted by their uploaded dates in descending order.
 ### Attack
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Link        |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2019 | **A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning**  | Attack  |  Node Classification   | GCN | NeurIPS 2019 | Link |
+| 2019 | **Attacking Graph Convolutional Networks via Rewiring**  | Attack  |  Node Classification   | GCN | ICLR 2020 Openreview | [Link](https://openreview.net/pdf?id=B1eXygBFPH) |
+| 2019 | **Node Injection Attacks on Graphs via Reinforcement Learning**  | Attack  |  Node Classification    | GCN | Arxiv | [Link](https://arxiv.org/abs/1909.06543) |
 | 2019 | **A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models**  | Attack  |  Node Classification   | GCN, SGC | Arxiv | [Link](https://arxiv.org/abs/1908.01297) |
-| 2019 | **Attacking Graph Convolutional Networks via Rewiring**  | Attack  |  Node Classification   | GCN | Arxiv | [Link](https://arxiv.org/abs/1906.03750) |
 | 2019 | **Unsupervised Euclidean Distance Attack on Network Embedding**  | Attack  |  Node Embedding   | GCN | Arxiv | [Link](https://arxiv.org/abs/1905.11015) |
 | 2019 | **Generalizable Adversarial Attacks Using Generative Models**  | Attack  |  Node Classification   | GCN | Arxiv | [Link](https://arxiv.org/abs/1905.10864) |
 | 2019 | **Towards Data Poisoning Attack against Knowledge Graph Embedding**  | Attack  | Fact Plausibility Prediction   | TransE, TransR | IJCAI 2019 | [Link](https://arxiv.org/abs/1904.12052) |
 | 2018 | **Adversarial Attacks on Node Embeddings via Graph Poisoning**  | Attack  | Node Classification, Community Detection   | node2vec, DeepWalk, GCN, LINE | ICML 2019| [Link](https://arxiv.org/abs/1809.01093#) |
 | 2019 | **Attacking Graph-based Classification via Manipulating the Graph Structure**  | Attack  | Node Classification   | Belief Propagation, GCN | CCS 2019 | [Link](https://arxiv.org/abs/1903.00553) |
 | 2019 | **Adversarial Attacks on Graph Neural Networks via Meta Learning**  | Attack  | Node Classification   | GCN, CLN, DeepWalk | ICLR 2019 | [Link](https://arxiv.org/abs/1902.08412) |
-| 2018 | **GA Based Q-Attack on Community Detection**  | Attack  | Community Detection   | Modularity, Community Detection Alg | Arxiv| [Link](https://arxiv.org/abs/1811.00430) |
+| 2018 | **GA Based Q-Attack on Community Detection**  | Attack  | Community Detection   | Modularity, Community Detection Alg | IEEE TCSS| [Link](https://ieeexplore.ieee.org/abstract/document/8714065) |
 | 2018 | **Data Poisoning Attack against Unsupervised Node Embedding Methods**  | Attack  | Link Prediction   | LINE, DeepWalk | Arxiv| [Link](https://arxiv.org/abs/1810.12881) |
 | 2018 | **Attack Graph Convolutional Networks by Adding Fake Nodes**  | Attack  | Node Classification   | GCN | Arxiv | [Link](https://arxiv.org/abs/1810.10751) |
 | 2018 | **Link Prediction Adversarial Attack**  | Attack  | Link Prediction   | GAE, GCN | Arxiv | [Link](https://arxiv.org/abs/1810.01110) |
@@ -31,10 +33,13 @@ Papers are sorted by their uploaded dates in descending order.
 ### Defense
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Link        |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2019 | **Certifiable Robustness to Graph Perturbations**  | Defense  |  Node Classification   | GCN | NeurIPS 2019 | Link |
+| 2019 | **Power up! Robust Graph Convolutional Network based on Graph Powering**  | Defense  |  Node Classification   | GCN | ICLR 2020 Openreview | [Link](https://openreview.net/pdf?id=BkxDxJHFDr) |
+| 2019 | **Adversarial Robustness of Similarity-Based Link Prediction**  | Defense  |  Link Prediction   | local similarity metrics | ICDM 2019 | [Link](https://arxiv.org/abs/1909.01432) |
 | 2019 | **Robust Graph Neural Network Against Poisoning Attacks via Transfer Learning**  | Defense  |  Node Classification   | GNN | Arxiv | [Link](https://arxiv.org/abs/1908.07558) |
+| 2019 | **Improving Robustness to Attacks Against Vertex Classification**  | Defense  |  Node Classification   | GCN | KDD Workshop 2019 | [Link](http://eliassi.org/papers/benmiller-mlg2019.pdf) |
 | 2019 | **Certifiable Robustness and Robust Training for Graph Convolutional Networks**  | Defense  |  Node Classification   | GCN | KDD 2019 | [Link](https://arxiv.org/abs/1906.12269) |
 | 2019 | **Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective**  | Defense  |  Node Classification   | GNN | IJCAI 2019 | [Link](https://arxiv.org/abs/1906.04214) |
-| 2019 | **Power up! Robust Graph Convolutional Network against Evasion Attacks based on Graph Powering**  | Defense  |  Node Classification   | GCN | Arxiv | [Link](https://arxiv.org/abs/1905.10029) |
 | 2019 | **Adversarial Examples on Graph Data: Deep Insights into Attack and Defense**  | Defense  | Node Classification   | GCN | IJCAI 2019 | [Link](https://arxiv.org/abs/1903.01610) |
 | 2019 | **Adversarial Defense Framework for Graph Neural Network**  | Defense  | Node Classification   | GCN, GraphSAGE | Arxiv | [Link](https://arxiv.org/abs/1905.03679) |
 | 2019 | **Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications**  | Defense  | Link Prediction   | Knowledge Graph Embedding | Arxiv | [Link](https://arxiv.org/abs/1905.00563) |
