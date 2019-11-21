@@ -1,4 +1,4 @@
-# graph-adversarial-learning-literature
+# Graph Adversarial Learning Literature
 
 A curated list of adversarial learning papers on graph-structured data.
 
