@@ -10,6 +10,7 @@ Papers are sorted by their uploaded dates in descending order.
 ### Attack
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Link        |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2019 | **Time-aware Gradient Attack on Dynamic Network Link Prediction**  | Defense  | Link Prediction  | Dynamic Network Embedding Algs | Arxiv | [Link](https://arxiv.org/abs/1911.10561) |
 | 2019 | **Multiscale Evolutionary Perturbation Attack on Community Detection**  | Attack  |  Community Detection   | Community Metrics | Arxiv | [Link](https://arxiv.org/abs/1910.09741) |
 | 2019 | **A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning**  | Attack  | Regression, Classification  | Label Propagation, Manifold Regularization | NeurIPS 2019 | [Link](https://papers.nips.cc/paper/9171-a-unified-framework-for-data-poisoning-attack-to-graph-based-semi-supervised-learning.pdf) |
 | 2019 | **Attacking Graph Convolutional Networks via Rewiring**  | Attack  |  Node Classification   | GCN | ICLR 2020 Openreview | [Link](https://openreview.net/pdf?id=B1eXygBFPH) |
@@ -36,6 +37,7 @@ Papers are sorted by their uploaded dates in descending order.
 ### Defense
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Link        |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2019 | **GraphDefense: Towards Robust Graph Convolutional Networks**  | Defense  |  Node Classification | GCN | Arxiv | [Link](https://arxiv.org/abs/1911.04429) |
 | 2019 | **All You Need is Low (Rank): Defending Against Adversarial Attacks on Graphs**  | Defense  |   |  | WSDM 2020 | Link |
 | 2019 | **αCyber: Enhancing Robustness of Android Malware Detection System against Adversarial Attacks on Heterogeneous Graph based Model**  | Defense  | Malware Detection  | HIN | CIKM 2019 | [Link](https://dl.acm.org/citation.cfm?id=3357875) |
 | 2019 | **Edge Dithering for Robust Adaptive Graph Convolutional Networks**  | Defense  |  Node Classification   | GCN | Arxiv | [Link](https://arxiv.org/abs/1910.09590) |
