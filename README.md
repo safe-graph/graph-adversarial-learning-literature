@@ -14,7 +14,7 @@ Papers are sorted by their uploaded dates in descending order.
 | 2019 | **Time-aware Gradient Attack on Dynamic Network Link Prediction**  | Attack  | Link Prediction  | Dynamic Network Embedding Algs | Arxiv | [Link](https://arxiv.org/abs/1911.10561) |
 | 2019 | **Multiscale Evolutionary Perturbation Attack on Community Detection**  | Attack  |  Community Detection   | Community Metrics | Arxiv | [Link](https://arxiv.org/abs/1910.09741) |
 | 2019 | **A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning**  | Attack  | Regression, Classification  | Label Propagation, Manifold Regularization | NeurIPS 2019 | [Link](https://papers.nips.cc/paper/9171-a-unified-framework-for-data-poisoning-attack-to-graph-based-semi-supervised-learning.pdf) |
-| 2019 | **Attacking Graph Convolutional Networks via Rewiring**  | Attack  |  Node Classification   | GCN | ICLR 2020 Openreview | [Link](https://openreview.net/pdf?id=B1eXygBFPH) |
+| 2019 | **Attacking Graph Convolutional Networks via Rewiring**  | Attack  |  Node Classification   | GCN | Openreview | [Link](https://openreview.net/pdf?id=B1eXygBFPH) |
 | 2019 | **Node Injection Attacks on Graphs via Reinforcement Learning**  | Attack  |  Node Classification    | GCN | Arxiv | [Link](https://arxiv.org/abs/1909.06543) |
 | 2019 | **Unsupervised Euclidean Distance Attack on Network Embedding**  | Attack  |  Node Embedding   | GCN | Arxiv | [Link](https://arxiv.org/abs/1905.11015) |
 | 2019 | **Generalizable Adversarial Attacks Using Generative Models**  | Attack  |  Node Classification   | GCN | Arxiv | [Link](https://arxiv.org/abs/1905.10864) |
@@ -43,7 +43,7 @@ Papers are sorted by their uploaded dates in descending order.
 | 2019 | **Edge Dithering for Robust Adaptive Graph Convolutional Networks**  | Defense  |  Node Classification   | GCN | Arxiv | [Link](https://arxiv.org/abs/1910.09590) |
 | 2019 | **GraphSAC: Detecting anomalies in large-scale graphs**  | Defense  |  Anomaly Detection   | Anomaly Detection Algs | Arxiv | [Link](https://arxiv.org/abs/1910.09589) |
 | 2019 | **Certifiable Robustness to Graph Perturbations**  | Defense  | Node Classification  | GNN | NeurIPS 2019 | [Link](https://papers.nips.cc/paper/9041-certifiable-robustness-to-graph-perturbations.pdf) |
-| 2019 | **Power up! Robust Graph Convolutional Network based on Graph Powering**  | Defense  |  Node Classification   | GCN | ICLR 2020 Openreview | [Link](https://openreview.net/pdf?id=BkxDxJHFDr) |
+| 2019 | **Power up! Robust Graph Convolutional Network based on Graph Powering**  | Defense  |  Node Classification   | GCN | Openreview | [Link](https://openreview.net/pdf?id=BkxDxJHFDr) |
 | 2019 | **Adversarial Robustness of Similarity-Based Link Prediction**  | Defense  |  Link Prediction   | local similarity metrics | ICDM 2019 | [Link](https://arxiv.org/abs/1909.01432) |
 | 2019 | **Transferring Robustness for Graph Neural Network Against Poisoning Attacks**  | Defense  |  Node Classification   | GNN | WSDM 2020 | [Link](https://arxiv.org/abs/1908.07558) |
 | 2019 | **Improving Robustness to Attacks Against Vertex Classification**  | Defense  |  Node Classification   | GCN | KDD Workshop 2019 | [Link](http://eliassi.org/papers/benmiller-mlg2019.pdf) |
@@ -57,7 +57,7 @@ Papers are sorted by their uploaded dates in descending order.
 | 2019 | **Virtual Adversarial Training on Graph Convolutional Networks in Node Classification**  | Defense  | Node Classification   | GCN | PRCV | [Link](https://arxiv.org/abs/1902.11045) |
 | 2019 | **Comparing and Detecting Adversarial Attacks for Graph Deep Learning**  | Defense | Node Classification  | GCN, GAT, Nettack | RLGM@ICLR 2019 | [Link](https://rlgm.github.io/papers/57.pdf) |
 | 2019 | **Graph Adversarial Training: Dynamically Regularizing Based on Graph Structure**  | Defense  | Node Classification   | GCN | Arxiv | [Link](https://arxiv.org/abs/1902.08226) |
-| 2018 | **Characterizing Malicious Edges targeting on Graph Neural Networks**  | Defense  | Detected Added Edges   | GNN, GCN | ICLR 2019 OpenReview | [Link](https://openreview.net/forum?id=HJxdAoCcYX) |
+| 2018 | **Characterizing Malicious Edges targeting on Graph Neural Networks**  | Defense  | Detected Added Edges   | GNN, GCN |  OpenReview | [Link](https://openreview.net/forum?id=HJxdAoCcYX) |
 
 
 ## Survey
