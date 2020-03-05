@@ -9,7 +9,7 @@ Papers are sorted by their uploaded dates in descending order.
 
 ### Attack
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Link        |  Code      |
-|-------|--------|--------|--------|-----------|------------|---------------|
+|-------|--------|--------|--------|-----------|------------|---------------|---------|
 | 2020 | **Graph Universal Adversarial Attacks: A Few Bad Actors Ruin Graph Learning Models**  | Attack  |  Node Classification | GCN | Arxiv | [Link](https://arxiv.org/abs/2002.04784) |     |
 | 2020 | **Adversarial Attacks to Scale-Free Networks: Testing the Robustness of Physical Criteria**  | Attack  | Network Structure  | Physical Criteria | Arxiv | [Link](https://arxiv.org/abs/2002.01249) |      |
 | 2020 | **Adversarial Attack on Community Detection by Hiding Individuals**  | Attack  |  Community Detection  | GCN | WWW 2020 | [Link](https://arxiv.org/abs/2001.07933) | |
