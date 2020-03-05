@@ -39,7 +39,7 @@ Papers are sorted by their uploaded dates in descending order.
 
 ### Defense
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Link        |  Code |
-|-------|--------|--------|--------|-----------|------------|---------------|
+|-------|--------|--------|--------|-----------|------------|---------------|-------|
 | 2020 | **Certified Robustness of Community Detection against Adversarial Structural Perturbation via Randomized Smoothing**  | Defense  |  Community Detection  | Community Detection Algs | WWW 2020 | [Link](https://arxiv.org/abs/2002.03421) |      |
 | 2019 | **How Robust Are Graph Neural Networks to Structural Noise?**  | Defense  |  Node Structural Identity Prediction | GIN | Arxiv | [Link](https://arxiv.org/abs/1912.10206) |      |
 | 2019 | **GraphDefense: Towards Robust Graph Convolutional Networks**  | Defense  |  Node Classification | GCN | Arxiv | [Link](https://arxiv.org/abs/1911.04429) |     |
