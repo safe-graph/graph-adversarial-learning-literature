@@ -15,6 +15,7 @@ Papers are sorted by their uploaded dates in descending order.
 | 2020 | **Adversarial Attack on Community Detection by Hiding Individuals**  | Attack  |  Community Detection  | GCN | WWW 2020 | [Link](https://arxiv.org/abs/2001.07933) | |
 | 2019 | **A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models**  | Attack  |  Node Classification   | GCN, SGC | AAAI 2020 | [Link](https://arxiv.org/abs/1908.01297) |  [Link](https://github.com/SwiftieH/GFAttack)   |
 | 2019 | **Time-aware Gradient Attack on Dynamic Network Link Prediction**  | Attack  | Link Prediction  | Dynamic Network Embedding Algs | Arxiv | [Link](https://arxiv.org/abs/1911.10561) |     |
+| 2019 | **Manipulating Node Similarity Measures in Networks**  | Attack  | Node Similarity   | Node Similarity Measures | AAMAS 2020 | [Link](https://arxiv.org/abs/1910.11529) | |
 | 2019 | **Multiscale Evolutionary Perturbation Attack on Community Detection**  | Attack  |  Community Detection   | Community Metrics | Arxiv | [Link](https://arxiv.org/abs/1910.09741) | |
 | 2019 | **Attacking Graph Convolutional Networks via Rewiring**  | Attack  |  Node Classification   | GCN | Openreview | [Link](https://openreview.net/pdf?id=B1eXygBFPH) |   |
 | 2019 | **Node Injection Attacks on Graphs via Reinforcement Learning**  | Attack  |  Node Classification    | GCN | Arxiv | [Link](https://arxiv.org/abs/1909.06543) |     |
