@@ -11,7 +11,7 @@ Papers are sorted by their uploaded dates in descending order.
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Link        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
 | 2020 | **MGA: Momentum Gradient Attack on Network**  | Attack  |  Node Classification, Community Detection | GCN, DeepWalk, node2vec | Arxiv | [Link](https://arxiv.org/abs/2002.11320) |     |
-| 2020 | **Graph Universal Adversarial Attacks: A Few Bad Actors Ruin Graph Learning Models**  | Attack  |  Node Classification | GCN | Arxiv | [Link](https://arxiv.org/abs/2002.04784) |     |
+| 2020 | **Graph Universal Adversarial Attacks: A Few Bad Actors Ruin Graph Learning Models**  | Attack  |  Node Classification | GCN | Arxiv | [Link](https://arxiv.org/abs/2002.04784) |   [Link](https://github.com/chisam0217/Graph-Universal-Attack)  |
 | 2020 | **Adversarial Attacks to Scale-Free Networks: Testing the Robustness of Physical Criteria**  | Attack  | Network Structure  | Physical Criteria | Arxiv | [Link](https://arxiv.org/abs/2002.01249) |      |
 | 2020 | **Adversarial Attack on Community Detection by Hiding Individuals**  | Attack  |  Community Detection  | GCN | WWW 2020 | [Link](https://arxiv.org/abs/2001.07933) | |
 | 2019 | **A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models**  | Attack  |  Node Classification   | GCN, SGC | AAAI 2020 | [Link](https://arxiv.org/abs/1908.01297) |  [Link](https://github.com/SwiftieH/GFAttack)   |
