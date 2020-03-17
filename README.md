@@ -5,6 +5,18 @@ A curated list of adversarial attacks and defenses papers on graph-structured da
 
 Papers are sorted by their uploaded dates in descending order.
 
+## Survey
+**Adversarial Attack and Defense on Graph Data: A Survey** ([Link](https://arxiv.org/abs/1812.10528))
+
+```
+@article{sun2018adversarial,
+  title={Adversarial Attack and Defense on Graph Data: A Survey},
+  author={Sun, Lichao and Wang, Ji and Yu, Philip S and Li, Bo},
+  journal={arXiv preprint arXiv:1812.10528},
+  year={2018}
+}
+```
+
 ## Papers
 
 ### Attack
@@ -68,15 +80,3 @@ Papers are sorted by their uploaded dates in descending order.
 | 2019 | **Graph Adversarial Training: Dynamically Regularizing Based on Graph Structure**  | Defense  | Node Classification   | GCN | TKDE | [Link](https://arxiv.org/abs/1902.08226) |   [Link](https://github.com/fulifeng/GraphAT)   |
 | 2018 | **Characterizing Malicious Edges targeting on Graph Neural Networks**  | Defense  | Detected Added Edges   | GNN, GCN |  OpenReview | [Link](https://openreview.net/forum?id=HJxdAoCcYX) |       |
 | 2017 | **Adversarial Sets for Regularising Neural Link Predictors**  | Attack  | Link Prediction   | Knowledge Graph Embeddings | UAI 2017 | [Link](https://arxiv.org/abs/1707.07596) |   [Link](https://github.com/uclmr/inferbeddings)    |
-
-## Survey
-**Adversarial Attack and Defense on Graph Data: A Survey** ([Link](https://arxiv.org/abs/1812.10528))
-
-```
-@article{sun2018adversarial,
-  title={Adversarial Attack and Defense on Graph Data: A Survey},
-  author={Sun, Lichao and Wang, Ji and Yu, Philip S and Li, Bo},
-  journal={arXiv preprint arXiv:1812.10528},
-  year={2018}
-}
-```
