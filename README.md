@@ -5,7 +5,8 @@ A curated list of adversarial attacks and defenses papers on graph-structured da
 
 Papers are sorted by their uploaded dates in descending order.
 
-## Survey
+If you feel this repo is helpful, please cite the survey below.
+
 **Adversarial Attack and Defense on Graph Data: A Survey** ([Link](https://arxiv.org/abs/1812.10528))
 
 ```
