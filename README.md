@@ -7,7 +7,7 @@ Papers are sorted by their uploaded dates in descending order.
 
 If you feel this repo is helpful, please cite the survey below.
 
-[**Adversarial Attack and Defense on Graph Data: A Survey** ](https://arxiv.org/abs/1812.10528))
+[**Adversarial Attack and Defense on Graph Data: A Survey** ](https://arxiv.org/abs/1812.10528)
 
 ```
 @article{sun2018adversarial,
