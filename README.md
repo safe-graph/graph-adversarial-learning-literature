@@ -53,6 +53,7 @@ If you feel this repo is helpful, please cite the survey below.
 | 2018 | **Fast Gradient Attack on Network Embedding**  | Attack  | Node Classification   | GCN | Arxiv | [Link](https://arxiv.org/abs/1809.02797) |     |
 | 2018 | **Adversarial Attack on Graph Structured Data**  | Attack  | Node/Graph Classification   | GNN, GCN | ICML 2018 | [Link](https://arxiv.org/abs/1806.02371) |  [Link](https://github.com/Hanjun-Dai/graph_adversarial_attack)   |
 | 2018 | **Adversarial Attacks on Neural Networks for Graph Data**  | Attack  | Node Classification   | GCN | KDD 2018 | [Link](https://arxiv.org/abs/1805.07984) | [Link](https://github.com/danielzuegner/nettack) |
+| 2018 | **Hiding individuals and communities in a social network**  | Attack  | Community Detection   | Community Detection Algs | Nature Human Behavior | [Link](https://arxiv.org/abs/1608.00375) |     |
 | 2017 | **Practical Attacks Against Graph-based Clustering**  | Attack  | Graph Clustering   | SVD, node2vec, Community Detection Alg | CCS 2017| [Link](https://arxiv.org/abs/1708.09056) |      |
 | 2017 | **Adversarial Sets for Regularising Neural Link Predictors**  | Attack  | Link Prediction   | Knowledge Graph Embeddings | UAI 2017 | [Link](https://arxiv.org/abs/1707.07596) |  [Link](https://github.com/uclmr/inferbeddings)   |
 
