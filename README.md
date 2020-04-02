@@ -5,18 +5,21 @@ A curated list of adversarial attacks and defenses papers on graph-structured da
 
 Papers are sorted by their uploaded dates in descending order.
 
-If you feel this repo is helpful, please cite the survey below.
+This weekly-updated list serves as a complement of the survey below.
 
-[**Adversarial Attack and Defense on Graph Data: A Survey** ](https://arxiv.org/abs/1812.10528)
+[**Adversarial Attack and Defense on Graph Data: A Survey** ](https://arxiv.org/abs/1812.10528) **(Updated in April 2020. 35 attack papers and 30 defense papers.)**
 
 ```
 @article{sun2018adversarial,
   title={Adversarial Attack and Defense on Graph Data: A Survey},
-  author={Sun, Lichao and Wang, Ji and Yu, Philip S and Li, Bo},
+  author={Lichao Sun and Yingtong Dou and Carl Yang and Ji Wang and Philip S. Yu and Bo Li},
   journal={arXiv preprint arXiv:1812.10528},
   year={2018}
 }
 ```
+
+If you feel this repo is helpful, please cite the survey above.
+
 
 ## Papers
 
