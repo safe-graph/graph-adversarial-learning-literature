@@ -7,7 +7,7 @@ Papers are sorted by their uploaded dates in descending order.
 
 This weekly-updated list serves as a complement of the survey below.
 
-[**Adversarial Attack and Defense on Graph Data: A Survey** ](https://arxiv.org/abs/1812.10528) **(Updated in April 2020. 35 attack papers and 30 defense papers.)**
+[**Adversarial Attack and Defense on Graph Data: A Survey** ](https://arxiv.org/abs/1812.10528) **(Updated in April 2020. 35 attack papers and 30 defense papers).**
 
 ```
 @article{sun2018adversarial,
