@@ -26,7 +26,7 @@ If you feel this repo is helpful, please cite the survey above.
 ### Attack
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Link        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
-| 2020 | **Adversarial Perturbations of Opinion Dynamics in Networks**  | Attack  |  Manipulting Opinion  | Graph Model | Arxiv | [Link](https://arxiv.org/abs/2003.07010) | |
+| 2020 | **Adversarial Perturbations of Opinion Dynamics in Networks**  | Attack  |  Manipulating Opinion  | Graph Model | Arxiv | [Link](https://arxiv.org/abs/2003.07010) | |
 | 2020 | **Non-target-specific Node Injection Attacks on Graph Neural Networks: A Hierarchical Reinforcement Learning Approach**  | Attack  |  Node Classification  | GCN | WWW 2020 | [Link](https://faculty.ist.psu.edu/vhonavar/Papers/www20.pdf) | |
 | 2020 | **MGA: Momentum Gradient Attack on Network**  | Attack  |  Node Classification, Community Detection | GCN, DeepWalk, node2vec | Arxiv | [Link](https://arxiv.org/abs/2002.11320) |     |
 | 2020 | **Indirect Adversarial Attacks via Poisoning Neighbors for Graph Convolutional Networks**  | Attack  |  Node Classification | GCN | BigData 2019 | [Link](https://arxiv.org/abs/2002.08012) |    |
