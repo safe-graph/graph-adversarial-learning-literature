@@ -26,6 +26,7 @@ If you feel this repo is helpful, please cite the survey above.
 ### Attack
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Link        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2020 | **Network disruption: maximizing disagreement and polarization in social networks**  | Attack  |  Manipulating Opinion  | Graph Model, Social Network | Arxiv | [Link](https://arxiv.org/abs/2003.08377) | |
 | 2020 | **Adversarial Perturbations of Opinion Dynamics in Networks**  | Attack  |  Manipulating Opinion  | Graph Model | Arxiv | [Link](https://arxiv.org/abs/2003.07010) | |
 | 2020 | **Non-target-specific Node Injection Attacks on Graph Neural Networks: A Hierarchical Reinforcement Learning Approach**  | Attack  |  Node Classification  | GCN | WWW 2020 | [Link](https://faculty.ist.psu.edu/vhonavar/Papers/www20.pdf) | |
 | 2020 | **MGA: Momentum Gradient Attack on Network**  | Attack  |  Node Classification, Community Detection | GCN, DeepWalk, node2vec | Arxiv | [Link](https://arxiv.org/abs/2002.11320) |     |
@@ -34,6 +35,7 @@ If you feel this repo is helpful, please cite the survey above.
 | 2020 | **Adversarial Attacks to Scale-Free Networks: Testing the Robustness of Physical Criteria**  | Attack  | Network Structure  | Physical Criteria | Arxiv | [Link](https://arxiv.org/abs/2002.01249) |      |
 | 2020 | **Adversarial Attack on Community Detection by Hiding Individuals**  | Attack  |  Community Detection  | GCN | WWW 2020 | [Link](https://arxiv.org/abs/2001.07933) | |
 | 2019 | **Time-aware Gradient Attack on Dynamic Network Link Prediction**  | Attack  | Link Prediction  | Dynamic Network Embedding Algs | Arxiv | [Link](https://arxiv.org/abs/1911.10561) |     |
+| 2019 | **A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning**  | Attack  |  Semi-supervised Learning   |  Label Propagation    | NeurIPS 2019 | [Link](https://arxiv.org/abs/1910.14147) |   |
 | 2019 | **Manipulating Node Similarity Measures in Networks**  | Attack  | Node Similarity   | Node Similarity Measures | AAMAS 2020 | [Link](https://arxiv.org/abs/1910.11529) | |
 | 2019 | **Multiscale Evolutionary Perturbation Attack on Community Detection**  | Attack  |  Community Detection   | Community Metrics | Arxiv | [Link](https://arxiv.org/abs/1910.09741) | |
 | 2019 | **Attacking Graph Convolutional Networks via Rewiring**  | Attack  |  Node Classification   | GCN | Openreview | [Link](https://openreview.net/pdf?id=B1eXygBFPH) |   |
@@ -65,6 +67,7 @@ If you feel this repo is helpful, please cite the survey above.
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
 | 2020 | **Tensor Graph Convolutional Networks for Multi-relational and Robust Learning**  | Defense  |  Node Classification | GCN | Arxiv | [Link](https://arxiv.org/abs/2003.07729) |     |
 | 2020 | **Topological Effects on Attacks Against Vertex Classification**  | Defense  |  Node Classification | GCN | Arxiv | [Link](https://arxiv.org/abs/2003.05822) |     |
+| 2020 | **Towards an Efficient and General Framework of Robust Training for Graph Neural Networks**  | Defense  |  Node Classification | GCN | ICASSP 2020 | [Link](https://arxiv.org/abs/2002.10947) |    |
 | 2020 | **Certified Robustness of Community Detection against Adversarial Structural Perturbation via Randomized Smoothing**  | Defense  |  Community Detection  | Community Detection Algs | WWW 2020 | [Link](https://arxiv.org/abs/2002.03421) |      |
 | 2019 | **How Robust Are Graph Neural Networks to Structural Noise?**  | Defense  |  Node Structural Identity Prediction | GIN | Arxiv | [Link](https://arxiv.org/abs/1912.10206) |      |
 | 2019 | **GraphDefense: Towards Robust Graph Convolutional Networks**  | Defense  |  Node Classification | GCN | Arxiv | [Link](https://arxiv.org/abs/1911.04429) |     |
