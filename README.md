@@ -12,7 +12,7 @@ This **weekly-updated** list serves as a complement of the survey below.
 ```
 @article{sun2018adversarial,
   title={Adversarial Attack and Defense on Graph Data: A Survey},
-  author={Sun, Lichao  and Dou, Yingtong  and Yang, Carl and Wang, Ji and Yu, Philip S. and Li, Bo},
+  author={Sun, Lichao and Dou, Yingtong and Yang, Carl and Wang, Ji and Yu, Philip S. and Li, Bo},
   journal={arXiv preprint arXiv:1812.10528},
   year={2018}
 }
