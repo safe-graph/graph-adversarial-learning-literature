@@ -27,6 +27,7 @@ If you feel this repo is helpful, please cite the survey above.
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
 | 2020 | **Robust Detection of Adaptive Spammers by Nash Reinforcement Learning**  | Attack  |  Fraud Detection  | Graph-based Fraud Detector | KDD 2020 |  | |
+| 2020 | **Adversarial Attacks on Graph Neural Networks: Perturbations and their Patterns**  | Attack  |   Node Classification   | GNN | TKDD |  | |
 | 2020 | **Stealing Links from Graph Neural Networks**  | Attack  |  Inferring Link  | GNN | Arxiv | [Link](https://arxiv.org/abs/2005.02131) | |
 | 2020 | **Scalable Attack on Graph Data by Injecting Vicious Nodes**  | Attack  |  Node Classification  | GCN | Arxiv | [Link](https://arxiv.org/abs/2004.13825) | |
 | 2020 | **Network disruption: maximizing disagreement and polarization in social networks**  | Attack  |  Manipulating Opinion  | Graph Model, Social Network | Arxiv | [Link](https://arxiv.org/abs/2003.08377) | |
@@ -36,7 +37,7 @@ If you feel this repo is helpful, please cite the survey above.
 | 2020 | **Indirect Adversarial Attacks via Poisoning Neighbors for Graph Convolutional Networks**  | Attack  |  Node Classification | GCN | BigData 2019 | [Link](https://arxiv.org/abs/2002.08012) |    |
 | 2020 | **Graph Universal Adversarial Attacks: A Few Bad Actors Ruin Graph Learning Models**  | Attack  |  Node Classification | GCN | Arxiv | [Link](https://arxiv.org/abs/2002.04784) |   [Link](https://github.com/chisam0217/Graph-Universal-Attack)  |
 | 2020 | **Adversarial Attacks to Scale-Free Networks: Testing the Robustness of Physical Criteria**  | Attack  | Network Structure  | Physical Criteria | Arxiv | [Link](https://arxiv.org/abs/2002.01249) |      |
-| 2020 | **Adversarial Attack on Community Detection by Hiding Individuals**  | Attack  |  Community Detection  | GCN | WWW 2020 | [Link](https://arxiv.org/abs/2001.07933) | |
+| 2020 | **Adversarial Attack on Community Detection by Hiding Individuals**  | Attack  |  Community Detection  | GCN | WWW 2020 | [Link](https://arxiv.org/abs/2001.07933) |[Link](https://github.com/halimiqi/CD-ATTACK) |
 | 2019 | **How Robust Are Graph Neural Networks to Structural Noise?**  | Attack  |  Node Structural Identity Prediction | GIN | Arxiv | [Link](https://arxiv.org/abs/1912.10206) |      |
 | 2019 | **Time-aware Gradient Attack on Dynamic Network Link Prediction**  | Attack  | Link Prediction  | Dynamic Network Embedding Algs | Arxiv | [Link](https://arxiv.org/abs/1911.10561) |     |
 | 2019 | **All You Need is Low (Rank): Defending Against Adversarial Attacks on Graphs**  | Attack  |  Node Classification | GCN, Tensor Embedding | WSDM 2020 | [Link](https://dl.acm.org/doi/abs/10.1145/3336191.3371789) | [Link](https://github.com/DSE-MSU/DeepRobust)    |
@@ -65,7 +66,7 @@ If you feel this repo is helpful, please cite the survey above.
 | 2018 | **Fast Gradient Attack on Network Embedding**  | Attack  | Node Classification   | GCN | Arxiv | [Link](https://arxiv.org/abs/1809.02797) |     |
 | 2018 | **Adversarial Attack on Graph Structured Data**  | Attack  | Node/Graph Classification   | GNN, GCN | ICML 2018 | [Link](https://arxiv.org/abs/1806.02371) |  [Link](https://github.com/Hanjun-Dai/graph_adversarial_attack)   |
 | 2018 | **Adversarial Attacks on Neural Networks for Graph Data**  | Attack  | Node Classification   | GCN | KDD 2018 | [Link](https://arxiv.org/abs/1805.07984) | [Link](https://github.com/danielzuegner/nettack) |
-| 2018 | **Hiding individuals and communities in a social network**  | Attack  | Community Detection   | Community Detection Algs | Nature Human Behavior | [Link](https://arxiv.org/abs/1608.00375) |     |
+| 2018 | **Hiding individuals and communities in a social network**  | Attack  | Community Detection   | Community Detection Algs | Nature Human Behavior | [Link](https://arxiv.org/abs/1608.00375) |  [Link](https://github.com/DSE-MSU/DeepRobust)   |
 | 2017 | **Practical Attacks Against Graph-based Clustering**  | Attack  | Graph Clustering   | SVD, node2vec, Community Detection Alg | CCS 2017| [Link](https://arxiv.org/abs/1708.09056) |      |
 | 2017 | **Adversarial Sets for Regularising Neural Link Predictors**  | Attack  | Link Prediction   | Knowledge Graph Embeddings | UAI 2017 | [Link](https://arxiv.org/abs/1707.07596) |  [Link](https://github.com/uclmr/inferbeddings)   |
 
@@ -73,6 +74,9 @@ If you feel this repo is helpful, please cite the survey above.
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
 | 2020 | **Robust Detection of Adaptive Spammers by Nash Reinforcement Learning**  | Defense  |  Fraud Detection  | Graph-based Fraud Detector | KDD 2020 |  | |
+| 2020 | **Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations**  | Defense  |  Node Classification  | GCN | KDD 2020 |  | |
+| 2020 | **Graph Structure Learning for Robust Graph Neural Networks**  | Defense  |  Node Classification  | GCN | KDD 2020 | [Link]() |[Link](https://github.com/DSE-MSU/DeepRobust) |
+| 2020 | **A Robust Hierarchical Graph Convolutional Network Model for Collaborative Filtering**  | Defense  |  Recommender System | GCN | Arxiv | [Link](https://arxiv.org/abs/2004.14734) |    |
 | 2020 | **On The Stability of Polynomial Spectral Graph Filters**  | Defense  |  Graph Property | Spectral Graph Filter | ICASSP 2020 | [Link](https://ieeexplore.ieee.org/abstract/document/9054072) |  [Link](https://github.com/henrykenlay/spgf)  |
 | 2020 | **On the Robustness of Cascade Diffusion under Node Attacks**  | Defense  |  Influence Maximization | IC Model | WWW 2020 Workshop | [Link](https://www.cs.au.dk/~karras/robustIC.pdf) |  [Link](https://github.com/allogn/robustness)   |
 | 2020 | **Tensor Graph Convolutional Networks for Multi-relational and Robust Learning**  | Defense  |  Node Classification | GCN | Arxiv | [Link](https://arxiv.org/abs/2003.07729) |     |
