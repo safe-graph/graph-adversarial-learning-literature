@@ -79,6 +79,7 @@ If you feel this repo is helpful, please cite the survey above.
 | 2020 | **A Robust Hierarchical Graph Convolutional Network Model for Collaborative Filtering**  | Defense  |  Recommender System | GCN | Arxiv | [Link](https://arxiv.org/abs/2004.14734) |    |
 | 2020 | **On The Stability of Polynomial Spectral Graph Filters**  | Defense  |  Graph Property | Spectral Graph Filter | ICASSP 2020 | [Link](https://ieeexplore.ieee.org/abstract/document/9054072) |  [Link](https://github.com/henrykenlay/spgf)  |
 | 2020 | **On the Robustness of Cascade Diffusion under Node Attacks**  | Defense  |  Influence Maximization | IC Model | WWW 2020 Workshop | [Link](https://www.cs.au.dk/~karras/robustIC.pdf) |  [Link](https://github.com/allogn/robustness)   |
+| 2020 | **Friend or Faux: Graph-Based Early Detection of Fake Accounts on Social Networks**  | Defense  | Fraud Detection | Graph-based Fraud Detectors | WWW 2020 | [Link](https://arxiv.org/abs/2004.04834) |    |
 | 2020 | **Tensor Graph Convolutional Networks for Multi-relational and Robust Learning**  | Defense  |  Node Classification | GCN | Arxiv | [Link](https://arxiv.org/abs/2003.07729) |     |
 | 2020 | **Adversarial Perturbations of Opinion Dynamics in Networks**  | Defense  |  Manipulating Opinion  | Graph Model | Arxiv | [Link](https://arxiv.org/abs/2003.07010) | |
 | 2020 | **Topological Effects on Attacks Against Vertex Classification**  | Defense  |  Node Classification | GCN | Arxiv | [Link](https://arxiv.org/abs/2003.05822) |     |
