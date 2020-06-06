@@ -28,6 +28,7 @@ If you feel this repo is helpful, please cite the survey above.
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
 | 2020 | **Robust Detection of Adaptive Spammers by Nash Reinforcement Learning**  | Attack  |  Fraud Detection  | Graph-based Fraud Detector | KDD 2020 |  | |
 | 2020 | **Adversarial Attacks on Graph Neural Networks: Perturbations and their Patterns**  | Attack  |   Node Classification   | GNN | TKDD |  | |
+| 2020 | **Adversarial Attack on Hierarchical Graph Pooling Neural Networks**  | Attack  |  Graph Classification  | GNN | Arxiv | [Link](https://arxiv.org/abs/2005.11560) | |
 | 2020 | **Stealing Links from Graph Neural Networks**  | Attack  |  Inferring Link  | GNN | Arxiv | [Link](https://arxiv.org/abs/2005.02131) | |
 | 2020 | **Scalable Attack on Graph Data by Injecting Vicious Nodes**  | Attack  |  Node Classification  | GCN | Arxiv | [Link](https://arxiv.org/abs/2004.13825) | |
 | 2020 | **Network disruption: maximizing disagreement and polarization in social networks**  | Attack  |  Manipulating Opinion  | Graph Model, Social Network | Arxiv | [Link](https://arxiv.org/abs/2003.08377) | |
@@ -75,6 +76,8 @@ If you feel this repo is helpful, please cite the survey above.
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
 | 2020 | **Robust Detection of Adaptive Spammers by Nash Reinforcement Learning**  | Defense  |  Fraud Detection  | Graph-based Fraud Detector | KDD 2020 |  | |
 | 2020 | **Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations**  | Defense  |  Node Classification  | GCN | KDD 2020 |  | |
+| 2020 | **Efficient Robustness Certificates for Graph Neural Networks via Sparsity-Aware Randomized Smoothing**  | Defense  |  Node Classification  | GNN | ICML 2020 |  | |
+| 2020 | **Robust Graph Representation Learning via Neural Sparsification**  | Defense  |  Node Classification  | GCN | ICML 2020 |  | |
 | 2020 | **Graph Structure Learning for Robust Graph Neural Networks**  | Defense  |  Node Classification  | GCN | KDD 2020 | [Link]() |[Link](https://github.com/DSE-MSU/DeepRobust) |
 | 2020 | **A Robust Hierarchical Graph Convolutional Network Model for Collaborative Filtering**  | Defense  |  Recommender System | GCN | Arxiv | [Link](https://arxiv.org/abs/2004.14734) |    |
 | 2020 | **On The Stability of Polynomial Spectral Graph Filters**  | Defense  |  Graph Property | Spectral Graph Filter | ICASSP 2020 | [Link](https://ieeexplore.ieee.org/abstract/document/9054072) |  [Link](https://github.com/henrykenlay/spgf)  |
