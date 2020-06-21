@@ -26,7 +26,7 @@ If you feel this repo is helpful, please cite the survey above.
 ### Attack
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
-| 2020 | **Robust Detection of Adaptive Spammers by Nash Reinforcement Learning**  | Attack  |  Fraud Detection  | Graph-based Fraud Detector | KDD 2020 |  | |
+| 2020 | **Robust Spammer Detection by Nash Reinforcement Learning**  | Attack  |  Fraud Detection  | Graph-based Fraud Detector | KDD 2020 | [Link](https://arxiv.org/abs/2006.06069) | [Link](https://github.com/YingtongDou/Nash-Detect) |
 | 2020 | **Adversarial Attacks on Graph Neural Networks: Perturbations and their Patterns**  | Attack  |   Node Classification   | GNN | TKDD |  | |
 | 2020 | **Adversarial Attack on Hierarchical Graph Pooling Neural Networks**  | Attack  |  Graph Classification  | GNN | Arxiv | [Link](https://arxiv.org/abs/2005.11560) | |
 | 2020 | **Stealing Links from Graph Neural Networks**  | Attack  |  Inferring Link  | GNN | Arxiv | [Link](https://arxiv.org/abs/2005.02131) | |
@@ -74,7 +74,7 @@ If you feel this repo is helpful, please cite the survey above.
 ### Defense
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
-| 2020 | **Robust Detection of Adaptive Spammers by Nash Reinforcement Learning**  | Defense  |  Fraud Detection  | Graph-based Fraud Detector | KDD 2020 |  | |
+| 2020 | **Robust Spammer Detection by Nash Reinforcement Learning**  | Defense  |  Fraud Detection  | Graph-based Fraud Detector | KDD 2020 | [Link](https://arxiv.org/abs/2006.06069) | [Link](https://github.com/YingtongDou/Nash-Detect) |
 | 2020 | **Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations**  | Defense  |  Node Classification  | GCN | KDD 2020 |  | |
 | 2020 | **Efficient Robustness Certificates for Graph Neural Networks via Sparsity-Aware Randomized Smoothing**  | Defense  |  Node Classification  | GNN | ICML 2020 |  | |
 | 2020 | **Robust Graph Representation Learning via Neural Sparsification**  | Defense  |  Node Classification  | GCN | ICML 2020 |  | |
