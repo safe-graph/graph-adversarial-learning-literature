@@ -29,7 +29,7 @@ If you feel this repo is helpful, please cite the survey above.
 | 2020 | **Graph Backdoor**  | Attack  |  Graph/Node Classification  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2006.11890) |  |
 | 2020 | **Backdoor Attacks to Graph Neural Networks**  | Attack  |  Graph Classification  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2006.11165) |  |
 | 2020 | **Robust Spammer Detection by Nash Reinforcement Learning**  | Attack  |  Fraud Detection  | Graph-based Fraud Detector | KDD 2020 | [Link](https://arxiv.org/abs/2006.06069) | [Link](https://github.com/YingtongDou/Nash-Detect) |
-| 2020 | **Adversarial Attacks on Graph Neural Networks: Perturbations and their Patterns**  | Attack  |   Node Classification   | GNN | TKDD |  | |
+| 2020 | **Adversarial Attacks on Graph Neural Networks: Perturbations and their Patterns**  | Attack  |   Node Classification   | GNN | TKDD | [Link](https://dl.acm.org/doi/10.1145/3394520) | |
 | 2020 | **Adversarial Attack on Hierarchical Graph Pooling Neural Networks**  | Attack  |  Graph Classification  | GNN | Arxiv | [Link](https://arxiv.org/abs/2005.11560) | |
 | 2020 | **Stealing Links from Graph Neural Networks**  | Attack  |  Inferring Link  | GNN | Arxiv | [Link](https://arxiv.org/abs/2005.02131) | |
 | 2020 | **Scalable Attack on Graph Data by Injecting Vicious Nodes**  | Attack  |  Node Classification  | GCN | Arxiv | [Link](https://arxiv.org/abs/2004.13825) | |
@@ -83,8 +83,10 @@ If you feel this repo is helpful, please cite the survey above.
 | 2020 | **Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations**  | Defense  |  Node Classification  | GCN | KDD 2020 |  | |
 | 2020 | **Efficient Robustness Certificates for Graph Neural Networks via Sparsity-Aware Randomized Smoothing**  | Defense  |  Node Classification  | GNN | ICML 2020 |  | |
 | 2020 | **Robust Graph Representation Learning via Neural Sparsification**  | Defense  |  Node Classification  | GCN | ICML 2020 |  | |
-| 2020 | **EDoG: Adversarial Edge Detection For Graph Neural Networks**  | Defense  | Edge Detection  | GCN |S&P 2020 | [Link](https://www.osti.gov/servlets/purl/1631086) | |
+| 2020 | **EDoG: Adversarial Edge Detection For Graph Neural Networks**  | Defense  | Edge Detection  | GCN |Preprint | [Link](https://www.osti.gov/servlets/purl/1631086) | |
 | 2020 | **Graph Structure Learning for Robust Graph Neural Networks**  | Defense  |  Node Classification  | GCN | KDD 2020 | [Link](https://arxiv.org/abs/2005.10203) |[Link](https://github.com/DSE-MSU/DeepRobust) |
+| 2020 | **GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection**  | Defense  |  Recommender System  | GCN | SIGIR 2020 | [Link](https://arxiv.org/abs/2005.10150) ||
+| 2020 | **Anonymized GCN: A Novel Robust Graph Embedding Method via Hiding Node Position in Noise**  | Defense  |  Node Classification | GCN | Arxiv | [Link](https://arxiv.org/abs/2005.03482) |    |
 | 2020 | **A Robust Hierarchical Graph Convolutional Network Model for Collaborative Filtering**  | Defense  |  Recommender System | GCN | Arxiv | [Link](https://arxiv.org/abs/2004.14734) |    |
 | 2020 | **On The Stability of Polynomial Spectral Graph Filters**  | Defense  |  Graph Property | Spectral Graph Filter | ICASSP 2020 | [Link](https://ieeexplore.ieee.org/abstract/document/9054072) |  [Link](https://github.com/henrykenlay/spgf)  |
 | 2020 | **On the Robustness of Cascade Diffusion under Node Attacks**  | Defense  |  Influence Maximization | IC Model | WWW 2020 Workshop | [Link](https://www.cs.au.dk/~karras/robustIC.pdf) |  [Link](https://github.com/allogn/robustness)   |
@@ -94,6 +96,7 @@ If you feel this repo is helpful, please cite the survey above.
 | 2020 | **Topological Effects on Attacks Against Vertex Classification**  | Defense  |  Node Classification | GCN | Arxiv | [Link](https://arxiv.org/abs/2003.05822) |     |
 | 2020 | **Towards an Efficient and General Framework of Robust Training for Graph Neural Networks**  | Defense  |  Node Classification | GCN | ICASSP 2020 | [Link](https://arxiv.org/abs/2002.10947) |    |
 | 2020 | **Certified Robustness of Community Detection against Adversarial Structural Perturbation via Randomized Smoothing**  | Defense  |  Community Detection  | Community Detection Algs | WWW 2020 | [Link](https://arxiv.org/abs/2002.03421) |      |
+| 2020 | **Data Poisoning Attacks on Graph Convolutional Matrix Completion**  | Defense  |  Recommender System  | GCMC | ICA3PP 2019 | [Link](https://link.springer.com/chapter/10.1007/978-3-030-38961-1_38) |      |
 | 2019 | **How Robust Are Graph Neural Networks to Structural Noise?**  | Defense  |  Node Structural Identity Prediction | GIN | Arxiv | [Link](https://arxiv.org/abs/1912.10206) |      |
 | 2019 | **GraphDefense: Towards Robust Graph Convolutional Networks**  | Defense  |  Node Classification | GCN | Arxiv | [Link](https://arxiv.org/abs/1911.04429) |     |
 | 2019 | **All You Need is Low (Rank): Defending Against Adversarial Attacks on Graphs**  | Defense  |  Node Classification | GCN, Tensor Embedding | WSDM 2020 | [Link](https://dl.acm.org/doi/abs/10.1145/3336191.3371789) | [Link](https://github.com/DSE-MSU/DeepRobust)    |
@@ -106,6 +109,7 @@ If you feel this repo is helpful, please cite the survey above.
 | 2019 | **Adversarial Training Methods for Network Embedding**  | Defense  |  Node Classification   | DeepWalk | WWW 2019 | [Link](https://arxiv.org/abs/1908.11514) |   [Link](https://github.com/wonniu/AdvT4NE_WWW2019)    |
 | 2019 | **Transferring Robustness for Graph Neural Network Against Poisoning Attacks**  | Defense  |  Node Classification   | GNN | WSDM 2020 | [Link](https://arxiv.org/abs/1908.07558) |   [Link](https://github.com/tangxianfeng/PA-GNN)    |
 | 2019 | **Improving Robustness to Attacks Against Vertex Classification**  | Defense  |  Node Classification   | GCN | KDD Workshop 2019 | [Link](http://eliassi.org/papers/benmiller-mlg2019.pdf) |       |
+| 2019 | **Target Defense Against Link-Prediction-Based Attacks via Evolutionary Perturbations**  | Defense  |  Link Prediction   | Link Prediction Algs | TKDE | [Link](https://arxiv.org/abs/1809.05912) |     |
 | 2019 | **Latent Adversarial Training of Graph Convolution Networks**  | Defense  |  Node Classification   | GCN | LRGSD@ICML | [Link](https://graphreason.github.io/papers/35.pdf) |     |
 | 2019 | **Certifiable Robustness and Robust Training for Graph Convolutional Networks**  | Defense  |  Node Classification   | GCN | KDD 2019 | [Link](https://arxiv.org/abs/1906.12269) |  [Link](https://github.com/danielzuegner/robust-gcn)   |
 | 2019 | **Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective**  | Defense  |  Node Classification   | GNN | IJCAI 2019 | [Link](https://arxiv.org/abs/1906.04214) |   [Link](https://github.com/KaidiXu/GCN_ADV_Train)   |
