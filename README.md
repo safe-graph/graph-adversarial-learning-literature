@@ -77,6 +77,8 @@ If you feel this repo is helpful, please cite the survey above.
 ### Defense
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
+| 2020 | **Robust Training of Graph Convolutional Networks via Latent Perturbation**  | Defense  |  Node Classification  | GCN | Preprint | [Link](https://www.cs.uic.edu/~zhangx/papers/JinZha20.pdf) |  |
+| 2020 | **Backdoor Attacks to Graph Neural Networks**  | Defense  |  Graph Classification  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2006.11165) |  |
 | 2020 | **DefenseVGAE: Defending against Adversarial Attacks on Graph Data via a Variational Graph Autoencoder**  | Defense  |  Node Classification | GNNs | Arxiv | [Link](https://arxiv.org/abs/2006.08900) | [Link](https://github.com/zhangao520/defense-vgae) |
 | 2020 | **GNNGuard: Defending Graph Neural Networks against Adversarial Attacks**  | Defense  |   Node Classification | GNNs | Arxiv | [Link](https://arxiv.org/abs/2006.08149) |  |
 | 2020 | **Robust Spammer Detection by Nash Reinforcement Learning**  | Defense  |  Fraud Detection  | Graph-based Fraud Detector | KDD 2020 | [Link](https://arxiv.org/abs/2006.06069) | [Link](https://github.com/YingtongDou/Nash-Detect) |
