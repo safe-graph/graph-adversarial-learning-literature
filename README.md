@@ -7,7 +7,7 @@ Papers are sorted by their uploaded dates in descending order.
 
 This **weekly-updated** list serves as a complement of the survey below.
 
-[**Adversarial Attack and Defense on Graph Data: A Survey** ](https://arxiv.org/abs/1812.10528) **(Updated in April 2020. 35 attack papers and 30 defense papers).**
+[**Adversarial Attack and Defense on Graph Data: A Survey** ](https://arxiv.org/abs/1812.10528) **(Updated in July 2020. 36 attack papers and 30 defense papers).**
 
 ```bibtex
 @article{sun2018adversarial,
@@ -26,6 +26,7 @@ If you feel this repo is helpful, please cite the survey above.
 ### Attack
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2020 | **An Efficient Adversarial Attack on Graph Structured Data**  | Attack  |  Node Classification  | GCN | IJCAI 2020 Workshop | [Link](https://www.aisafetyw.org/programme) |  |
 | 2020 | **Graph Backdoor**  | Attack  |  Graph/Node Classification  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2006.11890) |  |
 | 2020 | **Backdoor Attacks to Graph Neural Networks**  | Attack  |  Graph Classification  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2006.11165) |  |
 | 2020 | **Robust Spammer Detection by Nash Reinforcement Learning**  | Attack  |  Fraud Detection  | Graph-based Fraud Detector | KDD 2020 | [Link](https://arxiv.org/abs/2006.06069) | [Link](https://github.com/YingtongDou/Nash-Detect) |
