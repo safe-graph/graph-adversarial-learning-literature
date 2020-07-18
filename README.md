@@ -78,14 +78,16 @@ If you feel this repo is helpful, please cite the survey above.
 ### Defense
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
+| 2020 | **Robust Collective Classification against Structural Attacks**  | Defense  |  Node Classification  |  Associative Markov Networks | UAI 2020 | [Link](http://www.auai.org/uai2020/proceedings/119_main_paper.pdf) |  |
+| 2020 | **Enhancing Robustness of Graph Convolutional Networks via Dropping Graph Connections**  | Defense  |  Node Classification  | GCN | Preprint | [Link](https://faculty.ist.psu.edu/wu/papers/DropCONN.pdf) |  |
 | 2020 | **Robust Training of Graph Convolutional Networks via Latent Perturbation**  | Defense  |  Node Classification  | GCN | Preprint | [Link](https://www.cs.uic.edu/~zhangx/papers/JinZha20.pdf) |  |
 | 2020 | **Backdoor Attacks to Graph Neural Networks**  | Defense  |  Graph Classification  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2006.11165) |  |
 | 2020 | **DefenseVGAE: Defending against Adversarial Attacks on Graph Data via a Variational Graph Autoencoder**  | Defense  |  Node Classification | GNNs | Arxiv | [Link](https://arxiv.org/abs/2006.08900) | [Link](https://github.com/zhangao520/defense-vgae) |
 | 2020 | **GNNGuard: Defending Graph Neural Networks against Adversarial Attacks**  | Defense  |   Node Classification | GNNs | Arxiv | [Link](https://arxiv.org/abs/2006.08149) |  |
 | 2020 | **Robust Spammer Detection by Nash Reinforcement Learning**  | Defense  |  Fraud Detection  | Graph-based Fraud Detector | KDD 2020 | [Link](https://arxiv.org/abs/2006.06069) | [Link](https://github.com/YingtongDou/Nash-Detect) |
 | 2020 | **Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations**  | Defense  |  Node Classification  | GCN | KDD 2020 |  | |
-| 2020 | **Efficient Robustness Certificates for Graph Neural Networks via Sparsity-Aware Randomized Smoothing**  | Defense  |  Node Classification  | GNN | ICML 2020 |  | |
-| 2020 | **Robust Graph Representation Learning via Neural Sparsification**  | Defense  |  Node Classification  | GCN | ICML 2020 |  | |
+| 2020 | **Efficient Robustness Certificates for Discrete Data: Sparsity-Aware Randomized Smoothing for Graphs, Images and More**  | Defense  |  Node Classification  | GNN | ICML 2020 | [Link](https://proceedings.icml.cc/static/paper_files/icml/2020/6890-Paper.pdf) | [Link](https://github.com/abojchevski/sparse_smoothing) |
+| 2020 | **Robust Graph Representation Learning via Neural Sparsification**  | Defense  |  Node Classification  | GNN | ICML 2020 | [Link](https://proceedings.icml.cc/static/paper_files/icml/2020/2611-Paper.pdf) |   |
 | 2020 | **EDoG: Adversarial Edge Detection For Graph Neural Networks**  | Defense  | Edge Detection  | GCN |Preprint | [Link](https://www.osti.gov/servlets/purl/1631086) | |
 | 2020 | **Graph Structure Learning for Robust Graph Neural Networks**  | Defense  |  Node Classification  | GCN | KDD 2020 | [Link](https://arxiv.org/abs/2005.10203) |[Link](https://github.com/DSE-MSU/DeepRobust) |
 | 2020 | **GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection**  | Defense  |  Recommender System  | GCN | SIGIR 2020 | [Link](https://arxiv.org/abs/2005.10150) ||
