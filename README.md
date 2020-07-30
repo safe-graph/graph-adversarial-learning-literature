@@ -78,6 +78,7 @@ If you feel this repo is helpful, please cite the survey above.
 ### Defense
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
+| 2020 | **Adversarial Immunization for Improving Certifiable Robustness on Graphs**  | Defense  |  Node Classification  |  GNNs | Arxiv | [Link](https://arxiv.org/abs/2007.09647) |  |
 | 2020 | **Robust Collective Classification against Structural Attacks**  | Defense  |  Node Classification  |  Associative Markov Networks | UAI 2020 | [Link](http://www.auai.org/uai2020/proceedings/119_main_paper.pdf) |  |
 | 2020 | **Enhancing Robustness of Graph Convolutional Networks via Dropping Graph Connections**  | Defense  |  Node Classification  | GCN | Preprint | [Link](https://faculty.ist.psu.edu/wu/papers/DropCONN.pdf) |  |
 | 2020 | **Robust Training of Graph Convolutional Networks via Latent Perturbation**  | Defense  |  Node Classification  | GCN | Preprint | [Link](https://www.cs.uic.edu/~zhangx/papers/JinZha20.pdf) |  |
