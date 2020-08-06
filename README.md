@@ -26,6 +26,9 @@ If you feel this repo is helpful, please cite the survey above.
 ### Attack
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2020 | **Adversarial Attacks on Link Prediction Algorithms Based on Graph Neural Networks**  | Attack  |  Link Prediction | GNN | Asia CCS 2020 | [Link](https://iqua.ece.toronto.edu/papers/wlin-asiaccs20.pdf) |  
+| 2020 | **Practical Adversarial Attacks on Graph Neural Networks**  | Attack  |  Node Classification  | GNN | ICML 2020 Workshop | [Link](https://grlplus.github.io/papers/8.pdf) |  |
+| 2020 | **Link Prediction Adversarial Attack Via Iterative Gradient Attack**  | Attack  |  Link Prediction | GAE | IEEE TCSS | [Link](https://ieeexplore.ieee.org/abstract/document/9141291?casa_token=JY86mKguq68AAAAA:GNbeDZJNuMzzcHFPGOTACf9ihXxgQyAOSjVUnbWhiON6vVG7ap7k8Ey4DCNyJTO0qlSxMyJWSY4B) |  |
 | 2020 | **An Efficient Adversarial Attack on Graph Structured Data**  | Attack  |  Node Classification  | GCN | IJCAI 2020 Workshop | [Link](https://www.aisafetyw.org/programme) |  |
 | 2020 | **Graph Backdoor**  | Attack  |  Graph/Node Classification  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2006.11890) |  |
 | 2020 | **Backdoor Attacks to Graph Neural Networks**  | Attack  |  Graph Classification  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2006.11165) |  |
