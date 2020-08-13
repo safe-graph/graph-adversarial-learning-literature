@@ -26,7 +26,8 @@ If you feel this repo is helpful, please cite the survey above.
 ### Attack
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
-| 2020 | **Adversarial Attacks on Link Prediction Algorithms Based on Graph Neural Networks**  | Attack  |  Link Prediction | GNN | Asia CCS 2020 | [Link](https://iqua.ece.toronto.edu/papers/wlin-asiaccs20.pdf) |  
+| 2020 | **Adversarial attack on BC classification for scale-free networks**  | Attack  |  Broido and Clauset classification | scale-free network | AIP Chaos | [Link](https://aip.scitation.org/doi/full/10.1063/5.0003707) |  | 
+| 2020 | **Adversarial Attacks on Link Prediction Algorithms Based on Graph Neural Networks**  | Attack  |  Link Prediction | GNN | Asia CCS 2020 | [Link](https://iqua.ece.toronto.edu/papers/wlin-asiaccs20.pdf) |  |  
 | 2020 | **Practical Adversarial Attacks on Graph Neural Networks**  | Attack  |  Node Classification  | GNN | ICML 2020 Workshop | [Link](https://grlplus.github.io/papers/8.pdf) |  |
 | 2020 | **Link Prediction Adversarial Attack Via Iterative Gradient Attack**  | Attack  |  Link Prediction | GAE | IEEE TCSS | [Link](https://ieeexplore.ieee.org/abstract/document/9141291?casa_token=JY86mKguq68AAAAA:GNbeDZJNuMzzcHFPGOTACf9ihXxgQyAOSjVUnbWhiON6vVG7ap7k8Ey4DCNyJTO0qlSxMyJWSY4B) |  |
 | 2020 | **An Efficient Adversarial Attack on Graph Structured Data**  | Attack  |  Node Classification  | GCN | IJCAI 2020 Workshop | [Link](https://www.aisafetyw.org/programme) |  |
