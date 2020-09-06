@@ -26,6 +26,8 @@ If you feel this repo is helpful, please cite the survey above.
 ### Attack
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2020 | **Efficient Evasion Attacks to Graph Neural Networks via Influence Function**  | Attack  |  Node Classification | GNN | Arxiv | [Link](https://arxiv.org/abs/2009.00203) |  | 
+| 2020 | **Reinforcement Learning-based Black-Box Evasion Attacks to Link Prediction in Dynamic Graphs**  | Attack  |  Link Prediction | DyGCN | Arxiv | [Link](https://arxiv.org/abs/2009.00163) |  | 
 | 2020 | **Adversarial attack on BC classification for scale-free networks**  | Attack  |  Broido and Clauset classification | scale-free network | AIP Chaos | [Link](https://aip.scitation.org/doi/full/10.1063/5.0003707) |  | 
 | 2020 | **Adversarial Attacks on Link Prediction Algorithms Based on Graph Neural Networks**  | Attack  |  Link Prediction | GNN | Asia CCS 2020 | [Link](https://iqua.ece.toronto.edu/papers/wlin-asiaccs20.pdf) |  |  
 | 2020 | **Practical Adversarial Attacks on Graph Neural Networks**  | Attack  |  Node Classification  | GNN | ICML 2020 Workshop | [Link](https://grlplus.github.io/papers/8.pdf) |  |
