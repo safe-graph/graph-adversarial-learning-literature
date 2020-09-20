@@ -26,6 +26,8 @@ If you feel this repo is helpful, please cite the survey above.
 ### Attack
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2020 | **Semantic-preserving Reinforcement Learning Attack Against Graph Neural Networks for Malware Detection**  | Attack  |  Malware Detection | GCN | Arxiv | [Link](https://arxiv.org/abs/2009.05602) |  | 
+| 2020 | **Adversarial Attack on Large Scale Graph**  | Attack  |  Node Classification | GNN | Arxiv | [Link](https://arxiv.org/abs/2009.03488) |  | 
 | 2020 | **Efficient Evasion Attacks to Graph Neural Networks via Influence Function**  | Attack  |  Node Classification | GNN | Arxiv | [Link](https://arxiv.org/abs/2009.00203) |  | 
 | 2020 | **Reinforcement Learning-based Black-Box Evasion Attacks to Link Prediction in Dynamic Graphs**  | Attack  |  Link Prediction | DyGCN | Arxiv | [Link](https://arxiv.org/abs/2009.00163) |  | 
 | 2020 | **Adversarial attack on BC classification for scale-free networks**  | Attack  |  Broido and Clauset classification | scale-free network | AIP Chaos | [Link](https://aip.scitation.org/doi/full/10.1063/5.0003707) |  | 
@@ -84,6 +86,7 @@ If you feel this repo is helpful, please cite the survey above.
 ### Defense
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
+| 2020 | **Certified Robustness of Graph Classification against Topology Attack with Randomized Smoothing**  | Defense  |  Graph Classification  |  GCB | IEEE GLOBECOM 2020 | [Link](https://arxiv.org/abs/2009.05872) |  |
 | 2020 | **Provably Robust Node Classification via Low-Pass Message Passing**  | Defense  |  Node Classification  |  GNNs | ICDM 2020 |  |  |
 | 2020 | **Certified Robustness of Graph Neural Networks against Adversarial Structural Perturbation**  | Defense  |  Node/Graph Classification  |  GNNs | Arxiv | [Link](https://arxiv.org/abs/2008.10715) |  |
 | 2020 | **Adversarial Immunization for Improving Certifiable Robustness on Graphs**  | Defense  |  Node Classification  |  GNNs | Arxiv | [Link](https://arxiv.org/abs/2007.09647) |  |
@@ -137,4 +140,5 @@ If you feel this repo is helpful, please cite the survey above.
 | 2019 | **Comparing and Detecting Adversarial Attacks for Graph Deep Learning**  | Defense | Node Classification  | GCN, GAT, Nettack | RLGM@ICLR 2019 | [Link](https://rlgm.github.io/papers/57.pdf) |       |
 | 2019 | **Graph Adversarial Training: Dynamically Regularizing Based on Graph Structure**  | Defense  | Node Classification   | GCN | TKDE | [Link](https://arxiv.org/abs/1902.08226) |   [Link](https://github.com/fulifeng/GraphAT)   |
 | 2018 | **Characterizing Malicious Edges targeting on Graph Neural Networks**  | Defense  | Detected Added Edges   | GNN, GCN |  OpenReview | [Link](https://openreview.net/forum?id=HJxdAoCcYX) |       |
+| 2018 | **PeerNets: Exploiting Peer Wisdom Against Adversarial Attacks**  | Defense  | Image Classification   | LeNet, ResNet |  ICLR 2019 | [Link](https://arxiv.org/abs/1806.00088) |       |
 | 2017 | **Adversarial Sets for Regularising Neural Link Predictors**  | Attack  | Link Prediction   | Knowledge Graph Embeddings | UAI 2017 | [Link](https://arxiv.org/abs/1707.07596) |   [Link](https://github.com/uclmr/inferbeddings)    |
