@@ -26,6 +26,8 @@ If you feel this repo is helpful, please cite the survey above.
 ### Attack
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2020 | **Adaptive Adversarial Attack on Graph Embedding via GAN**  | Attack  |  Node Classification  | GCN, DeepWalk, LINE | SocialSec | [Link](https://link.springer.com/chapter/10.1007/978-981-15-9031-3_7) |  |
+| 2020 | **Scalable Adversarial Attack on Graph Neural Networks with Alternating Direction Method of Multipliers**  | Attack  |  Node Classification | GNNs | Arxiv | [Link](https://arxiv.org/abs/2009.10233) |  | 
 | 2020 | **Semantic-preserving Reinforcement Learning Attack Against Graph Neural Networks for Malware Detection**  | Attack  |  Malware Detection | GCN | Arxiv | [Link](https://arxiv.org/abs/2009.05602) |  | 
 | 2020 | **Adversarial Attack on Large Scale Graph**  | Attack  |  Node Classification | GNN | Arxiv | [Link](https://arxiv.org/abs/2009.03488) |  | 
 | 2020 | **Efficient Evasion Attacks to Graph Neural Networks via Influence Function**  | Attack  |  Node Classification | GNN | Arxiv | [Link](https://arxiv.org/abs/2009.00203) |  | 
@@ -41,7 +43,7 @@ If you feel this repo is helpful, please cite the survey above.
 | 2020 | **Adversarial Attacks on Graph Neural Networks: Perturbations and their Patterns**  | Attack  |   Node Classification   | GNN | TKDD | [Link](https://dl.acm.org/doi/10.1145/3394520) | |
 | 2020 | **Adversarial Attack on Hierarchical Graph Pooling Neural Networks**  | Attack  |  Graph Classification  | GNN | Arxiv | [Link](https://arxiv.org/abs/2005.11560) | |
 | 2020 | **Stealing Links from Graph Neural Networks**  | Attack  |  Inferring Link  | GNN | Arxiv | [Link](https://arxiv.org/abs/2005.02131) | |
-| 2020 | **Scalable Attack on Graph Data by Injecting Vicious Nodes**  | Attack  |  Node Classification  | GCN | Arxiv | [Link](https://arxiv.org/abs/2004.13825) | |
+| 2020 | **Scalable Attack on Graph Data by Injecting Vicious Nodes**  | Attack  |  Node Classification  | GCN | ECML-PKDD 2020 | [Link](https://arxiv.org/abs/2004.13825) | |
 | 2020 | **Network disruption: maximizing disagreement and polarization in social networks**  | Attack  |  Manipulating Opinion  | Graph Model, Social Network | Arxiv | [Link](https://arxiv.org/abs/2003.08377) | |
 | 2020 | **Adversarial Perturbations of Opinion Dynamics in Networks**  | Attack  |  Manipulating Opinion  | Graph Model | Arxiv | [Link](https://arxiv.org/abs/2003.07010) | |
 | 2020 | **Non-target-specific Node Injection Attacks on Graph Neural Networks: A Hierarchical Reinforcement Learning Approach**  | Attack  |  Node Classification  | GCN | WWW 2020 | [Link](https://faculty.ist.psu.edu/vhonavar/Papers/www20.pdf) | |
@@ -86,13 +88,16 @@ If you feel this repo is helpful, please cite the survey above.
 ### Defense
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
+| 2020 | **Certified Robustness of Graph Convolution Networks for Graph Classification under Topological Attacks**  | Defense  |  Graph Classification  |  GCN | NeurIPS 2020 |  |  |
+| 2020 | **A Novel Defending Scheme for Graph-Based Classification Against Graph Structure Manipulating Attack**  | Defense  |  Node Classification  |  MRF | SocialSec | [Link](https://link.springer.com/chapter/10.1007/978-981-15-9031-3_26) |  |
+| 2020 | **Uncertainty-aware Attention Graph Neural Network for Defending Adversarial Attacks**  | Defense  |  Node Classification  |  GNNs | Arxiv | [Link](https://arxiv.org/abs/2009.10235) |  |
 | 2020 | **Certified Robustness of Graph Classification against Topology Attack with Randomized Smoothing**  | Defense  |  Graph Classification  |  GCB | IEEE GLOBECOM 2020 | [Link](https://arxiv.org/abs/2009.05872) |  |
 | 2020 | **Provably Robust Node Classification via Low-Pass Message Passing**  | Defense  |  Node Classification  |  GNNs | ICDM 2020 |  |  |
 | 2020 | **Certified Robustness of Graph Neural Networks against Adversarial Structural Perturbation**  | Defense  |  Node/Graph Classification  |  GNNs | Arxiv | [Link](https://arxiv.org/abs/2008.10715) |  |
 | 2020 | **Adversarial Immunization for Improving Certifiable Robustness on Graphs**  | Defense  |  Node Classification  |  GNNs | Arxiv | [Link](https://arxiv.org/abs/2007.09647) |  |
 | 2020 | **Robust Collective Classification against Structural Attacks**  | Defense  |  Node Classification  |  Associative Markov Networks | UAI 2020 | [Link](http://www.auai.org/uai2020/proceedings/119_main_paper.pdf) |  |
 | 2020 | **Enhancing Robustness of Graph Convolutional Networks via Dropping Graph Connections**  | Defense  |  Node Classification  | GCN | Preprint | [Link](https://faculty.ist.psu.edu/wu/papers/DropCONN.pdf) |  |
-| 2020 | **Robust Training of Graph Convolutional Networks via Latent Perturbation**  | Defense  |  Node Classification  | GCN | Preprint | [Link](https://www.cs.uic.edu/~zhangx/papers/JinZha20.pdf) |  |
+| 2020 | **Robust Training of Graph Convolutional Networks via Latent Perturbation**  | Defense  |  Node Classification  | GCN | ECML-PKDD 2020 | [Link](https://www.cs.uic.edu/~zhangx/papers/JinZha20.pdf) |  |
 | 2020 | **Backdoor Attacks to Graph Neural Networks**  | Defense  |  Graph Classification  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2006.11165) |  |
 | 2020 | **DefenseVGAE: Defending against Adversarial Attacks on Graph Data via a Variational Graph Autoencoder**  | Defense  |  Node Classification | GNNs | Arxiv | [Link](https://arxiv.org/abs/2006.08900) | [Link](https://github.com/zhangao520/defense-vgae) |
 | 2020 | **GNNGuard: Defending Graph Neural Networks against Adversarial Attacks**  | Defense  |   Node Classification | GNNs | Arxiv | [Link](https://arxiv.org/abs/2006.08149) |  |
