@@ -37,8 +37,8 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 | 2020 | **One Vertex Attack on Graph Neural Networks-based Spatiotemporal Forecasting**  | Attack  |  Spatiotemporal Forecasting  | GNNs | ICLR 2021 OpenReview | [Link](https://openreview.net/forum?id=W0MKrbVOxtd) |  |
 | 2020 | **Single-Node Attack for Fooling Graph Neural Networks**  | Attack  |  Node Classification  | GNNs | ICLR 2021 OpenReview | [Link](https://openreview.net/forum?id=u4WfreuXxnk) |  |
 | 2020 | **Black-Box Adversarial Attacks on Graph Neural Networks as An Influence Maximization Problem**  | Attack  |  Node Classification  | GNNs | ICLR 2021 OpenReview | [Link](https://openreview.net/forum?id=sbyjwhxxT8K) |  |
-| 2020 | **Adversarial Attacks on Deep Graph Matching**  | Attack  |  Graph Matching  |  | NeurIPS 2020 |  |  |
-| 2020 | **Black-Box Adversarial Attacks on Graph Neural Networks with Limited Node Access**  | Attack  |  Node Classification  | GNNs | NeurIPS 2020 | [Link](https://arxiv.org/abs/2006.05057) |  |
+| 2020 | **Adversarial Attacks on Deep Graph Matching**  | Attack  |  Graph Matching  |  | NeurIPS 2020 | [Link](https://papers.nips.cc/paper/2020/file/ef126722e64e98d1c33933783e52eafc-Paper.pdf) |  |
+| 2020 | **Towards More Practical Adversarial Attacks on Graph Neural Networks**  | Attack  |  Node Classification  | GNNs | NeurIPS 2020 | [Link](https://arxiv.org/abs/2006.05057) | [Link](https://github.com/Mark12Ding/GNN-Practical-Attack) |
 | 2020 | **A Graph Matching Attack on Privacy-Preserving Record Linkage**  | Attack  |  Record Linkage  | Rrivacy-preserving Record Linkage Methods | CIKM 2020 | [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3411931) |   |
 | 2020 | **Adaptive Adversarial Attack on Graph Embedding via GAN**  | Attack  |  Node Classification  | GCN, DeepWalk, LINE | SocialSec | [Link](https://link.springer.com/chapter/10.1007/978-981-15-9031-3_7) |  |
 | 2020 | **Scalable Adversarial Attack on Graph Neural Networks with Alternating Direction Method of Multipliers**  | Attack  |  Node Classification | GNNs | Arxiv | [Link](https://arxiv.org/abs/2009.10233) |  | 
@@ -116,6 +116,8 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Defense Papers 2020 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
+| 2020 | **Robust Android Malware Detection Based on Attributed Heterogenous Graph Embedding**  | Defense  | Malware Detection | Heterogeneous Information Network Embedding | FCS 2020 | [Link](https://link.springer.com/chapter/10.1007/978-981-15-9739-8_33) |  |
+| 2020 | **Adversarial Detection on Graph Structured Data**  | Defense  | Graph Classification  |  GNNs | PPMLP 2020 | [Link](https://dl.acm.org/doi/abs/10.1145/3411501.3419424) |  |
 | 2020 | **On the Stability of Graph Convolutional Neural Networks under Edge Rewiring**  | Defense  |  Robustness Certification  |  GNNs | Arxiv | [Link](https://arxiv.org/abs/2010.13747) |  |
 | 2020 | **Towards Robust Graph Neural Networks against Label Noise**  | Defense  |  Node Classification  | GNNs | ICLR 2021 OpenReview | [Link](https://openreview.net/forum?id=H38f_9b90BO) |  |
 | 2020 | **Certifying Robustness of Graph Laplacian Based Semi-Supervised Learning**  | Defense  |  Robustness Certification  | GNNs | ICLR 2021 OpenReview | [Link](https://openreview.net/forum?id=cQyybLUoXxc) |  |
@@ -126,8 +128,8 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 | 2020 | **Certified Robustness of Graph Convolution Networks for Graph Classification under Topological Attacks**  | Defense  |  Graph Classification  |  GCN | NeurIPS 2020 | [Link](https://www.cs.uic.edu/~zhangx/papers/Jinetal20.pdf) | [Link](https://github.com/RobustGraph/RoboGraph) |
 | 2020 | **Reliable Graph Neural Networks via Robust Aggregation**  | Defense  |  Node Classification  | GNNs | NeurIPS 2020 | [Link](https://arxiv.org/abs/2010.15651) | [Link](https://github.com/sigeisler/reliable_gnn_via_robust_aggregation) |
 | 2020 | **Graph Random Neural Networks for Semi-Supervised Learning on Graphs**  | Defense  |  Node Classification  |  GCN | NeurIPS 2020 | [Link](https://arxiv.org/abs/2005.11079) | [Link](https://github.com/Grand20/grand)  |
-| 2020 | **Variational Inference for Graph Convolutional Networks in the Absence of Graph Data and Adversarial Settings**  | Defense  |  Node Classification  |  GCN | NeurIPS 2020 | [Link](https://arxiv.org/abs/1906.01852) |  |
-| 2020 | **GNNGuard: Defending Graph Neural Networks against Adversarial Attacks**  | Defense  |   Node Classification | GNNs | NeurIPS 2020 | [Link](https://arxiv.org/abs/2006.08149) |  |
+| 2020 | **Variational Inference for Graph Convolutional Networks in the Absence of Graph Data and Adversarial Settings**  | Defense  |  Node Classification  |  GCN | NeurIPS 2020 | [Link](https://arxiv.org/abs/1906.01852) | [Link](https://github.com/ebonilla/VGCN) |
+| 2020 | **GNNGuard: Defending Graph Neural Networks against Adversarial Attacks**  | Defense  |   Node Classification | GNNs | NeurIPS 2020 | [Link](https://arxiv.org/abs/2006.08149) | [Link](https://github.com/mims-harvard/GNNGuard) |
 | 2020 | **A Feature-Importance-Aware and Robust Aggregator for GCN**  | Defense  |  Node Classification Graph Classification  |  GNNs | CIKM 2020 | [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3411983) | [Link](https://github.com/LiZhang-github/LA-GCN) |
 | 2020 | **Uncertainty-Matching Graph Neural Networks to Defend Against Poisoning Attacks**  | Defense  |  Node Classification  |  GNNs | Arxiv | [Link](https://arxiv.org/abs/2009.14455) |  |
 | 2020 | **Cross Entropy Attack on Deep Graph Infomax**  | Defense  |  Node Classification  |  DGI | IEEE ISCAS | [Link](https://ieeexplore.ieee.org/document/9180817) |  |
@@ -136,7 +138,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 | 2020 | **Uncertainty-aware Attention Graph Neural Network for Defending Adversarial Attacks**  | Defense  |  Node Classification  |  GNNs | Arxiv | [Link](https://arxiv.org/abs/2009.10235) |  |
 | 2020 | **Certified Robustness of Graph Classification against Topology Attack with Randomized Smoothing**  | Defense  |  Graph Classification  |  GCB | IEEE GLOBECOM 2020 | [Link](https://arxiv.org/abs/2009.05872) |  |
 | 2020 | **Provably Robust Node Classification via Low-Pass Message Passing**  | Defense  |  Node Classification  |  GNNs | ICDM 2020 |  |  |
-| 2020 | **Certified Robustness of Graph Neural Networks against Adversarial Structural Perturbation**  | Defense  |  Node/Graph Classification  |  GNNs | Arxiv | [Link](https://arxiv.org/abs/2008.10715) |  |
+| 2020 | **Certified Robustness of Graph Neural Networks against Adversarial Structural Perturbation**  | Defense  | Robustness Certification  |  GNNs | Arxiv | [Link](https://arxiv.org/abs/2008.10715) |  |
 | 2020 | **Adversarial Immunization for Improving Certifiable Robustness on Graphs**  | Defense  |  Node Classification  |  GNNs | Arxiv | [Link](https://arxiv.org/abs/2007.09647) |  |
 | 2020 | **Robust Collective Classification against Structural Attacks**  | Defense  |  Node Classification  |  Associative Markov Networks | UAI 2020 | [Link](http://www.auai.org/uai2020/proceedings/119_main_paper.pdf) |  |
 | 2020 | **Enhancing Robustness of Graph Convolutional Networks via Dropping Graph Connections**  | Defense  |  Node Classification  | GCN | Preprint | [Link](https://faculty.ist.psu.edu/wu/papers/DropCONN.pdf) |  |
