@@ -33,6 +33,8 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Attack Papers 2020
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2020 | **Adversarial Label-Flipping Attack and Defense for Graph Neural Networks**  | Attack  |    |  | ICDM 2020 | Link | Link |
+| 2020 | **Exploratory Adversarial Attacks on Graph Neural Networks**  | Attack  |    |  | ICDM 2020 | Link | Link |
 | 2020 | **Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation**  | Attack  |  Commonsense Reasoning Recommender System  | Knowledge Graph | ICLR 2021 OpenReview | [Link](https://arxiv.org/abs/2010.12872) | [Link](https://github.com/INK-USC/deceive-KG-models) |
 | 2020 | **One Vertex Attack on Graph Neural Networks-based Spatiotemporal Forecasting**  | Attack  |  Spatiotemporal Forecasting  | GNNs | ICLR 2021 OpenReview | [Link](https://openreview.net/forum?id=W0MKrbVOxtd) |  |
 | 2020 | **Single-Node Attack for Fooling Graph Neural Networks**  | Attack  |  Node Classification  | GNNs | ICLR 2021 OpenReview | [Link](https://openreview.net/forum?id=u4WfreuXxnk) |  |
@@ -56,7 +58,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 | 2020 | **Robust Spammer Detection by Nash Reinforcement Learning**  | Attack  |  Fraud Detection  | Graph-based Fraud Detector | KDD 2020 | [Link](https://arxiv.org/abs/2006.06069) | [Link](https://github.com/YingtongDou/Nash-Detect) |
 | 2020 | **Adversarial Attacks on Graph Neural Networks: Perturbations and their Patterns**  | Attack  |   Node Classification   | GNN | TKDD | [Link](https://dl.acm.org/doi/10.1145/3394520) | |
 | 2020 | **Adversarial Attack on Hierarchical Graph Pooling Neural Networks**  | Attack  |  Graph Classification  | GNN | Arxiv | [Link](https://arxiv.org/abs/2005.11560) | |
-| 2020 | **Stealing Links from Graph Neural Networks**  | Attack  |  Inferring Link  | GNN | Arxiv | [Link](https://arxiv.org/abs/2005.02131) | |
+| 2020 | **Stealing Links from Graph Neural Networks**  | Attack  |  Inferring Link  | GNNs | USENIX Security 2021 | [Link](https://www.usenix.org/system/files/sec21summer_he.pdf) | |
 | 2020 | **Scalable Attack on Graph Data by Injecting Vicious Nodes**  | Attack  |  Node Classification  | GCN | ECML-PKDD 2020 | [Link](https://arxiv.org/abs/2004.13825) | |
 | 2020 | **Network disruption: maximizing disagreement and polarization in social networks**  | Attack  |  Manipulating Opinion  | Graph Model, Social Network | Arxiv | [Link](https://arxiv.org/abs/2003.08377) | |
 | 2020 | **Adversarial Perturbations of Opinion Dynamics in Networks**  | Attack  |  Manipulating Opinion  | Graph Model | Arxiv | [Link](https://arxiv.org/abs/2003.07010) | |
@@ -124,6 +126,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 | 2020 | **Collective Robustness Certificates**  | Defense  |  Robustness Certification  | GNNs | ICLR 2021 OpenReview | [Link](https://openreview.net/forum?id=ULQdiUTHe3y) |  |
 | 2020 | **Graph Adversarial Networks: Protecting Information against Adversarial Attacks**  | Defense  |  Node Attribute Inference  | GNNs | ICLR 2021 OpenReview | [Link](https://openreview.net/forum?id=Q8ZdJahesWe) |  |
 | 2020 | **Ricci-GNN: Defending Against Structural Attacks Through a Geometric Approach**  | Defense  |  Node Classification  | GNNs | ICLR 2021 OpenReview | [Link](https://openreview.net/forum?id=_qoQkWNEhS) |  |
+| 2020 | **Graph Contrastive Learning with Augmentations**  | Defense  |  Node Classification  |  GNNs | NeurIPS 2020 | [Link](https://arxiv.org/abs/2010.13902) | [Link](https://github.com/Shen-Lab/GraphCL) |
 | 2020 | **Graph Information Bottleneck**  | Defense  |  Node Classification  |  GNNs | NeurIPS 2020 | [Link](https://arxiv.org/abs/2010.12811) | [Link](https://github.com/snap-stanford/GIB) |
 | 2020 | **Certified Robustness of Graph Convolution Networks for Graph Classification under Topological Attacks**  | Defense  |  Graph Classification  |  GCN | NeurIPS 2020 | [Link](https://www.cs.uic.edu/~zhangx/papers/Jinetal20.pdf) | [Link](https://github.com/RobustGraph/RoboGraph) |
 | 2020 | **Reliable Graph Neural Networks via Robust Aggregation**  | Defense  |  Node Classification  | GNNs | NeurIPS 2020 | [Link](https://arxiv.org/abs/2010.15651) | [Link](https://github.com/sigeisler/reliable_gnn_via_robust_aggregation) |
