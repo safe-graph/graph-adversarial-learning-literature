@@ -120,6 +120,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Defense Papers 2020 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
+| 2020 | **Unsupervised Adversarially-Robust Representation Learning on Graphs**  | Defense  |  Node Classification  |  GNNs | Arxiv | [Link](https://arxiv.org/abs/2012.02486) |  |
 | 2020 | **Provably Robust Node Classification via Low-Pass Message Passing**  | Defense  |  Node Classification  |  GNNs | ICDM 2020 | [Link](https://shenghua-liu.github.io/papers/icdm2020-provablerobust.pdf) |  |
 | 2020 | **Learning to Drop: Robust Graph Neural Network via Topological Denoising**  | Defense  | Node Classification | GNNs | WSDM 2021 | [Link](https://arxiv.org/abs/2011.07057) | [Link](https://github.com/flyingdoog/PTDNet) |
 | 2020 | **Robust Android Malware Detection Based on Attributed Heterogenous Graph Embedding**  | Defense  | Malware Detection | Heterogeneous Information Network Embedding | FCS 2020 | [Link](https://link.springer.com/chapter/10.1007/978-981-15-9739-8_33) |  |
@@ -164,6 +165,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 | 2020 | **On the Robustness of Cascade Diffusion under Node Attacks**  | Defense  |  Influence Maximization | IC Model | WWW 2020 Workshop | [Link](https://www.cs.au.dk/~karras/robustIC.pdf) |  [Link](https://github.com/allogn/robustness)   |
 | 2020 | **Friend or Faux: Graph-Based Early Detection of Fake Accounts on Social Networks**  | Defense  | Fraud Detection | Graph-based Fraud Detectors | WWW 2020 | [Link](https://arxiv.org/abs/2004.04834) |    |
 | 2020 | **Tensor Graph Convolutional Networks for Multi-relational and Robust Learning**  | Defense  |  Node Classification | GCN | Arxiv | [Link](https://arxiv.org/abs/2003.07729) |     |
+| 2020 | **Adversary for Social Good: Protecting Familial Privacy through Joint Adversarial Attacks**  | Defense  |  Node Classification  | Privacy Protection | AAAI 2020 | [Link](https://ojs.aaai.org//index.php/AAAI/article/view/6791) | |
 | 2020 | **Improving the Robustness of Wasserstein Embedding by Adversarial PAC-Bayesian Learning**  | Defense  |  Robustness Certification  |  Wasserstein Embedding | AAAI 2020 | [Link](http://staff.ustc.edu.cn/~hexn/papers/aaai20-adversarial-embedding.pdf) | |
 | 2020 | **Adversarial Perturbations of Opinion Dynamics in Networks**  | Defense  |  Manipulating Opinion  | Graph Model | Arxiv | [Link](https://arxiv.org/abs/2003.07010) | |
 | 2020 | **Topological Effects on Attacks Against Vertex Classification**  | Defense  |  Node Classification | GCN | Arxiv | [Link](https://arxiv.org/abs/2003.05822) |     |
