@@ -33,7 +33,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Attack Papers 2020
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
-| 2020 | **Adversarial Label-Flipping Attack and Defense for Graph Neural Networks**  | Attack  |    |  | ICDM 2020 | Link | Link |
+| 2020 | **Adversarial Label-Flipping Attack and Defense for Graph Neural Networks**  | Attack  |  Node Classification  |  GNNs | ICDM 2020 | [Link](http://shichuan.org/doc/97.pdf) | Link |
 | 2020 | **Exploratory Adversarial Attacks on Graph Neural Networks**  | Attack  |    |  | ICDM 2020 | Link | Link |
 | 2020 | **A Targeted Universal Attack on Graph Convolutional Network**  | Attack  |  Node Classification | GCN | Arxiv | [Link](https://arxiv.org/abs/2011.14365) | [Link](https://github.com/Nanyuu/TUA)  | 
 | 2020 | **Attacking Graph-Based Classification without Changing Existing Connections**  | Attack  |  Node Classification  | Collective Classification Models | ACSAC 2020 | [Link](https://cse.sc.edu/~zeng1/papers/2020-acsac-graph.pdf) |  |
@@ -105,7 +105,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 | 2018 | **Attack Tolerance of Link Prediction Algorithms: How to Hide Your Relations in a Social Network**  | Attack  | Link Prediction   | Traditional Link Prediction Algs | Scientific Reports | [Link](https://arxiv.org/abs/1809.00152) |       |
 | 2018 | **Attacking Similarity-Based Link Prediction in Social Networks**  | Attack  | Link Prediction   | local&global similarity metrics | AAMAS 2019 | [Link](https://dl.acm.org/citation.cfm?id=3306127.3331707) |    |
 | 2018 | **Fast Gradient Attack on Network Embedding**  | Attack  | Node Classification   | GCN | Arxiv | [Link](https://arxiv.org/abs/1809.02797) |     |
-| 2018 | **Adversarial Attack on Graph Structured Data**  | Attack  | Node/Graph Classification   | GNN, GCN | ICML 2018 | [Link](https://arxiv.org/abs/1806.02371) |  [Link](https://github.com/Hanjun-Dai/graph_adversarial_attack)   |
+| 2018 | **Adversarial Attack on Graph Structured Data**  | Attack  | Node Classification, Graph Classification   | GNN, GCN | ICML 2018 | [Link](https://arxiv.org/abs/1806.02371) |  [Link](https://github.com/Hanjun-Dai/graph_adversarial_attack)   |
 | 2018 | **Adversarial Attacks on Neural Networks for Graph Data**  | Attack  | Node Classification   | GCN | KDD 2018 | [Link](https://arxiv.org/abs/1805.07984) | [Link](https://github.com/danielzuegner/nettack) |
 | 2018 | **Hiding individuals and communities in a social network**  | Attack  | Community Detection   | Community Detection Algs | Nature Human Behavior | [Link](https://arxiv.org/abs/1608.00375) |  [Link](https://github.com/DSE-MSU/DeepRobust)   |
 
@@ -120,6 +120,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Defense Papers 2020 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
+| 2020 | **Smoothing Adversarial Training for GNN**  | Defense  |  Node Classification, Community Detection  |  GCN | IEEE TCSS | [Link](https://ieeexplore.ieee.org/abstract/document/9305289?casa_token=fTXIL3hT1yIAAAAA:I4fn-GlF0PIwzPRC87SayRi5_pi2ZDDuSancEsY96A4O4bUBEsp0hSYMNJVGVzMgBWxycYN9qu6D) |  |
 | 2020 | **Unsupervised Adversarially-Robust Representation Learning on Graphs**  | Defense  |  Node Classification  |  GNNs | Arxiv | [Link](https://arxiv.org/abs/2012.02486) |  |
 | 2020 | **Provably Robust Node Classification via Low-Pass Message Passing**  | Defense  |  Node Classification  |  GNNs | ICDM 2020 | [Link](https://shenghua-liu.github.io/papers/icdm2020-provablerobust.pdf) |  |
 | 2020 | **Learning to Drop: Robust Graph Neural Network via Topological Denoising**  | Defense  | Node Classification | GNNs | WSDM 2021 | [Link](https://arxiv.org/abs/2011.07057) | [Link](https://github.com/flyingdoog/PTDNet) |
