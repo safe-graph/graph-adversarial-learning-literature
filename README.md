@@ -5,7 +5,7 @@ A curated list of adversarial attacks and defenses papers on graph-structured da
 
 Papers are sorted by their uploaded dates in descending order.
 
-This **weekly-updated** list serves as a complement of the survey below.
+This **bi-weekly-updated** list serves as a complement of the survey below.
 
 [**Adversarial Attack and Defense on Graph Data: A Survey** ](https://arxiv.org/abs/1812.10528) **(Updated in July 2020. More than 110 papers reviewed).**
 
@@ -24,17 +24,24 @@ If you feel this repo is helpful, please cite the survey above.
 Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```Link Prediction```), model name (e.g., ```DeepWalk```), or method name (e.g., ```Robust```) over the webpage to quickly locate related papers.
 
 ## Quick Links
-**Attack papers sorted by year:** | [2020](#attack-papers-2020) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2017](#attack-papers-2017-back-to-top) |
+**Attack papers sorted by year:** | [2021](#attack-papers-2021) | [2020](#attack-papers-2020) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2017](#attack-papers-2017-back-to-top) |
 
 **Defense papers sorted by year:** | [2020](#defense-papers-2020-back-to-top) | [2019](#defense-papers-2019-back-to-top) | [2018](#defense-papers-2018-back-to-top) |
 
 ## Attack
 
+### Attack Papers 2021 [[Back to Top](#graph-adversarial-learning-literature)]
+| Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
+|-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2021 | **GraphAttacker: A General Multi-Task Graph Attack Framework**  | Attack  |  Node Classification, Graph Classification, Link Prediction  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2101.06855) | Link |
+| 2021 | **Membership Inference Attack on Graph Neural Networks**  | Attack  |  Membership Inference | GNNs | Arxiv | [Link](https://arxiv.org/abs/2101.06570) | Link |
+
+
 ### Attack Papers 2020
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
-| 2020 | **Adversarial Label-Flipping Attack and Defense for Graph Neural Networks**  | Attack  |  Node Classification  |  GNNs | ICDM 2020 | [Link](http://shichuan.org/doc/97.pdf) | Link |
-| 2020 | **Exploratory Adversarial Attacks on Graph Neural Networks**  | Attack  |    |  | ICDM 2020 | Link | Link |
+| 2020 | **Membership Inference Attack on Graph Neural Networks**  | Attack  |  Node Classification  |  GNNs | ICDM 2020 | [Link](http://shichuan.org/doc/97.pdf) | Link |
+| 2020 | **Exploratory Adversarial Attacks on Graph Neural Networks**  | Attack  |    |  | ICDM 2020 | Link | [Link](https://github.com/EpoAtk/EpoAtk) |
 | 2020 | **A Targeted Universal Attack on Graph Convolutional Network**  | Attack  |  Node Classification | GCN | Arxiv | [Link](https://arxiv.org/abs/2011.14365) | [Link](https://github.com/Nanyuu/TUA)  | 
 | 2020 | **Attacking Graph-Based Classification without Changing Existing Connections**  | Attack  |  Node Classification  | Collective Classification Models | ACSAC 2020 | [Link](https://cse.sc.edu/~zeng1/papers/2020-acsac-graph.pdf) |  |
 | 2020 | **Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation**  | Attack  |  Commonsense Reasoning Recommender System  | Knowledge Graph | ICLR 2021 OpenReview | [Link](https://arxiv.org/abs/2010.12872) | [Link](https://github.com/INK-USC/deceive-KG-models) |
@@ -55,7 +62,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 | 2020 | **Practical Adversarial Attacks on Graph Neural Networks**  | Attack  |  Node Classification  | GNN | ICML 2020 Workshop | [Link](https://grlplus.github.io/papers/8.pdf) |  |
 | 2020 | **Link Prediction Adversarial Attack Via Iterative Gradient Attack**  | Attack  |  Link Prediction | GAE | IEEE TCSS | [Link](https://ieeexplore.ieee.org/abstract/document/9141291?casa_token=JY86mKguq68AAAAA:GNbeDZJNuMzzcHFPGOTACf9ihXxgQyAOSjVUnbWhiON6vVG7ap7k8Ey4DCNyJTO0qlSxMyJWSY4B) |  |
 | 2020 | **An Efficient Adversarial Attack on Graph Structured Data**  | Attack  |  Node Classification  | GCN | IJCAI 2020 Workshop | [Link](https://www.aisafetyw.org/programme) |  |
-| 2020 | **Graph Backdoor**  | Attack  |  Node Classification Graph Classification  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2006.11890) |  |
+| 2020 | **Graph Backdoor**  | Attack  |  Node Classification Graph Classification  | GNNs | USENIX Security 2021 | [Link](https://arxiv.org/abs/2006.11890) |  |
 | 2020 | **Backdoor Attacks to Graph Neural Networks**  | Attack  |  Graph Classification  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2006.11165) |  |
 | 2020 | **Robust Spammer Detection by Nash Reinforcement Learning**  | Attack  |  Fraud Detection  | Graph-based Fraud Detector | KDD 2020 | [Link](https://arxiv.org/abs/2006.06069) | [Link](https://github.com/YingtongDou/Nash-Detect) |
 | 2020 | **Adversarial Attacks on Graph Neural Networks: Perturbations and their Patterns**  | Attack  |   Node Classification   | GNN | TKDD | [Link](https://dl.acm.org/doi/10.1145/3394520) | |
