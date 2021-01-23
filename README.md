@@ -30,14 +30,14 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 
 ## Attack
 
-### Attack Papers 2021 [[Back to Top](#graph-adversarial-learning-literature)]
+### Attack Papers 2021
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
 | 2021 | **GraphAttacker: A General Multi-Task Graph Attack Framework**  | Attack  |  Node Classification, Graph Classification, Link Prediction  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2101.06855) | Link |
 | 2021 | **Membership Inference Attack on Graph Neural Networks**  | Attack  |  Membership Inference | GNNs | Arxiv | [Link](https://arxiv.org/abs/2101.06570) | Link |
 
 
-### Attack Papers 2020
+### Attack Papers 2020 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
 | 2020 | **Membership Inference Attack on Graph Neural Networks**  | Attack  |  Node Classification  |  GNNs | ICDM 2020 | [Link](http://shichuan.org/doc/97.pdf) | Link |
