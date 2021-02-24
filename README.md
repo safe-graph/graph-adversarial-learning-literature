@@ -26,13 +26,15 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ## Quick Links
 **Attack papers sorted by year:** | [2021](#attack-papers-2021) | [2020](#attack-papers-2020) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2017](#attack-papers-2017-back-to-top) |
 
-**Defense papers sorted by year:** | [2020](#defense-papers-2020-back-to-top) | [2019](#defense-papers-2019-back-to-top) | [2018](#defense-papers-2018-back-to-top) |
+**Defense papers sorted by year:** | [2021](#defense-papers-2021) | [2020](#defense-papers-2020-back-to-top) | [2019](#defense-papers-2019-back-to-top) | [2018](#defense-papers-2018-back-to-top) |
 
 ## Attack
 
 ### Attack Papers 2021
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2021 | **Adversarial Attack on Network Embeddings via Supervised Network Poisoning**  | Attack  |  Node Classification, Link Prediction  | DeepWalk, Node2vec, LINE, GCN | PAKDD 2021 | [Link](https://arxiv.org/abs/2102.07164) | [Link](https://github.com/virresh/viking) |
+| 2021 | **DeHiB: Deep Hidden Backdoor Attack on Semi-Supervised Learning via Adversarial Perturbation**  | Attack  |  |  | AAAI 2021 | Link | Link |
 | 2021 | **GraphAttacker: A General Multi-Task Graph Attack Framework**  | Attack  |  Node Classification, Graph Classification, Link Prediction  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2101.06855) | Link |
 | 2021 | **Membership Inference Attack on Graph Neural Networks**  | Attack  |  Membership Inference | GNNs | Arxiv | [Link](https://arxiv.org/abs/2101.06570) | Link |
 
@@ -124,6 +126,13 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 
 ## Defense
 
+### Defense Papers 2021 [[Back to Top](#graph-adversarial-learning-literature)]
+| Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
+|-------|--------|--------|--------|-----------|------------|---------------|-------|
+| 2021 | **Interpretable Stability Bounds for Spectral Graph Filters**  | Defense  | Robustness Certification  | Spectral Graph Filter | Arxiv | [Link](https://arxiv.org/abs/2102.09587) |  |
+| 2021 | **Personalized privacy protection in social networks through adversarial modeling**  | Defense  | Privacy Protection  | GCN | AAAI 2021 | [Link](https://www.cs.uic.edu/~elena/pubs/biradar-ppai21.pdf) |  |
+
+
 ### Defense Papers 2020 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
@@ -134,9 +143,9 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 | 2020 | **Robust Android Malware Detection Based on Attributed Heterogenous Graph Embedding**  | Defense  | Malware Detection | Heterogeneous Information Network Embedding | FCS 2020 | [Link](https://link.springer.com/chapter/10.1007/978-981-15-9739-8_33) |  |
 | 2020 | **Adversarial Detection on Graph Structured Data**  | Defense  | Graph Classification  |  GNNs | PPMLP 2020 | [Link](https://dl.acm.org/doi/abs/10.1145/3411501.3419424) |  |
 | 2020 | **On the Stability of Graph Convolutional Neural Networks under Edge Rewiring**  | Defense  |  Robustness Certification  |  GNNs | Arxiv | [Link](https://arxiv.org/abs/2010.13747) |  |
+| 2020 | **Collective Robustness Certificates**  | Defense  |  Robustness Certification  | GNNs | ICLR 2021 | [Link](https://openreview.net/forum?id=ULQdiUTHe3y) |  |
 | 2020 | **Towards Robust Graph Neural Networks against Label Noise**  | Defense  |  Node Classification  | GNNs | ICLR 2021 OpenReview | [Link](https://openreview.net/forum?id=H38f_9b90BO) |  |
 | 2020 | **Certifying Robustness of Graph Laplacian Based Semi-Supervised Learning**  | Defense  |  Robustness Certification  | GNNs | ICLR 2021 OpenReview | [Link](https://openreview.net/forum?id=cQyybLUoXxc) |  |
-| 2020 | **Collective Robustness Certificates**  | Defense  |  Robustness Certification  | GNNs | ICLR 2021 OpenReview | [Link](https://openreview.net/forum?id=ULQdiUTHe3y) |  |
 | 2020 | **Graph Adversarial Networks: Protecting Information against Adversarial Attacks**  | Defense  |  Node Attribute Inference  | GNNs | ICLR 2021 OpenReview | [Link](https://openreview.net/forum?id=Q8ZdJahesWe) |  |
 | 2020 | **Ricci-GNN: Defending Against Structural Attacks Through a Geometric Approach**  | Defense  |  Node Classification  | GNNs | ICLR 2021 OpenReview | [Link](https://openreview.net/forum?id=_qoQkWNEhS) |  |
 | 2020 | **Graph Contrastive Learning with Augmentations**  | Defense  |  Node Classification  |  GNNs | NeurIPS 2020 | [Link](https://arxiv.org/abs/2010.13902) | [Link](https://github.com/Shen-Lab/GraphCL) |
