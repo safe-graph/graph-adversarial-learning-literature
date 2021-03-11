@@ -131,7 +131,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
 | 2021 | **Interpretable Stability Bounds for Spectral Graph Filters**  | Defense  | Robustness Certification  | Spectral Graph Filter | Arxiv | [Link](https://arxiv.org/abs/2102.09587) |  |
 | 2021 | **Personalized privacy protection in social networks through adversarial modeling**  | Defense  | Privacy Protection  | GCN | AAAI 2021 | [Link](https://www.cs.uic.edu/~elena/pubs/biradar-ppai21.pdf) |  |
-
+| 2021 | **Node Similarity Preserving Graph Convolutional Networks**  | Defense  | Node Classification | GNNs | WSDM 2021 | [Link](https://arxiv.org/abs/2011.09643) | [Link](https://github.com/ChandlerBang/SimP-GCN) |
 
 ### Defense Papers 2020 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
