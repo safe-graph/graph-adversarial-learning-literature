@@ -33,6 +33,8 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Attack Papers 2021
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2021 | **Towards Revealing Parallel Adversarial Attack on Politician Socialnet of Graph Structure**  | Attack  | Node Classification  | GCN | Security and Communication Networks | [Link](https://www.hindawi.com/journals/scn/2021/6631247/) | Link |
+| 2021 | **Network Embedding Attack: An Euclidean Distance Based Method**  | Attack  | Node Classification, Community Detection  | Network Embedding Methods | MDATA | [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-71590-8_8) | Link |
 | 2021 | **Adversarial Attack on Network Embeddings via Supervised Network Poisoning**  | Attack  |  Node Classification, Link Prediction  | DeepWalk, Node2vec, LINE, GCN | PAKDD 2021 | [Link](https://arxiv.org/abs/2102.07164) | [Link](https://github.com/virresh/viking) |
 | 2021 | **DeHiB: Deep Hidden Backdoor Attack on Semi-Supervised Learning via Adversarial Perturbation**  | Attack  |  |  | AAAI 2021 | Link | Link |
 | 2021 | **GraphAttacker: A General Multi-Task Graph Attack Framework**  | Attack  |  Node Classification, Graph Classification, Link Prediction  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2101.06855) | Link |
@@ -42,11 +44,11 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Attack Papers 2020 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
-| 2020 | **Membership Inference Attack on Graph Neural Networks**  | Attack  |  Node Classification  |  GNNs | ICDM 2020 | [Link](http://shichuan.org/doc/97.pdf) | Link |
-| 2020 | **Exploratory Adversarial Attacks on Graph Neural Networks**  | Attack  |    |  | ICDM 2020 | Link | [Link](https://github.com/EpoAtk/EpoAtk) |
+| 2020 | **Adversarial Label-Flipping Attack and Defense for Graph Neural Networks**  | Attack  |  Node Classification  |  GNNs | ICDM 2020 | [Link](http://shichuan.org/doc/97.pdf) | [Link](https://github.com/MengmeiZ/LafAK) |
+| 2020 | **Exploratory Adversarial Attacks on Graph Neural Networks**  | Attack  |  Node Classification  | GCN | ICDM 2020 | [Link](https://ieeexplore.ieee.org/document/9338329) | [Link](https://github.com/EpoAtk/EpoAtk) |
 | 2020 | **A Targeted Universal Attack on Graph Convolutional Network**  | Attack  |  Node Classification | GCN | Arxiv | [Link](https://arxiv.org/abs/2011.14365) | [Link](https://github.com/Nanyuu/TUA)  | 
 | 2020 | **Attacking Graph-Based Classification without Changing Existing Connections**  | Attack  |  Node Classification  | Collective Classification Models | ACSAC 2020 | [Link](https://cse.sc.edu/~zeng1/papers/2020-acsac-graph.pdf) |  |
-| 2020 | **Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation**  | Attack  |  Commonsense Reasoning Recommender System  | Knowledge Graph | ICLR 2021 OpenReview | [Link](https://arxiv.org/abs/2010.12872) | [Link](https://github.com/INK-USC/deceive-KG-models) |
+| 2020 | **Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation**  | Attack  |  Commonsense Reasoning Recommender System  | Knowledge Graph | ICLR 2021 | [Link](https://arxiv.org/abs/2010.12872) | [Link](https://github.com/INK-USC/deceive-KG-models) |
 | 2020 | **One Vertex Attack on Graph Neural Networks-based Spatiotemporal Forecasting**  | Attack  |  Spatiotemporal Forecasting  | GNNs | ICLR 2021 OpenReview | [Link](https://openreview.net/forum?id=W0MKrbVOxtd) |  |
 | 2020 | **Single-Node Attack for Fooling Graph Neural Networks**  | Attack  |  Node Classification  | GNNs | ICLR 2021 OpenReview | [Link](https://openreview.net/forum?id=u4WfreuXxnk) |  |
 | 2020 | **Black-Box Adversarial Attacks on Graph Neural Networks as An Influence Maximization Problem**  | Attack  |  Node Classification  | GNNs | ICLR 2021 OpenReview | [Link](https://openreview.net/forum?id=sbyjwhxxT8K) |  |
@@ -138,7 +140,8 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
 | 2020 | **Smoothing Adversarial Training for GNN**  | Defense  |  Node Classification, Community Detection  |  GCN | IEEE TCSS | [Link](https://ieeexplore.ieee.org/abstract/document/9305289?casa_token=fTXIL3hT1yIAAAAA:I4fn-GlF0PIwzPRC87SayRi5_pi2ZDDuSancEsY96A4O4bUBEsp0hSYMNJVGVzMgBWxycYN9qu6D) |  |
 | 2020 | **Unsupervised Adversarially-Robust Representation Learning on Graphs**  | Defense  |  Node Classification  |  GNNs | Arxiv | [Link](https://arxiv.org/abs/2012.02486) |  |
-| 2020 | **Provably Robust Node Classification via Low-Pass Message Passing**  | Defense  |  Node Classification  |  GNNs | ICDM 2020 | [Link](https://shenghua-liu.github.io/papers/icdm2020-provablerobust.pdf) |  |
+| 2020 | **AANE: Anomaly Aware Network Embedding For Anomalous Link Detection**  | Defense  |  Node Classification  |  GNNs | ICDM 2020 | [Link](https://ieeexplore.ieee.org/document/9338406) |  |
+| 2020 | **Provably Robust Node Classification via Low-Pass Message Passing**  | Defense  |  Anomaly Detection  |  GNNs | ICDM 2020 | [Link](https://shenghua-liu.github.io/papers/icdm2020-provablerobust.pdf) |  |
 | 2020 | **Learning to Drop: Robust Graph Neural Network via Topological Denoising**  | Defense  | Node Classification | GNNs | WSDM 2021 | [Link](https://arxiv.org/abs/2011.07057) | [Link](https://github.com/flyingdoog/PTDNet) |
 | 2020 | **Robust Android Malware Detection Based on Attributed Heterogenous Graph Embedding**  | Defense  | Malware Detection | Heterogeneous Information Network Embedding | FCS 2020 | [Link](https://link.springer.com/chapter/10.1007/978-981-15-9739-8_33) |  |
 | 2020 | **Adversarial Detection on Graph Structured Data**  | Defense  | Graph Classification  |  GNNs | PPMLP 2020 | [Link](https://dl.acm.org/doi/abs/10.1145/3411501.3419424) |  |
