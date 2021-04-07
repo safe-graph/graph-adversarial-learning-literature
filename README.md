@@ -12,7 +12,7 @@ This **bi-weekly-updated** list serves as a complement of the survey below.
 ```bibtex
 @article{sun2018adversarial,
   title={Adversarial Attack and Defense on Graph Data: A Survey},
-  author={Sun, Lichao and Dou, Yingtong and Yang, Carl and Wang, Ji and Yu, Philip S. and Li, Bo},
+  author={Sun, Lichao and Dou, Yingtong and Yang, Carl and Wang, Ji and Yu, Philip S. and He, Lifang and Li, Bo},
   journal={arXiv preprint arXiv:1812.10528},
   year={2018}
 }
@@ -33,12 +33,13 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Attack Papers 2021
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
-| 2021 | **Towards Revealing Parallel Adversarial Attack on Politician Socialnet of Graph Structure**  | Attack  | Node Classification  | GCN | Security and Communication Networks | [Link](https://www.hindawi.com/journals/scn/2021/6631247/) | Link |
-| 2021 | **Network Embedding Attack: An Euclidean Distance Based Method**  | Attack  | Node Classification, Community Detection  | Network Embedding Methods | MDATA | [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-71590-8_8) | Link |
+| 2021 | **Preserve, Promote, or Attack? GNN Explanation via Topology Perturbation**  | Attack  |  Object Detection  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2103.13944) |  |
+| 2021 | **Towards Revealing Parallel Adversarial Attack on Politician Socialnet of Graph Structure**  | Attack  | Node Classification  | GCN | Security and Communication Networks | [Link](https://www.hindawi.com/journals/scn/2021/6631247/) |  |
+| 2021 | **Network Embedding Attack: An Euclidean Distance Based Method**  | Attack  | Node Classification, Community Detection  | Network Embedding Methods | MDATA | [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-71590-8_8) |  |
 | 2021 | **Adversarial Attack on Network Embeddings via Supervised Network Poisoning**  | Attack  |  Node Classification, Link Prediction  | DeepWalk, Node2vec, LINE, GCN | PAKDD 2021 | [Link](https://arxiv.org/abs/2102.07164) | [Link](https://github.com/virresh/viking) |
-| 2021 | **DeHiB: Deep Hidden Backdoor Attack on Semi-Supervised Learning via Adversarial Perturbation**  | Attack  |  |  | AAAI 2021 | Link | Link |
+| 2021 | **DeHiB: Deep Hidden Backdoor Attack on Semi-Supervised Learning via Adversarial Perturbation**  | Attack  |  |  | AAAI 2021 | Link |  |
 | 2021 | **GraphAttacker: A General Multi-Task Graph Attack Framework**  | Attack  |  Node Classification, Graph Classification, Link Prediction  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2101.06855) | Link |
-| 2021 | **Membership Inference Attack on Graph Neural Networks**  | Attack  |  Membership Inference | GNNs | Arxiv | [Link](https://arxiv.org/abs/2101.06570) | Link |
+| 2021 | **Membership Inference Attack on Graph Neural Networks**  | Attack  |  Membership Inference | GNNs | Arxiv | [Link](https://arxiv.org/abs/2101.06570) |  |
 
 
 ### Attack Papers 2020 [[Back to Top](#graph-adversarial-learning-literature)]
@@ -131,6 +132,9 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Defense Papers 2021 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
+| 2021 | **Spatio-Temporal Sparsification for General Robust Graph Convolution Networks**  | Defense  | Node Classification  | GCN | Arxiv | [Link](https://arxiv.org/abs/2103.12256) |  |
+| 2021 | **Detection and Defense of Topological Adversarial Attacks on Graphs**  | Defense  | Node Classification  | GCN | AISTATS 2021 | [Link](http://proceedings.mlr.press/v130/zhang21i.html) |  |
+| 2021 | **Robust graph convolutional networks with directional graph adversarial training**  | Defense  | Node Classification  | GCN | Applied Intelligence | [Link](https://link.springer.com/article/10.1007/s10489-021-02272-y) |  |
 | 2021 | **Interpretable Stability Bounds for Spectral Graph Filters**  | Defense  | Robustness Certification  | Spectral Graph Filter | Arxiv | [Link](https://arxiv.org/abs/2102.09587) |  |
 | 2021 | **Personalized privacy protection in social networks through adversarial modeling**  | Defense  | Privacy Protection  | GCN | AAAI 2021 | [Link](https://www.cs.uic.edu/~elena/pubs/biradar-ppai21.pdf) |  |
 | 2021 | **Node Similarity Preserving Graph Convolutional Networks**  | Defense  | Node Classification | GNNs | WSDM 2021 | [Link](https://arxiv.org/abs/2011.09643) | [Link](https://github.com/ChandlerBang/SimP-GCN) |
