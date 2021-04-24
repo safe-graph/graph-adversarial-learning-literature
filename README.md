@@ -33,6 +33,8 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Attack Papers 2021
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2021 | **PATHATTACK: Attacking Shortest Paths in Complex Networks**  | Attack  |  Shortest Path  |  Shortest Path | Arxiv | [Link](https://arxiv.org/abs/2104.03761) |  |
+| 2021 | **Universal Spectral Adversarial Attacks for Deformable Shapes**  | Attack  |  Shape Classification  | ChebyNet, PointNet | CVPR 2021 | [Link](https://arxiv.org/abs/2104.03356) |  |
 | 2021 | **Preserve, Promote, or Attack? GNN Explanation via Topology Perturbation**  | Attack  |  Object Detection  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2103.13944) |  |
 | 2021 | **Towards Revealing Parallel Adversarial Attack on Politician Socialnet of Graph Structure**  | Attack  | Node Classification  | GCN | Security and Communication Networks | [Link](https://www.hindawi.com/journals/scn/2021/6631247/) |  |
 | 2021 | **Network Embedding Attack: An Euclidean Distance Based Method**  | Attack  | Node Classification, Community Detection  | Network Embedding Methods | MDATA | [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-71590-8_8) |  |
