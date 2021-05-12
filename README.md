@@ -33,6 +33,8 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Attack Papers 2021
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2021 | **Black-box Gradient Attack on Graph Neural Networks: Deeper Insights in Graph-based Attack and Defense**  | Attack  |  Node Classification   | GNNs | Arxiv | [Link](https://arxiv.org/pdf/2104.15061.pdf) |  |
+| 2021 | **Enhancing Robustness and Resilience of Multiplex Networks Against Node-Community Cascading Failures**  | Attack  |  Complex Networks Robustness | Complex Networks | IEEE TSMC | [Link](https://ieeexplore.ieee.org/abstract/document/9415463/authors#authors) |  |
 | 2021 | **PATHATTACK: Attacking Shortest Paths in Complex Networks**  | Attack  |  Shortest Path  |  Shortest Path | Arxiv | [Link](https://arxiv.org/abs/2104.03761) |  |
 | 2021 | **Universal Spectral Adversarial Attacks for Deformable Shapes**  | Attack  |  Shape Classification  | ChebyNet, PointNet | CVPR 2021 | [Link](https://arxiv.org/abs/2104.03356) |  |
 | 2021 | **Preserve, Promote, or Attack? GNN Explanation via Topology Perturbation**  | Attack  |  Object Detection  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2103.13944) |  |
@@ -40,7 +42,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 | 2021 | **Network Embedding Attack: An Euclidean Distance Based Method**  | Attack  | Node Classification, Community Detection  | Network Embedding Methods | MDATA | [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-71590-8_8) |  |
 | 2021 | **Adversarial Attack on Network Embeddings via Supervised Network Poisoning**  | Attack  |  Node Classification, Link Prediction  | DeepWalk, Node2vec, LINE, GCN | PAKDD 2021 | [Link](https://arxiv.org/abs/2102.07164) | [Link](https://github.com/virresh/viking) |
 | 2021 | **DeHiB: Deep Hidden Backdoor Attack on Semi-Supervised Learning via Adversarial Perturbation**  | Attack  |  |  | AAAI 2021 | Link |  |
-| 2021 | **GraphAttacker: A General Multi-Task Graph Attack Framework**  | Attack  |  Node Classification, Graph Classification, Link Prediction  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2101.06855) | Link |
+| 2021 | **GraphAttacker: A General Multi-Task Graph Attack Framework**  | Attack  |  Node Classification, Graph Classification, Link Prediction  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2101.06855) |  |
 | 2021 | **Membership Inference Attack on Graph Neural Networks**  | Attack  |  Membership Inference | GNNs | Arxiv | [Link](https://arxiv.org/abs/2101.06570) |  |
 
 
@@ -134,6 +136,9 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Defense Papers 2021 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
+| 2021 | **Information Obfuscation of Graph Neural Networks**  | Defense  | Recommender System, Knowledge Graph, Quantum
+Chemistry  | GNNs | ICML 2021 | [Link](https://arxiv.org/pdf/2009.13504.pdf) | [Link](https://github.com/liaopeiyuan/GAL) |
+| 2021 | **Graph Embedding for Recommendation against Attribute Inference Attacks**  | Defense  | Recommender System  | GCN | WWW 2021 | [Link](https://arxiv.org/pdf/2101.12549.pdf) |  |
 | 2021 | **Spatio-Temporal Sparsification for General Robust Graph Convolution Networks**  | Defense  | Node Classification  | GCN | Arxiv | [Link](https://arxiv.org/abs/2103.12256) |  |
 | 2021 | **Detection and Defense of Topological Adversarial Attacks on Graphs**  | Defense  | Node Classification  | GCN | AISTATS 2021 | [Link](http://proceedings.mlr.press/v130/zhang21i.html) |  |
 | 2021 | **Robust graph convolutional networks with directional graph adversarial training**  | Defense  | Node Classification  | GCN | Applied Intelligence | [Link](https://link.springer.com/article/10.1007/s10489-021-02272-y) |  |
