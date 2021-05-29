@@ -33,6 +33,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Attack Papers 2021
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2021 | **Attacking Graph Neural Networks at Scale**  | Attack  |  Node Classification   | GCN | AAAI 2021 Workshop | [Link](https://www.dropbox.com/s/ddrwoswpz3wwx40/Robust_GNNs_at_Scale__AAAI_Workshop_2020_CameraReady.pdf?dl=0) |  |
 | 2021 | **Black-box Gradient Attack on Graph Neural Networks: Deeper Insights in Graph-based Attack and Defense**  | Attack  |  Node Classification   | GNNs | Arxiv | [Link](https://arxiv.org/pdf/2104.15061.pdf) |  |
 | 2021 | **Enhancing Robustness and Resilience of Multiplex Networks Against Node-Community Cascading Failures**  | Attack  |  Complex Networks Robustness | Complex Networks | IEEE TSMC | [Link](https://ieeexplore.ieee.org/abstract/document/9415463/authors#authors) |  |
 | 2021 | **PATHATTACK: Attacking Shortest Paths in Complex Networks**  | Attack  |  Shortest Path  |  Shortest Path | Arxiv | [Link](https://arxiv.org/abs/2104.03761) |  |
@@ -136,6 +137,12 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Defense Papers 2021 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
+| 2021 | **Expressive 1-Lipschitz Neural Networks for Robust Multiple Graph Learning against Adversarial Attacks**  | Defense  |   |   | ICML 2021 | Link |  |
+| 2021 | **Integrated Defense for Resilient Graph Matching**  | Defense  | Graph Matching  |   | ICML 2021 | Link |  |
+| 2021 | **Certified Robustness of Graph Neural Networks against Adversarial Structural Perturbation**  | Defense  | Robustness Certification  |  GNNs | KDD 2021 | [Link](https://arxiv.org/abs/2008.10715) |  |
+| 2021 | **Unveiling Anomalous Nodes Via Random Sampling and Consensus on Graphs**  | Defense  | Anomaly Detection   | Anomaly Detection Algs | ICASSP 2021 | [Link](https://ieeexplore.ieee.org/abstract/document/9414953) |  |
+| 2021 | **Graph Sanitation with Application to Node Classification**  | Defense  | Node Classification  |  GNNs | Arxiv | [Link](https://arxiv.org/pdf/2105.09384.pdf) |  |
+| 2021 | **Robust Network Alignment via Attack Signal Scaling and Adversarial Perturbation Elimination**  | Defense  | Network Alignment  |  Network Alignment Algorithms | WWW 2021 | [Link](http://eng.auburn.edu/users/yangzhou/papers/RNA.pdf) |  |
 | 2021 | **Information Obfuscation of Graph Neural Networks**  | Defense  | Recommender System, Knowledge Graph, Quantum
 Chemistry  | GNNs | ICML 2021 | [Link](https://arxiv.org/pdf/2009.13504.pdf) | [Link](https://github.com/liaopeiyuan/GAL) |
 | 2021 | **Graph Embedding for Recommendation against Attribute Inference Attacks**  | Defense  | Recommender System  | GCN | WWW 2021 | [Link](https://arxiv.org/pdf/2101.12549.pdf) |  |
@@ -176,7 +183,6 @@ Chemistry  | GNNs | ICML 2021 | [Link](https://arxiv.org/pdf/2009.13504.pdf) | [
 | 2020 | **A Novel Defending Scheme for Graph-Based Classification Against Graph Structure Manipulating Attack**  | Defense  |  Node Classification  |  MRF | SocialSec | [Link](https://link.springer.com/chapter/10.1007/978-981-15-9031-3_26) |  |
 | 2020 | **Uncertainty-aware Attention Graph Neural Network for Defending Adversarial Attacks**  | Defense  |  Node Classification  |  GNNs | AAAI 2021 | [Link](https://arxiv.org/abs/2009.10235) |  |
 | 2020 | **Certified Robustness of Graph Classification against Topology Attack with Randomized Smoothing**  | Defense  |  Graph Classification  |  GCB | IEEE GLOBECOM 2020 | [Link](https://arxiv.org/abs/2009.05872) |  |
-| 2020 | **Certified Robustness of Graph Neural Networks against Adversarial Structural Perturbation**  | Defense  | Robustness Certification  |  GNNs | Arxiv | [Link](https://arxiv.org/abs/2008.10715) |  |
 | 2020 | **Adversarial Immunization for Improving Certifiable Robustness on Graphs**  | Defense  |  Node Classification  |  GNNs | WSDM 2021 | [Link](https://arxiv.org/abs/2007.09647) |  |
 | 2020 | **Robust Collective Classification against Structural Attacks**  | Defense  |  Node Classification  |  Associative Markov Networks | UAI 2020 | [Link](http://www.auai.org/uai2020/proceedings/119_main_paper.pdf) |  |
 | 2020 | **Enhancing Robustness of Graph Convolutional Networks via Dropping Graph Connections**  | Defense  |  Node Classification  | GCN | Preprint | [Link](https://faculty.ist.psu.edu/wu/papers/DropCONN.pdf) |  |
