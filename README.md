@@ -143,8 +143,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 | 2021 | **Unveiling Anomalous Nodes Via Random Sampling and Consensus on Graphs**  | Defense  | Anomaly Detection   | Anomaly Detection Algs | ICASSP 2021 | [Link](https://ieeexplore.ieee.org/abstract/document/9414953) |  |
 | 2021 | **Graph Sanitation with Application to Node Classification**  | Defense  | Node Classification  |  GNNs | Arxiv | [Link](https://arxiv.org/pdf/2105.09384.pdf) |  |
 | 2021 | **Robust Network Alignment via Attack Signal Scaling and Adversarial Perturbation Elimination**  | Defense  | Network Alignment  |  Network Alignment Algorithms | WWW 2021 | [Link](http://eng.auburn.edu/users/yangzhou/papers/RNA.pdf) |  |
-| 2021 | **Information Obfuscation of Graph Neural Networks**  | Defense  | Recommender System, Knowledge Graph, Quantum
-Chemistry  | GNNs | ICML 2021 | [Link](https://arxiv.org/pdf/2009.13504.pdf) | [Link](https://github.com/liaopeiyuan/GAL) |
+| 2021 | **Information Obfuscation of Graph Neural Networks**  | Defense  | Recommender System, Knowledge Graph, Quantum Chemistry  | GNNs | ICML 2021 | [Link](https://arxiv.org/pdf/2009.13504.pdf) | [Link](https://github.com/liaopeiyuan/GAL) |
 | 2021 | **Graph Embedding for Recommendation against Attribute Inference Attacks**  | Defense  | Recommender System  | GCN | WWW 2021 | [Link](https://arxiv.org/pdf/2101.12549.pdf) |  |
 | 2021 | **Spatio-Temporal Sparsification for General Robust Graph Convolution Networks**  | Defense  | Node Classification  | GCN | Arxiv | [Link](https://arxiv.org/abs/2103.12256) |  |
 | 2021 | **Detection and Defense of Topological Adversarial Attacks on Graphs**  | Defense  | Node Classification  | GCN | AISTATS 2021 | [Link](http://proceedings.mlr.press/v130/zhang21i.html) |  |
