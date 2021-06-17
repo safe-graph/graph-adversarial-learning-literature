@@ -33,8 +33,9 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Attack Papers 2021
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2021 | **Adversarial Attack Framework on Graph Embedding Models with Limited Knowledge**  | Attack  |  Node Classification   | Graph Embedding Models | Arxiv | [Link](https://arxiv.org/abs/2105.12419) |  |
 | 2021 | **Attacking Graph Neural Networks at Scale**  | Attack  |  Node Classification   | GCN | AAAI 2021 Workshop | [Link](https://www.dropbox.com/s/ddrwoswpz3wwx40/Robust_GNNs_at_Scale__AAAI_Workshop_2020_CameraReady.pdf?dl=0) |  |
-| 2021 | **Black-box Gradient Attack on Graph Neural Networks: Deeper Insights in Graph-based Attack and Defense**  | Attack  |  Node Classification   | GNNs | Arxiv | [Link](https://arxiv.org/pdf/2104.15061.pdf) |  |
+| 2021 | **Black-box Gradient Attack on Graph Neural Networks: Deeper Insights in Graph-based Attack and Defense**  | Attack  |  Node Classification   | GNNs | Arxiv | [Link](https://arxiv.org/abs/2104.15061) |  |
 | 2021 | **Enhancing Robustness and Resilience of Multiplex Networks Against Node-Community Cascading Failures**  | Attack  |  Complex Networks Robustness | Complex Networks | IEEE TSMC | [Link](https://ieeexplore.ieee.org/abstract/document/9415463/authors#authors) |  |
 | 2021 | **PATHATTACK: Attacking Shortest Paths in Complex Networks**  | Attack  |  Shortest Path  |  Shortest Path | Arxiv | [Link](https://arxiv.org/abs/2104.03761) |  |
 | 2021 | **Universal Spectral Adversarial Attacks for Deformable Shapes**  | Attack  |  Shape Classification  | ChebyNet, PointNet | CVPR 2021 | [Link](https://arxiv.org/abs/2104.03356) |  |
@@ -42,7 +43,6 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 | 2021 | **Towards Revealing Parallel Adversarial Attack on Politician Socialnet of Graph Structure**  | Attack  | Node Classification  | GCN | Security and Communication Networks | [Link](https://www.hindawi.com/journals/scn/2021/6631247/) |  |
 | 2021 | **Network Embedding Attack: An Euclidean Distance Based Method**  | Attack  | Node Classification, Community Detection  | Network Embedding Methods | MDATA | [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-71590-8_8) |  |
 | 2021 | **Adversarial Attack on Network Embeddings via Supervised Network Poisoning**  | Attack  |  Node Classification, Link Prediction  | DeepWalk, Node2vec, LINE, GCN | PAKDD 2021 | [Link](https://arxiv.org/abs/2102.07164) | [Link](https://github.com/virresh/viking) |
-| 2021 | **DeHiB: Deep Hidden Backdoor Attack on Semi-Supervised Learning via Adversarial Perturbation**  | Attack  |  |  | AAAI 2021 | Link |  |
 | 2021 | **GraphAttacker: A General Multi-Task Graph Attack Framework**  | Attack  |  Node Classification, Graph Classification, Link Prediction  | GNNs | Arxiv | [Link](https://arxiv.org/abs/2101.06855) |  |
 | 2021 | **Membership Inference Attack on Graph Neural Networks**  | Attack  |  Membership Inference | GNNs | Arxiv | [Link](https://arxiv.org/abs/2101.06570) |  |
 
@@ -139,6 +139,8 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
 | 2021 | **Expressive 1-Lipschitz Neural Networks for Robust Multiple Graph Learning against Adversarial Attacks**  | Defense  |   |   | ICML 2021 | Link |  |
 | 2021 | **Integrated Defense for Resilient Graph Matching**  | Defense  | Graph Matching  |   | ICML 2021 | Link |  |
+| 2021 | **Improving Robustness of Graph Neural Networks with Heterophily-Inspired Designs**  | Defense  | Node Classification  |  GNNs | Arxiv | [Link](https://arxiv.org/abs/2106.07767) |  |
+| 2021 | **Understanding Structural Vulnerability in Graph Convolutional Networks**  | Defense  | Node Classification  |  GNNs | IJCAI 2021 | [Link](cs.emory.edu/~jyang71/files/rpgcn.pdf) | [Link](https://github.com/EdisonLeeeee/MedianGCN) |
 | 2021 | **Certified Robustness of Graph Neural Networks against Adversarial Structural Perturbation**  | Defense  | Robustness Certification  |  GNNs | KDD 2021 | [Link](https://arxiv.org/abs/2008.10715) |  |
 | 2021 | **Unveiling Anomalous Nodes Via Random Sampling and Consensus on Graphs**  | Defense  | Anomaly Detection   | Anomaly Detection Algs | ICASSP 2021 | [Link](https://ieeexplore.ieee.org/abstract/document/9414953) |  |
 | 2021 | **Graph Sanitation with Application to Node Classification**  | Defense  | Node Classification  |  GNNs | Arxiv | [Link](https://arxiv.org/pdf/2105.09384.pdf) |  |
