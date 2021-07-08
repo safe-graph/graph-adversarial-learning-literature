@@ -33,6 +33,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Attack Papers 2021
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2021 | **Graph Robustness Benchmark: Rethinking and Benchmarking Adversarial Robustness of Graph Neural Networks**  | Defense  | Node Classification  | GNNs | NeurIPS Openreview | [Link](https://openreview.net/forum?id=pBwQ82pYha) | [Link](https://github.com/thudm/grb) |
 | 2021 | **Adversarial Attack on Graph Neural Networks as An Influence Maximization Problem**  | Attack  |   Node Classification   | GNNs | Arxiv | [Link](https://arxiv.org/abs/2106.10785) | |
 | 2021 | **BinarizedAttack: Structural Poisoning Attacks to Graph-based Anomaly Detection**  | Attack  |   Anomaly Detection   | Graph Anomaly Detection Algs | Arxiv | [Link](https://arxiv.org/abs/2106.09989) | |
 | 2021 | **TDGIA: Effective Injection Attacks on Graph Neural Networks**  | Attack  |  Node Classification   | GNNs | KDD 2021 | [Link](https://arxiv.org/abs/2106.06663) |  |
