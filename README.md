@@ -143,6 +143,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Defense Papers 2021 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
+| 2021 | **Elastic Graph Neural Networks** | Defense | Node classification | GNNs |  ICML 2021 |  [Link](http://proceedings.mlr.press/v139/liu21k/liu21k.pdf) | [Link](https://github.com/lxiaorui/ElasticGNN)
 | 2021 | **Expressive 1-Lipschitz Neural Networks for Robust Multiple Graph Learning against Adversarial Attacks**  | Defense  |   |   | ICML 2021 | Link |  |
 | 2021 | **Integrated Defense for Resilient Graph Matching**  | Defense  | Graph Matching  |   | ICML 2021 | Link |  |
 | 2021 | **NetFense: Adversarial Defenses against Privacy Attacks on Neural Networks for Graph Data**  | Defense  |  Privacy Protection  |  GNNs | TKDE | [Link](https://ieeexplore.ieee.org/abstract/document/9448513) |  |
