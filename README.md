@@ -33,7 +33,8 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Attack Papers 2021
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
-| 2021 | **Graph Robustness Benchmark: Rethinking and Benchmarking Adversarial Robustness of Graph Neural Networks**  | Defense  | Node Classification  | GNNs | NeurIPS Openreview | [Link](https://openreview.net/forum?id=pBwQ82pYha) | [Link](https://github.com/thudm/grb) |
+| 2021 | **Optimal Edge Weight Perturbations to Attack Shortest Paths**  | Attack  | Shortest Path  | Shortest Path Algs | Arxiv  | [Link](https://arxiv.org/pdf/2107.03347.pdf) |  |
+| 2021 | **Graph Robustness Benchmark: Rethinking and Benchmarking Adversarial Robustness of Graph Neural Networks**  | Attack  | Node Classification  | GNNs | NeurIPS Openreview | [Link](https://openreview.net/forum?id=pBwQ82pYha) | [Link](https://github.com/thudm/grb) |
 | 2021 | **Adversarial Attack on Graph Neural Networks as An Influence Maximization Problem**  | Attack  |   Node Classification   | GNNs | Arxiv | [Link](https://arxiv.org/abs/2106.10785) | |
 | 2021 | **BinarizedAttack: Structural Poisoning Attacks to Graph-based Anomaly Detection**  | Attack  |   Anomaly Detection   | Graph Anomaly Detection Algs | Arxiv | [Link](https://arxiv.org/abs/2106.09989) | |
 | 2021 | **TDGIA: Effective Injection Attacks on Graph Neural Networks**  | Attack  |  Node Classification   | GNNs | KDD 2021 | [Link](https://arxiv.org/abs/2106.06663) |  |
@@ -143,9 +144,10 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Defense Papers 2021 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
-| 2021 | **Elastic Graph Neural Networks** | Defense | Node classification | GNNs |  ICML 2021 |  [Link](http://proceedings.mlr.press/v139/liu21k/liu21k.pdf) | [Link](https://github.com/lxiaorui/ElasticGNN)
-| 2021 | **Expressive 1-Lipschitz Neural Networks for Robust Multiple Graph Learning against Adversarial Attacks**  | Defense  |   |   | ICML 2021 | Link |  |
-| 2021 | **Integrated Defense for Resilient Graph Matching**  | Defense  | Graph Matching  |   | ICML 2021 | Link |  |
+| 2021 | **Robust Counterfactual Explanations on Graph Neural Networks** | Defense | GNN Explaination | GNN Explaination Algs |  Arxiv |  [Link](https://arxiv.org/abs/2107.04086) |  | 
+| 2021 | **Elastic Graph Neural Networks** | Defense | Node classification | GNNs |  ICML 2021 |  [Link](http://proceedings.mlr.press/v139/liu21k/liu21k.pdf) | [Link](https://github.com/lxiaorui/ElasticGNN) |
+| 2021 | **Expressive 1-Lipschitz Neural Networks for Robust Multiple Graph Learning against Adversarial Attacks**  | Defense  | Graph Classification, Graph Matching  |  GNNs | ICML 2021 | [Link](http://proceedings.mlr.press/v139/zhao21e.html) |  |
+| 2021 | **Integrated Defense for Resilient Graph Matching**  | Defense  | Graph Matching  | Graph Matching Algs  | ICML 2021 | [Link](http://proceedings.mlr.press/v139/ren21c/ren21c.pdf) |  |
 | 2021 | **NetFense: Adversarial Defenses against Privacy Attacks on Neural Networks for Graph Data**  | Defense  |  Privacy Protection  |  GNNs | TKDE | [Link](https://ieeexplore.ieee.org/abstract/document/9448513) |  |
 | 2021 | **Stability of graph convolutional neural networks to stochastic perturbations**  | Defense  |  Robustness Certification  |  GNNs | Signal Processing | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0165168421002541) |  |
 | 2021 | **DeepInsight: Interpretability Assisting Detection of Adversarial Samples on Graphs**  | Defense  | Node Classification  |  GNNs | Arxiv | [Link](https://arxiv.org/abs/2106.09501) |  |
