@@ -33,6 +33,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Attack Papers 2021
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2021 | **Structack: Structure-based Adversarial Attacks on Graph Neural Networks**  | Attack  |   Node Classification | GCN | ACM Hypertext  | [Link](https://arxiv.org/abs/2107.11327) | [Link](https://github.com/sqrhussain/structack) |
 | 2021 | **Optimal Edge Weight Perturbations to Attack Shortest Paths**  | Attack  | Shortest Path  | Shortest Path Algs | Arxiv  | [Link](https://arxiv.org/pdf/2107.03347.pdf) |  |
 | 2021 | **Graph Robustness Benchmark: Rethinking and Benchmarking Adversarial Robustness of Graph Neural Networks**  | Attack  | Node Classification  | GNNs | NeurIPS Openreview | [Link](https://openreview.net/forum?id=pBwQ82pYha) | [Link](https://github.com/thudm/grb) |
 | 2021 | **Adversarial Attack on Graph Neural Networks as An Influence Maximization Problem**  | Attack  |   Node Classification   | GNNs | Arxiv | [Link](https://arxiv.org/abs/2106.10785) | |
@@ -145,6 +146,8 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
 | 2021 | **Robust Counterfactual Explanations on Graph Neural Networks** | Defense | GNN Explaination | GNN Explaination Algs |  Arxiv |  [Link](https://arxiv.org/abs/2107.04086) |  | 
+| 2021 | **Robust Counterfactual Explanations on Graph Neural Networks** | Defense | Link Prediction  | Probabilistic Network
+Embedding  Models |  Arxiv |  [Link](https://arxiv.org/abs/2107.01936) |  | 
 | 2021 | **Elastic Graph Neural Networks** | Defense | Node classification | GNNs |  ICML 2021 |  [Link](http://proceedings.mlr.press/v139/liu21k/liu21k.pdf) | [Link](https://github.com/lxiaorui/ElasticGNN) |
 | 2021 | **Expressive 1-Lipschitz Neural Networks for Robust Multiple Graph Learning against Adversarial Attacks**  | Defense  | Graph Classification, Graph Matching  |  GNNs | ICML 2021 | [Link](http://proceedings.mlr.press/v139/zhao21e.html) |  |
 | 2021 | **Integrated Defense for Resilient Graph Matching**  | Defense  | Graph Matching  | Graph Matching Algs  | ICML 2021 | [Link](http://proceedings.mlr.press/v139/ren21c/ren21c.pdf) |  |
