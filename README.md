@@ -33,6 +33,7 @@ Papers are sorted by their uploaded dates in descending order.
 ### Defense
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Link        |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2020 | **Graph Stochastic Neural Networks for Semi-supervised Learning**  | Defense  | Node Classification   | GCN | NeurIPS 2020 | [Link](https://papers.nips.cc/paper/2020/file/e586a4f55fb43a540c2e9dab45e00f53-Paper.pdf) |
 | 2019 | **Certifiable Robustness to Graph Perturbations**  | Defense  |  Node Classification   | GCN | NeurIPS 2019 | Link |
 | 2019 | **Power up! Robust Graph Convolutional Network based on Graph Powering**  | Defense  |  Node Classification   | GCN | ICLR 2020 Openreview | [Link](https://openreview.net/pdf?id=BkxDxJHFDr) |
 | 2019 | **Adversarial Robustness of Similarity-Based Link Prediction**  | Defense  |  Link Prediction   | local similarity metrics | ICDM 2019 | [Link](https://arxiv.org/abs/1909.01432) |
