@@ -171,6 +171,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Defense Papers 2020 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
+| 2020 | **Graph Stochastic Neural Networks for Semi-supervised Learning**  | Defense  |  Node Classification  |  GNNs | NeurIPS 2020 | [Link](https://papers.nips.cc/paper/2020/file/e586a4f55fb43a540c2e9dab45e00f53-Paper.pdf)
 | 2020 | **Smoothing Adversarial Training for GNN**  | Defense  |  Node Classification, Community Detection  |  GCN | IEEE TCSS | [Link](https://ieeexplore.ieee.org/abstract/document/9305289?casa_token=fTXIL3hT1yIAAAAA:I4fn-GlF0PIwzPRC87SayRi5_pi2ZDDuSancEsY96A4O4bUBEsp0hSYMNJVGVzMgBWxycYN9qu6D) |  |
 | 2020 | **Unsupervised Adversarially-Robust Representation Learning on Graphs**  | Defense  |  Node Classification  |  GNNs | Arxiv | [Link](https://arxiv.org/abs/2012.02486) |  |
 | 2020 | **AANE: Anomaly Aware Network Embedding For Anomalous Link Detection**  | Defense  |  Node Classification  |  GNNs | ICDM 2020 | [Link](https://ieeexplore.ieee.org/document/9338406) |  |
