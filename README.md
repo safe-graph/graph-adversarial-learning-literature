@@ -33,6 +33,10 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Attack Papers 2021
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2021 | **Single-Node Attack for Fooling Graph Neural Networks**  | Attack  |  Node Classification| GNNs | KDD 2021 Workshop  | [Link](https://drive.google.com/file/d/12arm9w6UmvSIzGmaoocdH70czx7RVzGr/view) | [Link](https://github.com/gnnattack/SINGLE)  |
+| 2021 | **Jointly Attacking Graph Neural Network and its Explanations**  | Attack  |  GNN Explanation | GNNEXPLAINER, PGExplainer | Arxiv  | [Link](https://arxiv.org/abs/2108.03388) |  |
+| 2021 | **The Robustness of Graph k-shell Structure under Adversarial Attacks**  | Attack  |  K-shell Value | K-shell Decomposition | Arxiv  | [Link](https://arxiv.org/abs/2107.13962) |  |
+| 2021 | **Poisoning Knowledge Graph Embeddings via Relation Inference Patterns**  | Attack  | Knowledge Graph Embedding | Knowledge Graph Embedding Models | ACL 2021  | [Link](https://aclanthology.org/2021.acl-long.147/) | [Link](https://github.com/PeruBhardwaj/InferenceAttack) |
 | 2021 | **Structack: Structure-based Adversarial Attacks on Graph Neural Networks**  | Attack  |   Node Classification | GCN | ACM Hypertext  | [Link](https://arxiv.org/abs/2107.11327) | [Link](https://github.com/sqrhussain/structack) |
 | 2021 | **Optimal Edge Weight Perturbations to Attack Shortest Paths**  | Attack  | Shortest Path  | Shortest Path Algs | Arxiv  | [Link](https://arxiv.org/pdf/2107.03347.pdf) |  |
 | 2021 | **Graph Robustness Benchmark: Rethinking and Benchmarking Adversarial Robustness of Graph Neural Networks**  | Attack  | Node Classification  | GNNs | NeurIPS Openreview | [Link](https://openreview.net/forum?id=pBwQ82pYha) | [Link](https://github.com/thudm/grb) |
