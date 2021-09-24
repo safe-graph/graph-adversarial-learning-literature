@@ -5,7 +5,7 @@ A curated list of adversarial attacks and defenses papers on graph-structured da
 
 Papers are sorted by their uploaded dates in descending order.
 
-This **bi-weekly-updated** list serves as a complement of the survey below.
+This **monthly-updated** list serves as a complement of the survey below.
 
 [**Adversarial Attack and Defense on Graph Data: A Survey** ](https://arxiv.org/abs/1812.10528) **(Updated in July 2020. More than 110 papers reviewed).**
 
@@ -33,6 +33,11 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Attack Papers 2021
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2021 | **Single Node Injection Attack against Graph Neural Networks**  | Attack  |  Node Classification| GNNs | CIKM 2021  | [Link](https://arxiv.org/abs/2108.13049) | [Link](https://github.com/taoshuchang/g-nia)  |
+| 2021 | **Projective Ranking: A Transferable Evasion Attack Method on Graph Neural Networks**  | Attack  |  Graph Classification | GCN | CIKM 2021  | [Link](https://shiruipan.github.io/publication/cikm-21-zhang/cikm-21-zhang.pdf) |   |
+| 2021 | **Spatially Focused Attack against Spatiotemporal Graph Neural Networks**  | Attack  |  Spatiotemporal Forecasting | GNNs | Arxiv  | [Link](https://arxiv.org/abs/2109.04608) |   |
+| 2021 | **Derivative-free optimization adversarial attacks for graph convolutional networks**  | Attack  |  Node Classification| GCN | PeerJ Computer Science  | [Link](https://peerj.com/articles/cs-693/) |  |
+| 2021 | **A Hard Label Black-box Adversarial Attack Against Graph Neural Networks**  | Attack  |  Graph Classification| GNNs | CCS 2021  | [Link](https://arxiv.org/abs/2108.09513) | |
 | 2021 | **Single-Node Attack for Fooling Graph Neural Networks**  | Attack  |  Node Classification| GNNs | KDD 2021 Workshop  | [Link](https://drive.google.com/file/d/12arm9w6UmvSIzGmaoocdH70czx7RVzGr/view) | [Link](https://github.com/gnnattack/SINGLE)  |
 | 2021 | **Jointly Attacking Graph Neural Network and its Explanations**  | Attack  |  GNN Explanation | GNNEXPLAINER, PGExplainer | Arxiv  | [Link](https://arxiv.org/abs/2108.03388) |  |
 | 2021 | **The Robustness of Graph k-shell Structure under Adversarial Attacks**  | Attack  |  K-shell Value | K-shell Decomposition | Arxiv  | [Link](https://arxiv.org/abs/2107.13962) |  |
@@ -149,7 +154,10 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Defense Papers 2021 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
-| 2021 | **Robust Counterfactual Explanations on Graph Neural Networks** | Defense | GNN Explaination | GNN Explaination Algs |  Arxiv |  [Link](https://arxiv.org/abs/2107.04086) |  | 
+| 2021 | **Node Feature Kernels Increase Graph Convolutional Robustness** | Defense | Node Classification  | GNNs  |  Arxiv |  [Link](https://arxiv.org/abs/2109.01785) | [Link](https://github.com/ChangminWu/RobustGCN) | 
+| 2021 | **Speedup Robust Graph Structure Learning with Low-Rank Information** | Defense | Node Classification  | GNNs  |  CIKM 2021 |  [Link](http://xiangliyao.cn/papers/cikm21-hui.pdf) |  | 
+| 2021 | **A Lightweight Metric Defence Strategy for Graph Neural Networks Against Poisoning Attacks** | Defense | Node Classification  | GNNs  |  ICICS 2021 |  [Link](https://link.springer.com/chapter/10.1007/978-3-030-88052-1_4) | [Link](https://github.com/lizi-learner/MD-GNN) | 
+| 2021 | **CoG: a Two-View Co-training Framework for Defending Adversarial Attacks on Graph** | Defense | Node Classification  | GCN |  Arxiv |  [Link](https://arxiv.org/abs/2109.05558) |  | 
 | 2021 | **Robust Counterfactual Explanations on Graph Neural Networks** | Defense | Link Prediction  | Probabilistic Network Embedding  Models |  Arxiv |  [Link](https://arxiv.org/abs/2107.01936) |  | 
 | 2021 | **Elastic Graph Neural Networks** | Defense | Node classification | GNNs |  ICML 2021 |  [Link](http://proceedings.mlr.press/v139/liu21k/liu21k.pdf) | [Link](https://github.com/lxiaorui/ElasticGNN) |
 | 2021 | **Expressive 1-Lipschitz Neural Networks for Robust Multiple Graph Learning against Adversarial Attacks**  | Defense  | Graph Classification, Graph Matching  |  GNNs | ICML 2021 | [Link](http://proceedings.mlr.press/v139/zhao21e.html) |  |
@@ -211,9 +219,8 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 | 2020 | **DefenseVGAE: Defending against Adversarial Attacks on Graph Data via a Variational Graph Autoencoder**  | Defense  |  Node Classification | GNNs | Arxiv | [Link](https://arxiv.org/abs/2006.08900) | [Link](https://github.com/zhangao520/defense-vgae) |
 | 2020 | **Robust Spammer Detection by Nash Reinforcement Learning**  | Defense  |  Fraud Detection  | Graph-based Fraud Detector | KDD 2020 | [Link](https://arxiv.org/abs/2006.06069) | [Link](https://github.com/YingtongDou/Nash-Detect) |
 | 2020 | **Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations**  | Defense  |  Robustness Certification  | GCN | KDD 2020 | [Link](https://dl.acm.org/doi/abs/10.1145/3394486.3403217) | [Link](https://github.com/danielzuegner/robust-gcn-structure) |
-| 2020 | **Efficient Robustness Certificates for Discrete Data: Sparsity-Aware Randomized Smoothing for Graphs, Images and More**  | Defense  |  Robustness Certification  | GNN | ICML 2020 | [Link](https://proceedings.icml.cc/static/paper_files/icml/2020/6890-Paper.pdf) | [Link](https://github.com/abojchevski/sparse_smoothing) |
+| 2020 | **Efficient Robustness Certificates for Discrete Data: Sparsity-Aware Randomized Smoothing for Graphs, Images and More**  | Defense  |  Robustness Certification  | GNN | ICML 2020 | [Link](https://arxiv.org/abs/2008.12952) | [Link](https://github.com/abojchevski/sparse_smoothing) |
 | 2020 | **Robust Graph Representation Learning via Neural Sparsification**  | Defense  |  Node Classification  | GNN | ICML 2020 | [Link](https://proceedings.icml.cc/static/paper_files/icml/2020/2611-Paper.pdf) |   |
-| 2020 | **EDoG: Adversarial Edge Detection For Graph Neural Networks**  | Defense  | Edge Detection  | GCN |Preprint | [Link](https://www.osti.gov/servlets/purl/1631086) | |
 | 2020 | **Graph Structure Learning for Robust Graph Neural Networks**  | Defense  |  Node Classification  | GCN | KDD 2020 | [Link](https://arxiv.org/abs/2005.10203) |[Link](https://github.com/DSE-MSU/DeepRobust) |
 | 2020 | **GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection**  | Defense  |  Recommender System  | GCN | SIGIR 2020 | [Link](https://arxiv.org/abs/2005.10150) ||
 | 2020 | **Anonymized GCN: A Novel Robust Graph Embedding Method via Hiding Node Position in Noise**  | Defense  |  Node Classification | GCN | Arxiv | [Link](https://arxiv.org/abs/2005.03482) |    |
