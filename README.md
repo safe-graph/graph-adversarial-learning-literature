@@ -33,6 +33,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Attack Papers 2021
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2021 | **Query-based Adversarial Attacks on Graph with Fake Nodes**  | Attack  |  Node Classification| GCN | Arxiv  | [Link](https://arxiv.org/abs/2109.13069) | |
 | 2021 | **Single Node Injection Attack against Graph Neural Networks**  | Attack  |  Node Classification| GNNs | CIKM 2021  | [Link](https://arxiv.org/abs/2108.13049) | [Link](https://github.com/taoshuchang/g-nia)  |
 | 2021 | **Projective Ranking: A Transferable Evasion Attack Method on Graph Neural Networks**  | Attack  |  Graph Classification | GCN | CIKM 2021  | [Link](https://shiruipan.github.io/publication/cikm-21-zhang/cikm-21-zhang.pdf) |   |
 | 2021 | **Spatially Focused Attack against Spatiotemporal Graph Neural Networks**  | Attack  |  Spatiotemporal Forecasting | GNNs | Arxiv  | [Link](https://arxiv.org/abs/2109.04608) |   |
