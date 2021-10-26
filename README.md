@@ -41,6 +41,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 | 2021 | **FHA: Fast Heuristic Attack Against Graph Convolutional Networks**  | Attack  |   Node Classification | GNNs |  ICDS  | [Link](https://link.springer.com/chapter/10.1007/978-3-030-88942-5_12) |   |
 | 2021 | **Inference Attacks Against Graph Neural Networks**  | Attack  |  Graph/Property Inference | GNNs | USENIX Security 2022  | [Link](https://arxiv.org/abs/2110.02631) |   [Link](https://github.com/Zhangzhk0819/GNN-Embedding-Leaks)|
 | 2021 | **Graph-Fraudster: Adversarial Attacks on Graph Neural Network Based Vertical Federated Learning**  | Attack  |  Node Classification, Federated Learning | GNNs | Arxiv 2021  | [Link](https://arxiv.org/abs/2110.06468) |   |
+| 2021 | **Query-based Adversarial Attacks on Graph with Fake Nodes**  | Attack  |  Node Classification| GCN | Arxiv  | [Link](https://arxiv.org/abs/2109.13069) | |
 | 2021 | **Single Node Injection Attack against Graph Neural Networks**  | Attack  |  Node Classification| GNNs | CIKM 2021  | [Link](https://arxiv.org/abs/2108.13049) | [Link](https://github.com/taoshuchang/g-nia)  |
 | 2021 | **Projective Ranking: A Transferable Evasion Attack Method on Graph Neural Networks**  | Attack  |  Graph Classification | GCN | CIKM 2021  | [Link](https://shiruipan.github.io/publication/cikm-21-zhang/cikm-21-zhang.pdf) |   |
 | 2021 | **Spatially Focused Attack against Spatiotemporal Graph Neural Networks**  | Attack  |  Spatiotemporal Forecasting | GNNs | Arxiv  | [Link](https://arxiv.org/abs/2109.04608) |   |
