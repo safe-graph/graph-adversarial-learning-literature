@@ -33,6 +33,8 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Attack Papers 2021
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2021 | **Adversarial Attacks on Graph Classification via Bayesian Optimisation** | Attack | Graph Classification  | GNNs  |  NeurIPS 2021 |  [Link](https://arxiv.org/abs/2111.02842) | [Link](https://github.com/xingchenwan/grabnel)  |
+| 2021 | **Robustness of Graph Neural Networks at Scale** | Attack | Node Classification  | GNNs  |  NeurIPS 2021 |  [Link](https://arxiv.org/abs/2110.14038) | [Link](https://github.com/sigeisler/robustness_of_gnns_at_scale)  |
 | 2021 | **Large-Scale Adversarial Attacks on Graph Neural Networks via Graph Coarsening**  | Attack  |  Node Classification   |  GNNs |  ICLR 2022 OpenReview  | [Link](https://openreview.net/forum?id=NUzrPpDjWp) |   |
 | 2021 | **Mind Your Solver! On Adversarial Attack and Defense for Combinatorial Optimization**  | Attack  | Combinatorial Optimization  |  Combinatorial Optimization Solvers |  ICLR 2022 OpenReview  | [Link](https://openreview.net/forum?id=nKZvpGRdJlG) |   |
 | 2021 | **Understanding and Improving Graph Injection Attack by Promoting Unnoticeabilit**  | Attack  | Node Classification  | GNNs |  ICLR 2022 OpenReview  | [Link](https://openreview.net/forum?id=wkMG8cdvh7-) |   |
@@ -163,6 +165,8 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Defense Papers 2021 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
+
+| 2021 | **Generalization of Neural Combinatorial Solvers Through the Lens of Adversarial Robustness** | Defense | Combinatorial Optimization  | Combinatorial Solvers  |  NeurIPS 2021 |  [Link](https://arxiv.org/abs/2110.10942) | |
 | 2021 | **Defending Graph Neural Networks via Tensor-Based Robust Graph Aggregation** | Defense | Node Classification  | GNNs  |  ICLR 2022 OpenReview |  [Link](https://openreview.net/forum?id=BrfHcL-99sy) | |
 | 2021 | **Robust Graph Data Learning with Latent Graph Convolutional Representation** | Defense | Node Classification, Node Clustering  | GNNs  |  ICLR 2022 OpenReview |  [Link](https://openreview.net/forum?id=krQLTdel74N) | |
 | 2021 | **GARNET: A Spectral Approach to Robust and Scalable Graph Neural Networks** | Defense | Node Classification  | GNNs  |  ICLR 2022 OpenReview |  [Link](https://openreview.net/forum?id=UeRmyymo3kb) | |
