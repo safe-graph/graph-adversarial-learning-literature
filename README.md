@@ -165,7 +165,6 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Defense Papers 2021 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
-
 | 2021 | **Generalization of Neural Combinatorial Solvers Through the Lens of Adversarial Robustness** | Defense | Combinatorial Optimization  | Combinatorial Solvers  |  NeurIPS 2021 |  [Link](https://arxiv.org/abs/2110.10942) | |
 | 2021 | **Defending Graph Neural Networks via Tensor-Based Robust Graph Aggregation** | Defense | Node Classification  | GNNs  |  ICLR 2022 OpenReview |  [Link](https://openreview.net/forum?id=BrfHcL-99sy) | |
 | 2021 | **Robust Graph Data Learning with Latent Graph Convolutional Representation** | Defense | Node Classification, Node Clustering  | GNNs  |  ICLR 2022 OpenReview |  [Link](https://openreview.net/forum?id=krQLTdel74N) | |
