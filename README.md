@@ -33,6 +33,11 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Attack Papers 2021
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2021 | **Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications** | Attack | Graph Classification  | GNNs  |  ICDM 2021 |  [Link](https://arxiv.org/abs/2110.08760) | [Link](https://github.com/TrustworthyGNN/MIA-GNN/)  |
+| 2021 | **Graph Structural Attack by Spectral Distance** | Attack | Node Classification  | GCN  |  Arxiv |  [Link](https://arxiv.org/abs/2111.00684) |   |
+| 2021 | **Structural A!ack against Graph Based Android Malware Detection** | Attack | Malware Detection  | Graph Based Android Malware Detector  |  CCS 2021 |  [Link](https://dl.acm.org/doi/abs/10.1145/3460120.3485387) |   |
+| 2021 | **Adversarial Attacks on Knowledge Graph Embeddings via Instance Attribution Methods** | Attack | Knowledge Graph Embeddings  | Knowledge Graph Embedding Models  |  EMNLP 2021 |  [Link](https://arxiv.org/abs/2111.03120) |  [Link](https://github.com/PeruBhardwaj/AttributionAttack) |
+| 2021 | **Adversarial Attack against Cross-lingual Knowledge Graph Alignment** | Attack | Knowledge Graph Alignment  | Knowledge Graph Embedding Models  |  EMNLP 2021 |  [Link](https://aclanthology.org/2021.emnlp-main.432/) |   |
 | 2021 | **Adversarial Attacks on Graph Classification via Bayesian Optimisation** | Attack | Graph Classification  | GNNs  |  NeurIPS 2021 |  [Link](https://arxiv.org/abs/2111.02842) | [Link](https://github.com/xingchenwan/grabnel)  |
 | 2021 | **Robustness of Graph Neural Networks at Scale** | Attack | Node Classification  | GNNs  |  NeurIPS 2021 |  [Link](https://arxiv.org/abs/2110.14038) | [Link](https://github.com/sigeisler/robustness_of_gnns_at_scale)  |
 | 2021 | **Large-Scale Adversarial Attacks on Graph Neural Networks via Graph Coarsening**  | Attack  |  Node Classification   |  GNNs |  ICLR 2022 OpenReview  | [Link](https://openreview.net/forum?id=NUzrPpDjWp) |   |
@@ -40,9 +45,9 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 | 2021 | **Understanding and Improving Graph Injection Attack by Promoting Unnoticeabilit**  | Attack  | Node Classification  | GNNs |  ICLR 2022 OpenReview  | [Link](https://openreview.net/forum?id=wkMG8cdvh7-) |   |
 | 2021 | **Bandits for Black-box Attacks to Graph Neural Networks with Structure Perturbation**  | Attack  | Node Classification  | GNNs |  ICLR 2022 OpenReview  | [Link](https://openreview.net/forum?id=6MFWE6u2b6R) |   |
 | 2021 | **Poisoning Attacks against Knowledge Graph-based Recommendation Systems Using Deep Reinforcement Learning**  | Attack  |   Knowledge Graph-based Recommender Systems | GNNs |  Neural Computing and Applications  | [Link](https://link.springer.com/article/10.1007/s00521-021-06573-8) |   |
-| 2021 | **FHA: Fast Heuristic Attack Against Graph Convolutional Networks**  | Attack  |   Node Classification | GNNs |  ICDS  | [Link](https://link.springer.com/chapter/10.1007/978-3-030-88942-5_12) |   |
+| 2021 | **FHA: Fast Heuristic Attack Against Graph Convolutional Networks**  | Attack  |   Node Classification | GNNs |  ICDS 2021 | [Link](https://link.springer.com/chapter/10.1007/978-3-030-88942-5_12) |   |
 | 2021 | **Inference Attacks Against Graph Neural Networks**  | Attack  |  Graph/Property Inference | GNNs | USENIX Security 2022  | [Link](https://arxiv.org/abs/2110.02631) |   [Link](https://github.com/Zhangzhk0819/GNN-Embedding-Leaks)|
-| 2021 | **Graph-Fraudster: Adversarial Attacks on Graph Neural Network Based Vertical Federated Learning**  | Attack  |  Node Classification, Federated Learning | GNNs | Arxiv 2021  | [Link](https://arxiv.org/abs/2110.06468) |   |
+| 2021 | **Graph-Fraudster: Adversarial Attacks on Graph Neural Network Based Vertical Federated Learning**  | Attack  |  Node Classification, Federated Learning | GNNs | Arxiv  | [Link](https://arxiv.org/abs/2110.06468) |   |
 | 2021 | **Query-based Adversarial Attacks on Graph with Fake Nodes**  | Attack  |  Node Classification| GCN | Arxiv  | [Link](https://arxiv.org/abs/2109.13069) | |
 | 2021 | **Single Node Injection Attack against Graph Neural Networks**  | Attack  |  Node Classification| GNNs | CIKM 2021  | [Link](https://arxiv.org/abs/2108.13049) | [Link](https://github.com/taoshuchang/g-nia)  |
 | 2021 | **Projective Ranking: A Transferable Evasion Attack Method on Graph Neural Networks**  | Attack  |  Graph Classification | GCN | CIKM 2021  | [Link](https://shiruipan.github.io/publication/cikm-21-zhang/cikm-21-zhang.pdf) |   |
@@ -165,6 +170,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Defense Papers 2021 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
+| 2021 | **Graph-based Adversarial Online Kernel Learning with Adaptive Embedding** | Defense | Node Classification  | Kernel Learning Models  |  ICDM 2021 |  | |
 | 2021 | **Generalization of Neural Combinatorial Solvers Through the Lens of Adversarial Robustness** | Defense | Combinatorial Optimization  | Combinatorial Solvers  |  NeurIPS 2021 |  [Link](https://arxiv.org/abs/2110.10942) | |
 | 2021 | **Defending Graph Neural Networks via Tensor-Based Robust Graph Aggregation** | Defense | Node Classification  | GNNs  |  ICLR 2022 OpenReview |  [Link](https://openreview.net/forum?id=BrfHcL-99sy) | |
 | 2021 | **Robust Graph Data Learning with Latent Graph Convolutional Representation** | Defense | Node Classification, Node Clustering  | GNNs  |  ICLR 2022 OpenReview |  [Link](https://openreview.net/forum?id=krQLTdel74N) | |
