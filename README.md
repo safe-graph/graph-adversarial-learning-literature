@@ -26,13 +26,16 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ## Quick Links
 **Attack papers sorted by year:** | [2021](#attack-papers-2021) | [2020](#attack-papers-2020-back-to-top) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2017](#attack-papers-2017-back-to-top) |
 
-**Defense papers sorted by year:** | [2021](#defense-papers-2021-back-to-top) | [2020](#defense-papers-2020-back-to-top) | [2019](#defense-papers-2019-back-to-top) | [2018](#defense-papers-2018-back-to-top) |
+**Defense papers sorted by year:** | [2022](#defense-papers-2022-back-to-top) | [2021](#defense-papers-2021-back-to-top) | [2020](#defense-papers-2020-back-to-top) | [2019](#defense-papers-2019-back-to-top) | [2018](#defense-papers-2018-back-to-top) |
 
 ## Attack
 
 ### Attack Papers 2021
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2021 | **Task and Model Agnostic Adversarial Attack on Graph Neural Networks** | Attack | Node Classification  | GNNs  |  Arxiv 2021 |  [Link](https://arxiv.org/abs/2112.13267) |  |
+| 2021 | **Model Stealing Attacks Against Inductive Graph Neural Networks** | Attack | Node Classification, Model Stealing  | GNNs  |  IEEE S&P 2022 |  [Link](https://arxiv.org/abs/2112.08331) | [Link](https://github.com/xinleihe/GNNStealing)  |
+| 2021 | **How Members of Covert Networks Conceal the Identities of Their Leaders** | Attack | Covert Network Leader Detection  | Centrality Measures  | ACM TIST 2021 |  [Link](https://dl.acm.org/doi/full/10.1145/3490462) |  |
 | 2021 | **Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications** | Attack | Graph Classification  | GNNs  |  ICDM 2021 |  [Link](https://arxiv.org/abs/2110.08760) | [Link](https://github.com/TrustworthyGNN/MIA-GNN/)  |
 | 2021 | **Graph Structural Attack by Spectral Distance** | Attack | Node Classification  | GCN  |  Arxiv |  [Link](https://arxiv.org/abs/2111.00684) |   |
 | 2021 | **Structural A!ack against Graph Based Android Malware Detection** | Attack | Malware Detection  | Graph Based Android Malware Detector  |  CCS 2021 |  [Link](https://dl.acm.org/doi/abs/10.1145/3460120.3485387) |   |
@@ -167,10 +170,19 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 
 ## Defense
 
+### Defense Papers 2022 [[Back to Top](#graph-adversarial-learning-literature)]
+| Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
+|-------|--------|--------|--------|-----------|------------|---------------|-------|
+| 2022 | **Mind Your Solver! On Adversarial Attack and Defense for Combinatorial Optimization** | Defense | Combinatorial Optimization  | Combinatorial Optimization Methods  |  Arxiv | [Link](https://arxiv.org/abs/2201.00402)  | |
+| 2022 | **Unsupervised Adversarially Robust Representation Learning on Graphs** | Defense | Node Classification, Link Prediction, Community Detection  | GNNs  |  AAAI 2022 | [Link](https://arxiv.org/abs/2012.02486)  | |
+
 ### Defense Papers 2021 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
+| 2021 | **Mind Your Solver! On Adversarial Attack and Defense for Combinatorial Optimization** | Defense | Combinatorial Optimization  | Combinatorial Optimization Methods  |  Arxiv | [Link](https://arxiv.org/abs/2201.00402)  | |
+| 2021 | **Robust Graph Neural Networks via Probabilistic Lipschitz Constraints** | Defense |  Decentralized Control  | GNNs  |  Arxiv | [Link](https://arxiv.org/abs/2112.07575) | |
 | 2021 | **Graph-based Adversarial Online Kernel Learning with Adaptive Embedding** | Defense | Node Classification  | Kernel Learning Models  |  ICDM 2021 |  | |
+| 2021 | **Not All Low-Pass Filters are Robust in Graph Convolutional Networks** | Defense | Node Classification  | GCN  |  NeurIPS 2021 | [Link](https://openreview.net/forum?id=bDdfxLQITtu) | |
 | 2021 | **Graph Neural Networks with Adaptive Residual** | Defense | Node Classification, Abnormal Features  | GNNs |  NeurIPS 2021 |  [Link](https://openreview.net/pdf?id=hfkER_KJiNw)| |
 | 2021 | **Generalization of Neural Combinatorial Solvers Through the Lens of Adversarial Robustness** | Defense | Combinatorial Optimization  | Combinatorial Solvers  |  NeurIPS 2021 |  [Link](https://arxiv.org/abs/2110.10942) | |
 | 2021 | **Defending Graph Neural Networks via Tensor-Based Robust Graph Aggregation** | Defense | Node Classification  | GNNs  |  ICLR 2022 OpenReview |  [Link](https://openreview.net/forum?id=BrfHcL-99sy) | |
