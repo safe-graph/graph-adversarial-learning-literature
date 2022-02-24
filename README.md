@@ -24,16 +24,25 @@ If you feel this repo is helpful, please cite the survey above.
 Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```Link Prediction```), model name (e.g., ```DeepWalk```), or method name (e.g., ```Robust```) over the webpage to quickly locate related papers.
 
 ## Quick Links
-**Attack papers sorted by year:** | [2021](#attack-papers-2021) | [2020](#attack-papers-2020-back-to-top) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2017](#attack-papers-2017-back-to-top) |
+**Attack papers sorted by year:** | [2022](#attack-papers-2022) | [2021](#attack-papers-2021) | [2020](#attack-papers-2020-back-to-top) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2017](#attack-papers-2017-back-to-top) |
 
 **Defense papers sorted by year:** | [2022](#defense-papers-2022-back-to-top) | [2021](#defense-papers-2021-back-to-top) | [2020](#defense-papers-2020-back-to-top) | [2019](#defense-papers-2019-back-to-top) | [2018](#defense-papers-2018-back-to-top) |
 
 ## Attack
 
+### Attack Papers 2022
+| Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
+|-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2022 | **Understanding and Improving Graph Injection Attack by Promoting Unnoticeabilit**  | Attack  | Node Classification  | GNNs |  ICLR 2022   | [Link](https://openreview.net/forum?id=wkMG8cdvh7-) |   |
+| 2022 | **Unsupervised Graph Poisoning Attack via Contrastive Loss Back-propagation** | Attack | Node Classification, Link Prediction   | GCN  |  Arxiv  |  [Link](https://arxiv.org/abs/2201.07986) | [Link](https://github.com/RinneSz/CLGA) |
+| 2022 | **Neighboring Backdoor Attacks on Graph Convolutional Network** | Attack | Node Classification   | GCN  |  Arxiv  |  [Link](https://arxiv.org/abs/2201.06202) |  |
+| 2022 | **Interpretable and Effective Reinforcement Learning for Attacking against Graph-based Rumor Detection** | Attack | Rumor Detection  | RGCN  |  Arxiv  |  [Link](https://arxiv.org/abs/2201.05819) |  |
+
+
 ### Attack Papers 2021
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
-| 2021 | **Task and Model Agnostic Adversarial Attack on Graph Neural Networks** | Attack | Node Classification  | GNNs  |  Arxiv 2021 |  [Link](https://arxiv.org/abs/2112.13267) |  |
+| 2021 | **Task and Model Agnostic Adversarial Attack on Graph Neural Networks** | Attack | Node Classification  | GNNs  |  Arxiv  |  [Link](https://arxiv.org/abs/2112.13267) |  |
 | 2021 | **Model Stealing Attacks Against Inductive Graph Neural Networks** | Attack | Node Classification, Model Stealing  | GNNs  |  IEEE S&P 2022 |  [Link](https://arxiv.org/abs/2112.08331) | [Link](https://github.com/xinleihe/GNNStealing)  |
 | 2021 | **How Members of Covert Networks Conceal the Identities of Their Leaders** | Attack | Covert Network Leader Detection  | Centrality Measures  | ACM TIST 2021 |  [Link](https://dl.acm.org/doi/full/10.1145/3490462) |  |
 | 2021 | **Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications** | Attack | Graph Classification  | GNNs  |  ICDM 2021 |  [Link](https://arxiv.org/abs/2110.08760) | [Link](https://github.com/TrustworthyGNN/MIA-GNN/)  |
@@ -46,7 +55,6 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 | 2021 | **Robustness of Graph Neural Networks at Scale** | Attack | Node Classification  | GNNs  |  NeurIPS 2021 |  [Link](https://arxiv.org/abs/2110.14038) | [Link](https://github.com/sigeisler/robustness_of_gnns_at_scale)  |
 | 2021 | **Large-Scale Adversarial Attacks on Graph Neural Networks via Graph Coarsening**  | Attack  |  Node Classification   |  GNNs |  ICLR 2022 OpenReview  | [Link](https://openreview.net/forum?id=NUzrPpDjWp) |   |
 | 2021 | **Mind Your Solver! On Adversarial Attack and Defense for Combinatorial Optimization**  | Attack  | Combinatorial Optimization  |  Combinatorial Optimization Solvers |  ICLR 2022 OpenReview  | [Link](https://openreview.net/forum?id=nKZvpGRdJlG) |   |
-| 2021 | **Understanding and Improving Graph Injection Attack by Promoting Unnoticeabilit**  | Attack  | Node Classification  | GNNs |  ICLR 2022 OpenReview  | [Link](https://openreview.net/forum?id=wkMG8cdvh7-) |   |
 | 2021 | **Bandits for Black-box Attacks to Graph Neural Networks with Structure Perturbation**  | Attack  | Node Classification  | GNNs |  ICLR 2022 OpenReview  | [Link](https://openreview.net/forum?id=6MFWE6u2b6R) |   |
 | 2021 | **Poisoning Attacks against Knowledge Graph-based Recommendation Systems Using Deep Reinforcement Learning**  | Attack  |   Knowledge Graph-based Recommender Systems | GNNs |  Neural Computing and Applications  | [Link](https://link.springer.com/article/10.1007/s00521-021-06573-8) |   |
 | 2021 | **FHA: Fast Heuristic Attack Against Graph Convolutional Networks**  | Attack  |   Node Classification | GNNs |  ICDS 2021 | [Link](https://link.springer.com/chapter/10.1007/978-3-030-88942-5_12) |   |
@@ -173,6 +181,9 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Defense Papers 2022 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
+| 2022 | **Robust Heterogeneous Graph Neural Networks against Adversarial Attacks** | Defense | Node Classification  | Heterogeneous GNNs  |  AAAI 2022 | [Link](http://shichuan.org/doc/132.pdf)  | |
+| 2022 | **How Does Bayesian Noisy Self-Supervision Defend Graph Convolutional Networks?** | Defense | Node Classification  | GNNs  |  Neural Processing Letters | [Link](https://link.springer.com/article/10.1007/s11063-022-10750-8)  | |
+| 2022 | **GARNET: Reduced-Rank Topology Learning for Robust and Scalable Graph Neural Networks** | Defense | Node Classification  | GNNs  |  Arxiv | [Link](https://arxiv.org/abs/2201.12741)  | |
 | 2022 | **Mind Your Solver! On Adversarial Attack and Defense for Combinatorial Optimization** | Defense | Combinatorial Optimization  | Combinatorial Optimization Methods  |  Arxiv | [Link](https://arxiv.org/abs/2201.00402)  | |
 | 2022 | **Unsupervised Adversarially Robust Representation Learning on Graphs** | Defense | Node Classification, Link Prediction, Community Detection  | GNNs  |  AAAI 2022 | [Link](https://arxiv.org/abs/2012.02486)  | |
 
@@ -187,7 +198,6 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 | 2021 | **Generalization of Neural Combinatorial Solvers Through the Lens of Adversarial Robustness** | Defense | Combinatorial Optimization  | Combinatorial Solvers  |  NeurIPS 2021 |  [Link](https://arxiv.org/abs/2110.10942) | |
 | 2021 | **Defending Graph Neural Networks via Tensor-Based Robust Graph Aggregation** | Defense | Node Classification  | GNNs  |  ICLR 2022 OpenReview |  [Link](https://openreview.net/forum?id=BrfHcL-99sy) | |
 | 2021 | **Robust Graph Data Learning with Latent Graph Convolutional Representation** | Defense | Node Classification, Node Clustering  | GNNs  |  ICLR 2022 OpenReview |  [Link](https://openreview.net/forum?id=krQLTdel74N) | |
-| 2021 | **GARNET: A Spectral Approach to Robust and Scalable Graph Neural Networks** | Defense | Node Classification  | GNNs  |  ICLR 2022 OpenReview |  [Link](https://openreview.net/forum?id=UeRmyymo3kb) | |
 | 2021 | **Edge Rewiring Goes Neural: Boosting Network Resilience via Policy Gradient** | Defense | Graph Resilience  | GNNs  |  ICLR 2022 OpenReview |  [Link](https://openreview.net/forum?id=eVzy-BWKY6Z) | | 
 | 2021 | **On the Relationship between Heterophily and Robustness of Graph Neural Networks** | Defense | Node Classification  | GNNs  |  ICLR 2022 OpenReview |  [Link](https://openreview.net/forum?id=Nus6fOfh1HW) | | 
 | 2021 | **A General Unified Graph Neural Network Framework Against Adversarial Attacks** | Defense | Node Classification  | GNNs  |  ICLR 2022 OpenReview |  [Link](https://openreview.net/forum?id=bpUHBc9HCU8) | | 
