@@ -33,6 +33,10 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Attack Papers 2022
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2022 | **Adversarial Robustness of Graph-based Anomaly Detection**  | Attack  |  Anomaly Detection   | GNNs |  Arxiv   | [Link](https://arxiv.org/abs/2206.08260) |   |
+| 2022 | **Label specificity attack: Change your label as I want**  | Attack  |  Node Classification   | GNNs |  IJIS   | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/int.22902) |   |
+| 2022 | **Bandits for Structure Perturbation-based Black-box Attacks to Graph Neural Networks with Theoretical Guarantees**  | Attack  |  Node Classification  | GNNs |  CVPR 2022   | [Link](https://arxiv.org/abs/2205.03546) | [Link](https://github.com/Metaoblivion/Bandit_GNN_Attack)  |
+| 2022 | **AdverSparse: An Adversarial Attack Framework for Deep Spatial-Temporal Graph Neural Networks**  | Attack  |  Spatial-Temporal Graph Embedding   | Deep Spatial-Temporal GNNs |  ICASSP 2022   | [Link](https://ieeexplore.ieee.org/abstract/document/9747850) |   |
 | 2022 | **Projective Ranking-based GNN Evasion Attacks**  | Attack  |  Graph Classification  | GNNs |  Arxiv   | [Link](https://arxiv.org/abs/2202.12993) |   |
 | 2022 | **Attacking Community Detectors: Mislead Detectors via Manipulating the Graph Structure**  | Attack  |  Community Detection  | Community Detection Algs, GNNs |  MobiCASE 2021   | [Link](https://link.springer.com/chapter/10.1007/978-3-030-99203-3_8) |   |
 | 2022 | **A Targeted Universal Attack on Graph Convolutional Network by Using Fake Nodes**  | Attack  |  Node Classification  | GCN |  Neural Processing Letters   | [Link](https://link.springer.com/article/10.1007/s11063-022-10764-2) | [Link](https://github.com/Nanyuu/TUA)  |
@@ -185,6 +189,14 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Defense Papers 2022 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
+| 2022 | **Reliable Representations Make A Stronger Defender: Unsupervised Structure Refinement for Robust GNN** | Defense | Node Classification  | GNNs  |  KDD 2022 | [Link](https://ponderly.github.io/pub/STABLE_KDD2022.pdf)  | |
+| 2022 | **Robust Graph Representation Learning for Local Corruption Recovery** | Defense | Node Attribute Recovery  | GNNs  |  ICML 2022 Workshop | [Link](https://yuguangwang.github.io/papers/L_p_graph_regularizer_ICML%20TAG%202022.pdf)  | |
+| 2022 | **Appearance and Structure Aware Robust Deep Visual Graph Matching: Attack, Defense and Beyond** | Defense | Graph Matching  | Graph Matching Algs  |  CVPR 2022 | [Link](https://openaccess.thecvf.com/content/CVPR2022/html/Ren_Appearance_and_Structure_Aware_Robust_Deep_Visual_Graph_Matching_Attack_CVPR_2022_paper.html)  | [Link](https://github.com/Thinklab-SJTU/RobustMatch) |
+| 2022 | **Large-Scale Privacy-Preserving Network Embedding against Private Link Inference Attacks** | Defense | Privacy Protection  | Network Embedding Algs  |  Arxiv | [Link](https://arxiv.org/abs/2205.14440)  | |
+| 2022 | **Detecting Topology Attacks against Graph Neural Networks** | Defense | Node Classification  | GNNs  | Arxiv | [Link](https://arxiv.org/abs/2204.10072)  |  |
+| 2022 | **GUARD: Graph Universal Adversarial Defense** | Defense | Node Classification  | GNNs  | Arxiv | [Link](https://arxiv.org/abs/2204.09803)  | [Link](https://github.com/EdisonLeeeee/GUARD) |
+| 2022 | **Robust Graph Neural Networks via Ensemble Learning** | Defense | Node Classification  | GNNs  | Mathematics | [Link](https://www.mdpi.com/2227-7390/10/8/1300/htm)  | |
+| 2022 | **AN-GCN: An Anonymous Graph Convolutional Network Against Edge-Perturbing Attacks** | Defense | Node Classification  | GNNs  |  IEEE TNNLS | [Link](https://ieeexplore.ieee.org/abstract/document/9775013)  | |
 | 2022 | **Exploring High-Order Structure for Robust Graph Structure Learning** | Defense | Node Classification  | GNNs  |  Arxiv | [Link](https://arxiv.org/abs/2203.11492)  | |
 | 2022 | **Defending Graph Convolutional Networks against Dynamic Graph Perturbations via Bayesian Self-supervision** | Defense | Node Classification  | GNNs  |  AAAI 2022 | [Link](https://arxiv.org/abs/2203.03762)  | [Link](https://github.com/junzhuang-code/GraphSS) |
 | 2022 | **Graph alternate learning for robust graph neural networks in node classification** | Defense | Node Classification  | GNNs  |  Neural Computing and Applications| [Link](https://link.springer.com/article/10.1007/s00521-021-06863-1)  |  |
