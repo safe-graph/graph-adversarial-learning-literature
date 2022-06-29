@@ -34,6 +34,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
 | 2022 | **Adversarial Robustness of Graph-based Anomaly Detection**  | Attack  |  Anomaly Detection   | GNNs |  Arxiv   | [Link](https://arxiv.org/abs/2206.08260) |   |
+| 2022 | **Adversarial Attack Framework on Graph Embedding Models with Limited Knowledge**  | Attack  |  Node Classification   | GNNs |  Preprint   | [Link](https://www.researchgate.net/publication/351901618_Adversarial_Attack_Framework_on_Graph_Embedding_Models_with_Limited_Knowledge) |   |
 | 2022 | **Label specificity attack: Change your label as I want**  | Attack  |  Node Classification   | GNNs |  IJIS   | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/int.22902) |   |
 | 2022 | **Bandits for Structure Perturbation-based Black-box Attacks to Graph Neural Networks with Theoretical Guarantees**  | Attack  |  Node Classification  | GNNs |  CVPR 2022   | [Link](https://arxiv.org/abs/2205.03546) | [Link](https://github.com/Metaoblivion/Bandit_GNN_Attack)  |
 | 2022 | **AdverSparse: An Adversarial Attack Framework for Deep Spatial-Temporal Graph Neural Networks**  | Attack  |  Spatial-Temporal Graph Embedding   | Deep Spatial-Temporal GNNs |  ICASSP 2022   | [Link](https://ieeexplore.ieee.org/abstract/document/9747850) |   |
