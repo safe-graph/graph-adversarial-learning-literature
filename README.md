@@ -30,7 +30,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 
 ## Attack
 
-### Attack Papers 2022
+### Attack Papers 2022 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
 | 2022 | **Adversarial Robustness of Graph-based Anomaly Detection**  | Attack  |  Anomaly Detection   | GNNs |  Arxiv   | [Link](https://arxiv.org/abs/2206.08260) |   |
@@ -47,7 +47,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 | 2022 | **Interpretable and Effective Reinforcement Learning for Attacking against Graph-based Rumor Detection** | Attack | Rumor Detection  | RGCN  |  Arxiv  |  [Link](https://arxiv.org/abs/2201.05819) |  |
 
 
-### Attack Papers 2021
+### Attack Papers 2021 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
 | 2021 | **Task and Model Agnostic Adversarial Attack on Graph Neural Networks** | Attack | Node Classification  | GNNs  |  Arxiv  |  [Link](https://arxiv.org/abs/2112.13267) |  |
