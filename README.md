@@ -24,7 +24,7 @@ If you feel this repo is helpful, please cite the survey above.
 Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```Link Prediction```), model name (e.g., ```DeepWalk```), or method name (e.g., ```Robust```) over the webpage to quickly locate related papers.
 
 ## Quick Links
-**Attack papers sorted by year:** | [2022](#attack-papers-2022) | [2021](#attack-papers-2021) | [2020](#attack-papers-2020-back-to-top) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2017](#attack-papers-2017-back-to-top) |
+**Attack papers sorted by year:** | [2022](#attack-papers-2022-back-to-top) | [2021](#attack-papers-2021-back-to-top) | [2020](#attack-papers-2020-back-to-top) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2017](#attack-papers-2017-back-to-top) |
 
 **Defense papers sorted by year:** | [2022](#defense-papers-2022-back-to-top) | [2021](#defense-papers-2021-back-to-top) | [2020](#defense-papers-2020-back-to-top) | [2019](#defense-papers-2019-back-to-top) | [2018](#defense-papers-2018-back-to-top) |
 
@@ -33,6 +33,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Attack Papers 2022 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2022 | **Cluster Attack: Query-based Adversarial Attacks on Graphs with Graph-Dependent Priors**  | Attack  |  Node Classification  | GNNs |  IJCAI 2022   | [Link](https://arxiv.org/abs/2109.13069) | [Link](https://github.com/thuwzy/Cluster-Attack)  |
 | 2022 | **Adversarial Robustness of Graph-based Anomaly Detection**  | Attack  |  Anomaly Detection   | GNNs |  Arxiv   | [Link](https://arxiv.org/abs/2206.08260) |   |
 | 2022 | **Adversarial Attack Framework on Graph Embedding Models with Limited Knowledge**  | Attack  |  Node Classification   | GNNs |  Preprint   | [Link](https://www.researchgate.net/publication/351901618_Adversarial_Attack_Framework_on_Graph_Embedding_Models_with_Limited_Knowledge) |   |
 | 2022 | **Label specificity attack: Change your label as I want**  | Attack  |  Node Classification   | GNNs |  IJIS   | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/int.22902) |   |
