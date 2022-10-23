@@ -7,14 +7,26 @@ Papers are sorted by their uploaded dates in descending order.
 
 This **monthly-updated** list serves as a complement of the survey below.
 
-[**Adversarial Attack and Defense on Graph Data: A Survey** ](https://arxiv.org/abs/1812.10528) **(Updated in July 2020. More than 110 papers reviewed).**
+[**Adversarial Attack and Defense on Graph Data: A Survey** ](https://arxiv.org/abs/1812.10528) **(Updated in Oct 2022. More than 110 papers reviewed).**
 
+- Arxiv Version (Latest)
 ```bibtex
 @article{sun2018adversarial,
   title={Adversarial Attack and Defense on Graph Data: A Survey},
-  author={Sun, Lichao and Dou, Yingtong and Yang, Carl and Wang, Ji and Yu, Philip S. and He, Lifang and Li, Bo},
+  author={Sun, Lichao and Dou, Yingtong and Yang, Carl and Kai Zhang and Wang, Ji and Yixin Liu and Yu, Philip S. and He, Lifang and Li, Bo},
   journal={arXiv preprint arXiv:1812.10528},
   year={2018}
+}
+```
+
+- TKDE Version
+```bibtex
+@article{sun2022adversarial,
+  title={Adversarial attack and defense on graph data: A survey},
+  author={Sun, Lichao and Dou, Yingtong and Yang, Carl and Zhang, Kai and Wang, Ji and Philip, S Yu and He, Lifang and Li, Bo},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2022},
+  publisher={IEEE}
 }
 ```
 
