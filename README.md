@@ -45,6 +45,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 ### Attack Papers 2022 [[Back to Top](#graph-adversarial-learning-literature)]
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Paper        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
+| 2022 | **Poisoning GNN-based Recommender Systems with Generative Surrogate-based Attacks**  | Attack  |  Promotion/Recommendation/Re-producing | GNNs |  ACM Transactions on Information Systems 2022   | [Link](https://dl.acm.org/doi/abs/10.1145/3567420) |  |
 | 2022 | **Transferable Graph Backdoor Attack**  | Attack  |  Graph Classification  | GNNs |  RAID 2022   | [Link](https://arxiv.org/abs/2207.00425) |  |
 | 2022 | **Cluster Attack: Query-based Adversarial Attacks on Graphs with Graph-Dependent Priors**  | Attack  |  Node Classification  | GNNs |  IJCAI 2022   | [Link](https://arxiv.org/abs/2109.13069) | [Link](https://github.com/thuwzy/Cluster-Attack)  |
 | 2022 | **Adversarial Robustness of Graph-based Anomaly Detection**  | Attack  |  Anomaly Detection   | GNNs |  Arxiv   | [Link](https://arxiv.org/abs/2206.08260) |   |
