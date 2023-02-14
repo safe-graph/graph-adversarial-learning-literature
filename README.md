@@ -41,11 +41,19 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 
 ## Quick Links
 
-**Attack papers sorted by year:** | [2022](#attack-papers-2022-back-to-top) | [2021](#attack-papers-2021-back-to-top) | [2020](#attack-papers-2020-back-to-top) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2017](#attack-papers-2017-back-to-top) |
+**Attack papers sorted by year:** | [2023](#attack-papers-2023-back-to-top) | [2022](#attack-papers-2022-back-to-top) | [2021](#attack-papers-2021-back-to-top) | [2020](#attack-papers-2020-back-to-top) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2017](#attack-papers-2017-back-to-top) |
 
 **Defense papers sorted by year:** | [2022](#defense-papers-2022-back-to-top) | [2021](#defense-papers-2021-back-to-top) | [2020](#defense-papers-2020-back-to-top) | [2019](#defense-papers-2019-back-to-top) | [2018](#defense-papers-2018-back-to-top) |
 
 ## Attack
+
+### Attack Papers 2023 [[Back to Top](#graph-adversarial-learning-literature)]
+
+| Year | Title                                                        | Type   | Target Task                                     | Target Model                                                 | Venue                                                   | Paper                                                        | Code                                                         |
+| ---- | ------------------------------------------------------------ | ------ | ----------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|   2023 | **Adversary for Social Good: Leveraging Attribute-Obfuscating Attack to Protect User Privacy on Social Networks** | Attack | Attribute Protection On Social Networks | GNNs           | SecureComm 2022 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-25538-0_37) |                                                                         |
+|   2023 | **Node Injection for Class-specific Network Poisoning**                                                           | Attack | Node Classification                     | GCN            | arXiv                                            | [Link](https://arxiv.org/abs/2301.12277)                               | [Link](https://github.com/rahulk207/nicki)                                      |
+|   2023 | **GUAP: Graph Universal Attack Through Adversarial Patching**                                                     | Attack | Node Classification                     | GCN            | arXiv                                            | [Link](https://arxiv.org/abs/2301.01731)                               | [Link](https://anonymous.4open.science/r/ffd4fad9-367f-4a2a-bc65-1a7fe23d9d7f/) |
 
 ### Attack Papers 2022 [[Back to Top](#graph-adversarial-learning-literature)]
 
@@ -247,6 +255,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 
 | Year | Title                                                        | Type    | Target Task                                               | Target Model                                                 | Venue                                             | Paper                                                        | Code                                                         |
 | ---- | ------------------------------------------------------------ | ------- | --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|   2022 | **Privacy Protection for Marginal-Sensitive Community Individuals Against Adversarial Community Detection Attacks** | Defense | Community Detection | DICE, Random Target Attack (RTA) | IEEE Transactions on Computational Social Systems | [Link](https://ieeexplore.ieee.org/abstract/document/9997230/) |        |
 | 2022 | **DeepInsight: Topology Changes Assisting Detection of Adversarial Samples on Graphs** | Defense | Node Classification                                       | Two-layer GCNs                                               | IEEE Transactions on Computational Social Systems | [Link](https://ieeexplore.ieee.org/abstract/document/9931416) |                                                              |
 | 2022 | **ERGCN: Data enhancement-based robust graph convolutional network against adversarial attacks** | Defense | Information Sciences                                      | Node Classification                                          | GCN/GCN-Jaccard/RGGCN/Pro-GNN/SimP-GCN/EGCN       | [Link](https://www.sciencedirect.com/science/article/pii/S0020025522012415) | [Link](https://github.com/star4455/ERGCN)                    |
 | 2022 | **On the Vulnerability of Graph Learning based Collaborative Filtering** | Defense | Graph Learning based Collaborative Filtering              | NGCF/LightGCN                                                | ACM Transactions on Information Systems           | [Link](https://dl.acm.org/doi/abs/10.1145/3572834)           |                                                              |
