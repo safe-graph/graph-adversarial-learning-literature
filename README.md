@@ -51,6 +51,10 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 
 | Year | Title                                                        | Type   | Target Task                                     | Target Model                                                 | Venue                                                   | Paper                                                        | Code                                                         |
 | ---- | ------------------------------------------------------------ | ------ | ----------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+ | 2023 | **Unnoticeable Backdoor Attacks on Graph Neural Networks**| Attack | Node classification, Graph classification |  GCN, GraphSage, and GAT |  ArXiv | [Link](https://arxiv.org/abs/2303.01263) | [Link](https://github.com/ventr1c/UGBA)
+ | 2023 | **Attacking Fake News Detectors via Manipulating News Social Engagement**  | Attack | Fake News Detection| GAT, GCN, and GraphSAGE) | WWW'23 | [Link](https://arxiv.org/pdf/2302.07363.pdf) | [Link](https://github.com/hwang219/AttackFakeNews)
+ | 2023 | **HyperAttack: Multi-Gradient-Guided White-box Adversarial Structure Attack of Hypergraph Neural Networks** | Attack | Node Classification | HGNNs | ArXiv | [Link](https://arxiv.org/abs/2302.12407) | 
+ | 2023 | **Turning Strengths into Weaknesses: A Certified Robustness Inspired Attack Framework against Graph Neural Networks** | Attack | Node Classification | GCN | CVPR'23 | [Link](https://arxiv.org/abs/2303.06199) | 
 |   2023 | **Adversary for Social Good: Leveraging Attribute-Obfuscating Attack to Protect User Privacy on Social Networks** | Attack | Attribute Protection On Social Networks | GNNs           | SecureComm 2022 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-25538-0_37) |                                                                         |
 |   2023 | **Node Injection for Class-specific Network Poisoning**                                                           | Attack | Node Classification                     | GCN            | arXiv                                            | [Link](https://arxiv.org/abs/2301.12277)                               | [Link](https://github.com/rahulk207/nicki)                                      |
 |   2023 | **GUAP: Graph Universal Attack Through Adversarial Patching**                                                     | Attack | Node Classification                     | GCN            | arXiv                                            | [Link](https://arxiv.org/abs/2301.01731)                               | [Link](https://anonymous.4open.science/r/ffd4fad9-367f-4a2a-bc65-1a7fe23d9d7f/) |
@@ -250,6 +254,12 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 | 2017 | **Adversarial Sets for Regularising Neural Link Predictors** | Attack | Link Prediction  | Knowledge Graph Embeddings             | UAI 2017 | [Link](https://arxiv.org/abs/1707.07596) | [Link](https://github.com/uclmr/inferbeddings) |
 
 ## Defense
+
+### Defense Papers 2023 [[Back to Top](#graph-adversarial-learning-literature)]
+
+| Year | Title                                                        | Type    | Target Task                                               | Target Model                                                 | Venue                                             | Paper                                                        | Code                                                         |
+| ---- | ------------------------------------------------------------ | ------- | --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2023 | **Adversarial Danger Identification on Temporally Dynamic Graph** | Defense | Temporally Dynamic Graphs | Hybrid GNN-based time series classifier | IEEE Transactions on Neural Networks and Learning Systems | [Link](https://ieeexplore.ieee.org/abstract/document/10068359) | 
 
 ### Defense Papers 2022 [[Back to Top](#graph-adversarial-learning-literature)]
 
