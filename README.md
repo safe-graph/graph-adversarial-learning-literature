@@ -259,6 +259,7 @@ Search keywords like conference name (e.g., ```NeurIPS```), task name (e.g., ```
 
 | Year | Title                                                        | Type    | Target Task                                               | Target Model                                                 | Venue                                             | Paper                                                        | Code                                                         |
 | ---- | ------------------------------------------------------------ | ------- | --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2023 | **Empowering Graph Representation Learning with Test-Time Graph Transformation** | Defense | Node Classification | GCN |  ICLR | [Link](https://openreview.net/forum?id=Lnxl5pr018) | [Link](https://github.com/ChandlerBang/GTrans)|
 | 2023 | **Adversarial Danger Identification on Temporally Dynamic Graph** | Defense | Temporally Dynamic Graphs | Hybrid GNN-based time series classifier | IEEE Transactions on Neural Networks and Learning Systems | [Link](https://ieeexplore.ieee.org/abstract/document/10068359) | 
 
 ### Defense Papers 2022 [[Back to Top](#graph-adversarial-learning-literature)]
