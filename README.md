@@ -1,10 +1,14 @@
-# Graph Adversarial Learning Literature
+<div align="center">
+    <h1>Awesome Graph Adversarial Learning Literature</h1>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
+    <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/></a>
+</div>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-A curated list of adversarial attacks and defenses papers on graph-structured data.
+A curated list of adversarial attacks and defenses papers on graph-structured data. 
 
 Papers are sorted by their uploaded dates in descending order.
+
+If you want to add new entries, please make PRs with the same format.
 
 This list serves as a complement to the survey below.
 
